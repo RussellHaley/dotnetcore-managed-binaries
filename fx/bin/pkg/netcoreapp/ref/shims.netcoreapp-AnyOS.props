@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/mscorlib.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/netstandard.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.ComponentModel.Composition.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.ComponentModel.DataAnnotations.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Configuration.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Core.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Data.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Drawing.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.IO.Compression.FileSystem.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Net.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Numerics.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Runtime.Serialization.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Security.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.ServiceModel.Web.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.ServiceProcess.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Transactions.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Web.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Windows.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Xml.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Xml.Linq.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/System.Xml.Serialization.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin/obj/shims/netcoreapp/facades/WindowsBase.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+  </ItemGroup>
+</Project>

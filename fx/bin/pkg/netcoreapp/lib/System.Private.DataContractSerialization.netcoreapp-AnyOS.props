@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Private.DataContractSerialization\netcoreapp\System.Private.DataContractSerialization.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Private.DataContractSerialization\netcoreapp\System.Private.DataContractSerialization.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Private.DataContractSerialization\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Private.DataContractSerialization/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Private.DataContractSerialization\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Private.DataContractSerialization/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\CodeDom\CodeObject.cs">
+      <TargetPath>sources/src/Common/src/System/CodeDom/CodeObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\CodeDom\CodeTypeReference.cs">
+      <TargetPath>sources/src/Common/src/System/CodeDom/CodeTypeReference.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\CodeDom\CodeTypeReferenceCollection.cs">
+      <TargetPath>sources/src/Common/src/System/CodeDom/CodeTypeReferenceCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\HResults.cs">
+      <Link>Common\System\HResults.cs</Link>
+      <TargetPath>sources/src/Common/src/System/HResults.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\NotImplemented.cs">
+      <Link>Common\System\NotImplemented.cs</Link>
+      <TargetPath>sources/src/Common/src/System/NotImplemented.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\AccessorBuilder.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/AccessorBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Attributes.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Attributes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\BitFlagsGenerator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/BitFlagsGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ClassDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ClassDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\CodeGenerator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/CodeGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\CollectionDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/CollectionDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DataContractResolver.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DataContractResolver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DataContractSerializer.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DataContractSerializer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DataContractSerializerExtensions.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DataContractSerializerExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DataContractSerializerSettings.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DataContractSerializerSettings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DataContractSet.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DataContractSet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DataContractSurrogateCaller.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DataContractSurrogateCaller.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DataMember.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DataMember.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DateTimeOffsetAdapter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DateTimeOffsetAdapter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DiagnosticUtility.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DiagnosticUtility.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\DictionaryGlobals.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/DictionaryGlobals.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\EnumDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/EnumDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ExportOptions.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ExportOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ExtensionDataObject.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ExtensionDataObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ExtensionDataReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ExtensionDataReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\GenericParameterDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/GenericParameterDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Globals.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Globals.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\HybridObjectCache.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/HybridObjectCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\IExtensibleDataObject.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/IExtensibleDataObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\ByteArrayHelperWithString.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/ByteArrayHelperWithString.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\DataContractJsonSerializer.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/DataContractJsonSerializer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\DataContractJsonSerializerSettings.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/DataContractJsonSerializerSettings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\DateTimeFormat.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/DateTimeFormat.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\EmitTypeInformation.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/EmitTypeInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\IXmlJsonReaderInitializer.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/IXmlJsonReaderInitializer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\IXmlJsonWriterInitializer.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/IXmlJsonWriterInitializer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonByteArrayDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonByteArrayDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonClassDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonClassDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonCollectionDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonCollectionDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonEncodingStreamWrapper.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonEncodingStreamWrapper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonEnumDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonEnumDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonFormatGeneratorStatics.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonFormatGeneratorStatics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonFormatReaderGenerator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonFormatReaderGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonFormatWriterGenerator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonFormatWriterGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonGlobals.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonGlobals.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonNodeType.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonNodeType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonObjectDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonObjectDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonQNameDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonQNameDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonReaderDelegator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonReaderDelegator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonReaderWriterFactory.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonReaderWriterFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonStringDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonStringDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonUriDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonUriDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonWriterDelegator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonWriterDelegator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\JsonXmlDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/JsonXmlDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\ReflectionJsonFormatReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/ReflectionJsonFormatReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\ReflectionJsonFormatWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/ReflectionJsonFormatWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\XmlJsonReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/XmlJsonReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\XmlJsonWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/XmlJsonWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\XmlObjectSerializerReadContextComplexJson.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/XmlObjectSerializerReadContextComplexJson.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\Json\XmlObjectSerializerWriteContextComplexJson.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/Json/XmlObjectSerializerWriteContextComplexJson.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\KnownTypeDataContractResolver.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/KnownTypeDataContractResolver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ObjectReferenceStack.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ObjectReferenceStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ObjectToIdCache.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ObjectToIdCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\PrimitiveDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/PrimitiveDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ReflectionClassWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ReflectionClassWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ReflectionReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ReflectionReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ReflectionXmlFormatReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ReflectionXmlFormatReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ReflectionXmlFormatWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ReflectionXmlFormatWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\SchemaExporter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/SchemaExporter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\SchemaHelper.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/SchemaHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\ScopedKnownTypes.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/ScopedKnownTypes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\SerializationMode.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/SerializationMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\SerializationOption.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/SerializationOption.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\SpecialTypeDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/SpecialTypeDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\SurrogateDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/SurrogateDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\TypeCode.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/TypeCode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlDataContract.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlDataContract.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlFormatGeneratorStatics.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlFormatGeneratorStatics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlFormatReaderGenerator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlFormatReaderGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlFormatWriterGenerator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlFormatWriterGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlObjectSerializer.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlObjectSerializer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlObjectSerializerContext.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlObjectSerializerContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlObjectSerializerReadContext.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlObjectSerializerReadContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlObjectSerializerReadContextComplex.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlObjectSerializerReadContextComplex.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlObjectSerializerWriteContext.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlObjectSerializerWriteContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlObjectSerializerWriteContextComplex.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlObjectSerializerWriteContextComplex.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlReaderDelegator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlReaderDelegator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlSerializableReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlSerializableReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlSerializableServices.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlSerializableServices.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlSerializableWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlSerializableWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XmlWriterDelegator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XmlWriterDelegator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XPathQueryGenerator.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XPathQueryGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Runtime\Serialization\XsdDataContractExporter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Runtime/Serialization/XsdDataContractExporter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Text\Base64Encoding.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Text/Base64Encoding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Text\BinHexEncoding.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Text/BinHexEncoding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Text\SurrogateChar.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Text/SurrogateChar.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\ArrayHelper.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/ArrayHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\BytesWithOffset.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/BytesWithOffset.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\EncodingStreamWrapper.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/EncodingStreamWrapper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\IFragmentCapableXmlDictionaryWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/IFragmentCapableXmlDictionaryWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\IStreamProvider.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/IStreamProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\IXmlDictionary.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/IXmlDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\PrefixHandle.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/PrefixHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\StringHandle.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/StringHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\UniqueId.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/UniqueId.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\ValueHandle.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/ValueHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlBaseReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlBaseReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlBaseWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlBaseWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlBinaryNodeType.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlBinaryNodeType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlBinaryReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlBinaryReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlBinaryReaderSession.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlBinaryReaderSession.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlBinaryWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlBinaryWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlBinaryWriterSession.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlBinaryWriterSession.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlBufferReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlBufferReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlCanonicalWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlCanonicalWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlConverter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlDictionary.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlDictionaryAsyncCheckWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlDictionaryAsyncCheckWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlDictionaryReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlDictionaryReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlDictionaryReaderQuotas.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlDictionaryReaderQuotas.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlDictionaryString.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlDictionaryString.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlDictionaryWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlDictionaryWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlExceptionHelper.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlExceptionHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlNodeWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlNodeWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlSigningNodeWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlSigningNodeWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlStreamNodeWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlStreamNodeWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlUTF8TextReader.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlUTF8TextReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.DataContractSerialization\src\System\Xml\XmlUTF8TextWriter.cs">
+      <TargetPath>sources/src/System.Private.DataContractSerialization/src/System/Xml/XmlUTF8TextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

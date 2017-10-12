@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Encoding\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.Cryptography.Encoding/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Encoding\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.Cryptography.Encoding/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Encoding\netcoreapp\System.Security.Cryptography.Encoding.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Encoding\netcoreapp\System.Security.Cryptography.Encoding.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\Windows\CryptoThrowHelper.cs">
+      <Link>Internal\Cryptography\Windows\CryptoThrowHelper.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/Windows/CryptoThrowHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Cng.cs">
+      <Link>Common\Interop\Windows\BCrypt\Cng.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Cng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptPropertyStrings.cs">
+      <Link>Common\Interop\Windows\BCrypt\Interop.BCryptPropertyStrings.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptPropertyStrings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.FindOidInfo.cs">
+      <Link>Common\Interop\Windows\Crypt32\Interop.FindOidInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.FindOidInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FormatMessage.cs">
+      <Link>Internal\Windows\kernel32\Interop.FormatMessage.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FormatMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\Internal\Cryptography\AsnFormatter.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/Internal/Cryptography/AsnFormatter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\Internal\Cryptography\AsnFormatter.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/Internal/Cryptography/AsnFormatter.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\Internal\Cryptography\CngAsnFormatter.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/Internal/Cryptography/CngAsnFormatter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\Internal\Cryptography\Helpers.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/Internal/Cryptography/Helpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\Internal\Cryptography\OidLookup.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/Internal/Cryptography/OidLookup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\Internal\Cryptography\OidLookup.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/Internal/Cryptography/OidLookup.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\System\Security\Cryptography\AsnEncodedData.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/System/Security/Cryptography/AsnEncodedData.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\System\Security\Cryptography\AsnEncodedDataCollection.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/System/Security/Cryptography/AsnEncodedDataCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\System\Security\Cryptography\AsnEncodedDataEnumerator.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/System/Security/Cryptography/AsnEncodedDataEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\System\Security\Cryptography\Base64Transforms.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/System/Security/Cryptography/Base64Transforms.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\System\Security\Cryptography\Oid.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/System/Security/Cryptography/Oid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\System\Security\Cryptography\OidCollection.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/System/Security/Cryptography/OidCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\System\Security\Cryptography\OidEnumerator.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/System/Security/Cryptography/OidEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Encoding\src\System\Security\Cryptography\OidGroup.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Encoding/src/System/Security/Cryptography/OidGroup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.ComponentModel\netcoreapp\System.ComponentModel.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.ComponentModel\netcoreapp\System.ComponentModel.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.ComponentModel\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.ComponentModel/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel\src\System\ComponentModel\CancelEventArgs.cs">
+      <TargetPath>sources/src/System.ComponentModel/src/System/ComponentModel/CancelEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel\src\System\ComponentModel\IChangeTracking.cs">
+      <TargetPath>sources/src/System.ComponentModel/src/System/ComponentModel/IChangeTracking.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel\src\System\ComponentModel\IEditableObject.cs">
+      <TargetPath>sources/src/System.ComponentModel/src/System/ComponentModel/IEditableObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel\src\System\ComponentModel\IRevertibleChangeTracking.cs">
+      <TargetPath>sources/src/System.ComponentModel/src/System/ComponentModel/IRevertibleChangeTracking.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel\src\System\IServiceProvider.cs">
+      <TargetPath>sources/src/System.ComponentModel/src/System/IServiceProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

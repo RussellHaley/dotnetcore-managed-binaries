@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Diagnostics.TraceSource\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Diagnostics.TraceSource/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Diagnostics.TraceSource\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Diagnostics.TraceSource/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.TraceSource\netcoreapp\System.Diagnostics.TraceSource.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.TraceSource\netcoreapp\System.Diagnostics.TraceSource.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentProcessId.cs">
+      <Link>Common\Interop\Windows\Interop.GetCurrentProcessId.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentProcessId.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\FxCopBaseline.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/FxCopBaseline.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\BooleanSwitch.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/BooleanSwitch.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\CorrelationManager.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/CorrelationManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\DefaultTraceListener.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/DefaultTraceListener.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\DiagnosticsConfiguration.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/DiagnosticsConfiguration.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\SeverityFilter.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/SeverityFilter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\SourceFilter.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/SourceFilter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\SourceLevels.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/SourceLevels.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\SourceSwitch.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/SourceSwitch.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\Switch.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/Switch.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\SwitchAttribute.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/SwitchAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\SwitchLevelAttribute.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/SwitchLevelAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\Trace.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/Trace.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceEventCache.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceEventCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceEventCache.Windows.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceEventCache.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceEventType.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceEventType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceFilter.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceFilter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceInternal.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceInternal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceLevel.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceListener.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceListener.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceListeners.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceListeners.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceOptions.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceSource.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.TraceSource\src\System\Diagnostics\TraceSwitch.cs">
+      <TargetPath>sources/src/System.Diagnostics.TraceSource/src/System/Diagnostics/TraceSwitch.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Security.Principal\netcoreapp\System.Security.Principal.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Security.Principal\netcoreapp\System.Security.Principal.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Security.Principal\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Security.Principal/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal\src\System\Security\Principal\IIdentity.cs">
+      <TargetPath>sources/src/System.Security.Principal/src/System/Security/Principal/IIdentity.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal\src\System\Security\Principal\IPrincipal.cs">
+      <TargetPath>sources/src/System.Security.Principal/src/System/Security/Principal/IPrincipal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal\src\System\Security\Principal\PrincipalPolicy.cs">
+      <TargetPath>sources/src/System.Security.Principal/src/System/Security/Principal/PrincipalPolicy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal\src\System\Security\Principal\TokenImpersonationLevel.cs">
+      <TargetPath>sources/src/System.Security.Principal/src/System/Security/Principal/TokenImpersonationLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

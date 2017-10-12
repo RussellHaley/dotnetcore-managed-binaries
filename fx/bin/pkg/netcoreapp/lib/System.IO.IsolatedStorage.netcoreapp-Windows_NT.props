@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.IO.IsolatedStorage\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.IO.IsolatedStorage/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.IO.IsolatedStorage\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.IO.IsolatedStorage/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.IO.IsolatedStorage\netcoreapp\System.IO.IsolatedStorage.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.IO.IsolatedStorage\netcoreapp\System.IO.IsolatedStorage.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\IdentityHelper.cs">
+      <Link>Common\System\Security\IdentityHelper.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/IdentityHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.IsolatedStorage\src\System\IO\IsolatedStorage\Helper.cs">
+      <TargetPath>sources/src/System.IO.IsolatedStorage/src/System/IO/IsolatedStorage/Helper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.IsolatedStorage\src\System\IO\IsolatedStorage\Helper.Win32.cs">
+      <TargetPath>sources/src/System.IO.IsolatedStorage/src/System/IO/IsolatedStorage/Helper.Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.IsolatedStorage\src\System\IO\IsolatedStorage\Helper.Win32Unix.cs">
+      <TargetPath>sources/src/System.IO.IsolatedStorage/src/System/IO/IsolatedStorage/Helper.Win32Unix.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.IsolatedStorage\src\System\IO\IsolatedStorage\INormalizeForIsolatedStorage.cs">
+      <TargetPath>sources/src/System.IO.IsolatedStorage/src/System/IO/IsolatedStorage/INormalizeForIsolatedStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.IsolatedStorage\src\System\IO\IsolatedStorage\IsolatedStorage.cs">
+      <TargetPath>sources/src/System.IO.IsolatedStorage/src/System/IO/IsolatedStorage/IsolatedStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.IsolatedStorage\src\System\IO\IsolatedStorage\IsolatedStorageException.cs">
+      <TargetPath>sources/src/System.IO.IsolatedStorage/src/System/IO/IsolatedStorage/IsolatedStorageException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.IsolatedStorage\src\System\IO\IsolatedStorage\IsolatedStorageException.Serialization.cs">
+      <TargetPath>sources/src/System.IO.IsolatedStorage/src/System/IO/IsolatedStorage/IsolatedStorageException.Serialization.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.IsolatedStorage\src\System\IO\IsolatedStorage\IsolatedStorageFile.cs">
+      <TargetPath>sources/src/System.IO.IsolatedStorage/src/System/IO/IsolatedStorage/IsolatedStorageFile.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.IsolatedStorage\src\System\IO\IsolatedStorage\IsolatedStorageFileStream.cs">
+      <TargetPath>sources/src/System.IO.IsolatedStorage/src/System/IO/IsolatedStorage/IsolatedStorageFileStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.IsolatedStorage\src\System\IO\IsolatedStorage\IsolatedStorageScope.cs">
+      <TargetPath>sources/src/System.IO.IsolatedStorage/src/System/IO/IsolatedStorage/IsolatedStorageScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

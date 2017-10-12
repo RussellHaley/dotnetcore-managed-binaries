@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?><span>
+<doc>
+  <assembly>
+    <name>System.Composition.Convention</name>
+  </assembly>
+  <members>
+    <member name="T:System.Composition.Convention.ConventionBuilder">
+      
+    </member>
+    <member name="M:System.Composition.Convention.ConventionBuilder.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.Convention.ConventionBuilder.ForType(System.Type)">
+      <param name="type"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ConventionBuilder.ForType``1">
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ConventionBuilder.ForTypesDerivedFrom(System.Type)">
+      <param name="type"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ConventionBuilder.ForTypesDerivedFrom``1">
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ConventionBuilder.ForTypesMatching(System.Predicate{System.Type})">
+      <param name="typeFilter"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ConventionBuilder.ForTypesMatching``1(System.Predicate{System.Type})">
+      <param name="typeFilter"></param>
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ConventionBuilder.GetCustomAttributes(System.Type,System.Reflection.MemberInfo)">
+      <param name="reflectedType"></param>
+      <param name="member"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ConventionBuilder.GetCustomAttributes(System.Type,System.Reflection.ParameterInfo)">
+      <param name="reflectedType"></param>
+      <param name="parameter"></param>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Convention.ExportConventionBuilder">
+      
+    </member>
+    <member name="M:System.Composition.Convention.ExportConventionBuilder.AddMetadata(System.String,System.Func{System.Type,System.Object})">
+      <param name="name"></param>
+      <param name="getValueFromPartType"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ExportConventionBuilder.AddMetadata(System.String,System.Object)">
+      <param name="name"></param>
+      <param name="value"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ExportConventionBuilder.AsContractName(System.Func{System.Type,System.String})">
+      <param name="getContractNameFromPartType"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ExportConventionBuilder.AsContractName(System.String)">
+      <param name="contractName"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ExportConventionBuilder.AsContractType(System.Type)">
+      <param name="type"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ExportConventionBuilder.AsContractType``1">
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Convention.ImportConventionBuilder">
+      
+    </member>
+    <member name="M:System.Composition.Convention.ImportConventionBuilder.AddMetadataConstraint(System.String,System.Func{System.Type,System.Object})">
+      <param name="name"></param>
+      <param name="getConstraintValueFromPartType"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ImportConventionBuilder.AddMetadataConstraint(System.String,System.Object)">
+      <param name="name"></param>
+      <param name="value"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ImportConventionBuilder.AllowDefault">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ImportConventionBuilder.AsContractName(System.Func{System.Type,System.String})">
+      <param name="getContractNameFromPartType"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ImportConventionBuilder.AsContractName(System.String)">
+      <param name="contractName"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ImportConventionBuilder.AsMany">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ImportConventionBuilder.AsMany(System.Boolean)">
+      <param name="isMany"></param>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Convention.ParameterImportConventionBuilder">
+      
+    </member>
+    <member name="M:System.Composition.Convention.ParameterImportConventionBuilder.Import``1">
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.ParameterImportConventionBuilder.Import``1(System.Action{System.Composition.Convention.ImportConventionBuilder})">
+      <param name="configure"></param>
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Convention.PartConventionBuilder`1">
+      <typeparam name="T"></typeparam>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder`1.ExportProperty(System.Linq.Expressions.Expression{System.Func{`0,System.Object}})">
+      <param name="propertySelector"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder`1.ExportProperty(System.Linq.Expressions.Expression{System.Func{`0,System.Object}},System.Action{System.Composition.Convention.ExportConventionBuilder})">
+      <param name="propertySelector"></param>
+      <param name="exportConfiguration"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder`1.ExportProperty``1(System.Linq.Expressions.Expression{System.Func{`0,System.Object}})">
+      <param name="propertySelector"></param>
+      <typeparam name="TContract"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder`1.ExportProperty``1(System.Linq.Expressions.Expression{System.Func{`0,System.Object}},System.Action{System.Composition.Convention.ExportConventionBuilder})">
+      <param name="propertySelector"></param>
+      <param name="exportConfiguration"></param>
+      <typeparam name="TContract"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder`1.ImportProperty(System.Linq.Expressions.Expression{System.Func{`0,System.Object}})">
+      <param name="propertySelector"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder`1.ImportProperty(System.Linq.Expressions.Expression{System.Func{`0,System.Object}},System.Action{System.Composition.Convention.ImportConventionBuilder})">
+      <param name="propertySelector"></param>
+      <param name="importConfiguration"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder`1.ImportProperty``1(System.Linq.Expressions.Expression{System.Func{`0,System.Object}})">
+      <param name="propertySelector"></param>
+      <typeparam name="TContract"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder`1.ImportProperty``1(System.Linq.Expressions.Expression{System.Func{`0,System.Object}},System.Action{System.Composition.Convention.ImportConventionBuilder})">
+      <param name="propertySelector"></param>
+      <param name="importConfiguration"></param>
+      <typeparam name="TContract"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder`1.NotifyImportsSatisfied(System.Linq.Expressions.Expression{System.Action{`0}})">
+      <param name="methodSelector"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder`1.SelectConstructor(System.Linq.Expressions.Expression{System.Func{System.Composition.Convention.ParameterImportConventionBuilder,`0}})">
+      <param name="constructorSelector"></param>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Convention.PartConventionBuilder">
+      
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.AddPartMetadata(System.String,System.Func{System.Type,System.Object})">
+      <param name="name"></param>
+      <param name="getValueFromPartType"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.AddPartMetadata(System.String,System.Object)">
+      <param name="name"></param>
+      <param name="value"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.Export">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.Export(System.Action{System.Composition.Convention.ExportConventionBuilder})">
+      <param name="exportConfiguration"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.Export``1">
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.Export``1(System.Action{System.Composition.Convention.ExportConventionBuilder})">
+      <param name="exportConfiguration"></param>
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ExportInterfaces">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ExportInterfaces(System.Predicate{System.Type})">
+      <param name="interfaceFilter"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ExportInterfaces(System.Predicate{System.Type},System.Action{System.Type,System.Composition.Convention.ExportConventionBuilder})">
+      <param name="interfaceFilter"></param>
+      <param name="exportConfiguration"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ExportProperties(System.Predicate{System.Reflection.PropertyInfo},System.Action{System.Reflection.PropertyInfo,System.Composition.Convention.ExportConventionBuilder})">
+      <param name="propertyFilter"></param>
+      <param name="exportConfiguration"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ExportProperties(System.Predicate{System.Reflection.PropertyInfo})">
+      <param name="propertyFilter"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ExportProperties``1(System.Predicate{System.Reflection.PropertyInfo})">
+      <param name="propertyFilter"></param>
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ExportProperties``1(System.Predicate{System.Reflection.PropertyInfo},System.Action{System.Reflection.PropertyInfo,System.Composition.Convention.ExportConventionBuilder})">
+      <param name="propertyFilter"></param>
+      <param name="exportConfiguration"></param>
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ImportProperties(System.Predicate{System.Reflection.PropertyInfo})">
+      <param name="propertyFilter"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ImportProperties(System.Predicate{System.Reflection.PropertyInfo},System.Action{System.Reflection.PropertyInfo,System.Composition.Convention.ImportConventionBuilder})">
+      <param name="propertyFilter"></param>
+      <param name="importConfiguration"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ImportProperties``1(System.Predicate{System.Reflection.PropertyInfo})">
+      <param name="propertyFilter"></param>
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.ImportProperties``1(System.Predicate{System.Reflection.PropertyInfo},System.Action{System.Reflection.PropertyInfo,System.Composition.Convention.ImportConventionBuilder})">
+      <param name="propertyFilter"></param>
+      <param name="importConfiguration"></param>
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.NotifyImportsSatisfied(System.Predicate{System.Reflection.MethodInfo})">
+      <param name="methodFilter"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.SelectConstructor(System.Func{System.Collections.Generic.IEnumerable{System.Reflection.ConstructorInfo},System.Reflection.ConstructorInfo})">
+      <param name="constructorSelector"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.SelectConstructor(System.Func{System.Collections.Generic.IEnumerable{System.Reflection.ConstructorInfo},System.Reflection.ConstructorInfo},System.Action{System.Reflection.ParameterInfo,System.Composition.Convention.ImportConventionBuilder})">
+      <param name="constructorSelector"></param>
+      <param name="importConfiguration"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.Shared">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.PartConventionBuilder.Shared(System.String)">
+      <param name="sharingBoundary"></param>
+      <returns></returns>
+    </member>
+  </members>
+</doc></span>

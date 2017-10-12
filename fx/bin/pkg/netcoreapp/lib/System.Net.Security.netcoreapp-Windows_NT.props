@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.Security\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.Security/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.Security\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.Security/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.Security\netcoreapp\System.Net.Security.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.Security\netcoreapp\System.Net.Security.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.CertEnumCertificatesInStore.cs">
+      <Link>Common\Interop\Windows\Crypt32\Interop.CertEnumCertificatesInStore.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.CertEnumCertificatesInStore.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.certificates.cs">
+      <Link>Common\Interop\Windows\Crypt32\Interop.certificates.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.certificates.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.certificates_types.cs">
+      <Link>Common\Interop\Windows\Crypt32\Interop.certificates_types.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.certificates_types.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CloseHandle.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.CloseHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CloseHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\SChannel\Interop.Alerts.cs">
+      <Link>Common\Interop\Windows\SChannel\Interop.Alerts.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/SChannel/Interop.Alerts.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\SChannel\Interop.SchProtocols.cs">
+      <Link>Common\Interop\Windows\SChannel\Interop.SchProtocols.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/SChannel/Interop.SchProtocols.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\SChannel\Interop.SECURITY_STATUS.cs">
+      <Link>Common\Interop\Windows\SChannel\Interop.SECURITY_STATUS.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/SChannel/Interop.SECURITY_STATUS.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\SChannel\SecPkgContext_ConnectionInfo.cs">
+      <Link>Common\Interop\Windows\SChannel\SecPkgContext_ConnectionInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/SChannel/SecPkgContext_ConnectionInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\SChannel\UnmanagedCertificateContext.cs">
+      <Link>Common\Interop\Windows\SChannel\UnmanagedCertificateContext.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/SChannel/UnmanagedCertificateContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\SChannel\UnmanagedCertificateContext.IntPtr.cs">
+      <Link>Common\Interop\Windows\SChannel\UnmanagedCertificateContext.IntPtr.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/SChannel/UnmanagedCertificateContext.IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\GlobalSSPI.cs">
+      <Link>Common\Interop\Windows\sspicli\GlobalSSPI.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/GlobalSSPI.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.SSPI.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.SSPI.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.SSPI.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\NegotiationInfoClass.cs">
+      <Link>Common\Interop\Windows\sspicli\NegotiationInfoClass.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/NegotiationInfoClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SafeDeleteContext.cs">
+      <Link>Common\Interop\Windows\sspicli\SafeDeleteContext.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SafeDeleteContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecPkgContext_Bindings.cs">
+      <Link>Common\Interop\Windows\sspicli\SecPkgContext_Bindings.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecPkgContext_Bindings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecPkgContext_NegotiationInfoW.cs">
+      <Link>Common\Interop\Windows\sspicli\SecPkgContext_NegotiationInfoW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecPkgContext_NegotiationInfoW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecPkgContext_Sizes.cs">
+      <Link>Common\Interop\Windows\sspicli\SecPkgContext_Sizes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecPkgContext_Sizes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecPkgContext_StreamSizes.cs">
+      <Link>Common\Interop\Windows\sspicli\SecPkgContext_StreamSizes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecPkgContext_StreamSizes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecurityPackageInfo.cs">
+      <Link>Common\Interop\Windows\sspicli\SecurityPackageInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecurityPackageInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecurityPackageInfoClass.cs">
+      <Link>Common\Interop\Windows\sspicli\SecurityPackageInfoClass.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecurityPackageInfoClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecuritySafeHandles.cs">
+      <Link>Common\Interop\Windows\sspicli\SecuritySafeHandles.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecuritySafeHandles.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SSPIAuthType.cs">
+      <Link>Common\Interop\Windows\sspicli\SSPIAuthType.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SSPIAuthType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SSPIInterface.cs">
+      <Link>Common\Interop\Windows\sspicli\SSPIInterface.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SSPIInterface.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SSPISecureChannelType.cs">
+      <Link>Common\Interop\Windows\sspicli\SSPISecureChannelType.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SSPISecureChannelType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SSPIWrapper.cs">
+      <Link>Common\Interop\Windows\sspicli\SSPIWrapper.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SSPIWrapper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\BidirectionalDictionary.cs">
+      <Link>Common\System\Collections\Generic\BidirectionalDictionary.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/BidirectionalDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ContextFlagsAdapterPal.Windows.cs">
+      <Link>Common\System\Net\ContextFlagsAdapterPal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ContextFlagsAdapterPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ContextFlagsPal.cs">
+      <Link>Common\System\Net\ContextFlagsPal.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ContextFlagsPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\DebugCriticalHandleMinusOneIsInvalid.cs">
+      <Link>Common\System\Net\DebugCriticalHandleMinusOneIsInvalid.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/DebugCriticalHandleMinusOneIsInvalid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\DebugCriticalHandleZeroOrMinusOneIsInvalid.cs">
+      <Link>Common\System\Net\DebugCriticalHandleZeroOrMinusOneIsInvalid.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/DebugCriticalHandleZeroOrMinusOneIsInvalid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\DebugSafeHandle.cs">
+      <Link>Common\System\Net\DebugSafeHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/DebugSafeHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ExceptionCheck.cs">
+      <Link>Common\System\Net\ExceptionCheck.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ExceptionCheck.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\InternalException.cs">
+      <Link>Common\System\Net\InternalException.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/InternalException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\IntPtrHelper.cs">
+      <Link>Common\System\Net\IntPtrHelper.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/IntPtrHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\LazyAsyncResult.cs">
+      <Link>Common\System\Net\LazyAsyncResult.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/LazyAsyncResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Logging\DebugThreadTracking.cs">
+      <Link>Common\System\Net\Logging\DebugThreadTracking.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Logging/DebugThreadTracking.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Logging\NetEventSource.Common.cs">
+      <Link>Common\System\Net\Logging\NetEventSource.Common.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Logging/NetEventSource.Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NegotiationInfoClass.cs">
+      <Link>Common\System\Net\NegotiationInfoClass.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NegotiationInfoClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NTAuthentication.Common.cs">
+      <Link>Common\System\Net\NTAuthentication.Common.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NTAuthentication.Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SecurityProtocol.cs">
+      <Link>Common\System\Net\SecurityProtocol.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SecurityProtocol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SecurityStatusAdapterPal.Windows.cs">
+      <Link>Common\System\Net\SecurityStatusAdapterPal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SecurityStatusAdapterPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SecurityStatusPal.cs">
+      <Link>Common\System\Net\SecurityStatusPal.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SecurityStatusPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\NegotiateStreamPal.Windows.cs">
+      <Link>Common\System\Net\Security\NegotiateStreamPal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/NegotiateStreamPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\SecurityBuffer.cs">
+      <Link>Common\System\Net\Security\SecurityBuffer.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/SecurityBuffer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\SecurityBufferType.cs">
+      <Link>Common\System\Net\Security\SecurityBufferType.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/SecurityBufferType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\SecurityContextTokenHandle.cs">
+      <Link>Common\System\Net\Security\SecurityContextTokenHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/SecurityContextTokenHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\SSPIHandleCache.cs">
+      <Link>Common\System\Net\Security\SSPIHandleCache.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/SSPIHandleCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\UriScheme.cs">
+      <Link>Common\System\Net\UriScheme.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/UriScheme.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\NotImplemented.cs">
+      <Link>Common\System\NotImplemented.cs</Link>
+      <TargetPath>sources/src/Common/src/System/NotImplemented.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Threading\Tasks\TaskToApm.cs">
+      <Link>Common\System\Threading\Tasks\TaskToApm.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Threading/Tasks/TaskToApm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\BufferAsyncResult.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/BufferAsyncResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\CertificateValidationPal.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/CertificateValidationPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\CertificateValidationPal.Windows.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/CertificateValidationPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\FixedSizeReader.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/FixedSizeReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\HelperAsyncResults.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/HelperAsyncResults.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Logging\NetEventSource.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Logging/NetEventSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\NTAuthentication.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/NTAuthentication.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\AuthenticatedStream.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/AuthenticatedStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\InternalNegotiateStream.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/InternalNegotiateStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\NegoState.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/NegoState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\NegotiateStream.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/NegotiateStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\NegotiateStreamPal.Windows.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/NegotiateStreamPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\NetEventSource.Security.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/NetEventSource.Security.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\NetEventSource.Security.Windows.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/NetEventSource.Security.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\ProtectionLevel.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/ProtectionLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\SecureChannel.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/SecureChannel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\SslConnectionInfo.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/SslConnectionInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\SslConnectionInfo.Windows.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/SslConnectionInfo.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\SslSessionsCache.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/SslSessionsCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\SslState.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/SslState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\SslStream.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/SslStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\SslStreamInternal.Adapters.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/SslStreamInternal.Adapters.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\SslStreamInternal.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/SslStreamInternal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\SslStreamPal.Windows.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/SslStreamPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\StreamSizes.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/StreamSizes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\StreamSizes.Windows.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/StreamSizes.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\TlsAlertMessage.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/TlsAlertMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\Security\TlsAlertType.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/Security/TlsAlertType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\SslStreamContext.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/SslStreamContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Net\StreamFramer.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Net/StreamFramer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Security\Authentication\AuthenticationException.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Security/Authentication/AuthenticationException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Security\Authentication\ExtendedProtection\ExtendedProtectionPolicy.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Security/Authentication/ExtendedProtection/ExtendedProtectionPolicy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Security\Authentication\ExtendedProtection\PolicyEnforcement.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Security/Authentication/ExtendedProtection/PolicyEnforcement.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Security\Authentication\ExtendedProtection\ProtectionScenario.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Security/Authentication/ExtendedProtection/ProtectionScenario.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Security\src\System\Security\Authentication\ExtendedProtection\ServiceNameCollection.cs">
+      <TargetPath>sources/src/System.Net.Security/src/System/Security/Authentication/ExtendedProtection/ServiceNameCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

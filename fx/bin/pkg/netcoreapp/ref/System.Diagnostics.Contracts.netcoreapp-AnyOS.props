@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <RefFile Include="N:\Code\Git\corefx\bin/docs/System.Diagnostics.Contracts.xml">
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin\obj\ref\System.Diagnostics.Contracts\4.0.3.0\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/ref/System.Diagnostics.Contracts/4.0.3.0/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin\ref\System.Diagnostics.Contracts\4.0.3.0\netcoreapp\System.Diagnostics.Contracts.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin\ref\System.Diagnostics.Contracts\4.0.3.0\netcoreapp\System.Diagnostics.Contracts.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Contracts\ref\System.Diagnostics.Contracts.cs">
+      <TargetPath>sources/src/System.Diagnostics.Contracts/ref/System.Diagnostics.Contracts.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </RefFile>
+  </ItemGroup>
+</Project>

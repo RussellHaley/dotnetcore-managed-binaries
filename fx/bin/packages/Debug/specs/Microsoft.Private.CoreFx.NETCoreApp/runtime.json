@@ -1,0 +1,59 @@
+{
+  "runtimes": {
+    "alpine.3.6-x64": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.alpine.3.6-x64.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    },
+    "linux-arm": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.linux-arm.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    },
+    "linux-arm64": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.linux-arm64.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    },
+    "linux-x64": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.linux-x64.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    },
+    "osx-x64": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.osx-x64.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    },
+    "rhel.6-x64": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.rhel.6-x64.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    },
+    "tizen.4.0.0-armel": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.tizen.4.0.0-armel.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    },
+    "win-arm": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.win-arm.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    },
+    "win-arm64": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.win-arm64.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    },
+    "win-x64": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.win-x64.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    },
+    "win-x86": {
+      "Microsoft.Private.CoreFx.NETCoreApp": {
+        "runtime.win-x86.Microsoft.Private.CoreFx.NETCoreApp": "4.5.0-preview1-25810-0"
+      }
+    }
+  }
+}

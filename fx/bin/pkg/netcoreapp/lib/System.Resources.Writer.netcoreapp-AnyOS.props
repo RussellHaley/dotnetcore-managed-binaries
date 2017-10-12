@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Resources.Writer\netcoreapp\System.Resources.Writer.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Resources.Writer\netcoreapp\System.Resources.Writer.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Resources.Writer\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Resources.Writer/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Resources.Writer\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Resources.Writer/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Resources.Writer\src\System\Resources\IResourceWriter.cs">
+      <TargetPath>sources/src/System.Resources.Writer/src/System/Resources/IResourceWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Resources.Writer\src\System\Resources\ResourceWriter.cs">
+      <TargetPath>sources/src/System.Resources.Writer/src/System/Resources/ResourceWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Resources.Writer\src\System\Resources\__FastResourceComparer.cs">
+      <TargetPath>sources/src/System.Resources.Writer/src/System/Resources/__FastResourceComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Resources.Writer\src\System\Runtime\Versioning\MultitargetingHelpers.cs">
+      <TargetPath>sources/src/System.Resources.Writer/src/System/Runtime/Versioning/MultitargetingHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

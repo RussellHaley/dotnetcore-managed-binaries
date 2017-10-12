@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Linq.Queryable\netcoreapp\System.Linq.Queryable.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Linq.Queryable\netcoreapp\System.Linq.Queryable.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Linq.Queryable\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Linq.Queryable/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Linq.Queryable\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Linq.Queryable/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Queryable\src\System\Linq\CachedReflection.cs">
+      <TargetPath>sources/src/System.Linq.Queryable/src/System/Linq/CachedReflection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Queryable\src\System\Linq\EnumerableExecutor.cs">
+      <TargetPath>sources/src/System.Linq.Queryable/src/System/Linq/EnumerableExecutor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Queryable\src\System\Linq\EnumerableQuery.cs">
+      <TargetPath>sources/src/System.Linq.Queryable/src/System/Linq/EnumerableQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Queryable\src\System\Linq\EnumerableRewriter.cs">
+      <TargetPath>sources/src/System.Linq.Queryable/src/System/Linq/EnumerableRewriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Queryable\src\System\Linq\Error.cs">
+      <TargetPath>sources/src/System.Linq.Queryable/src/System/Linq/Error.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Queryable\src\System\Linq\Queryable.cs">
+      <TargetPath>sources/src/System.Linq.Queryable/src/System/Linq/Queryable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Queryable\src\System\Linq\Strings.cs">
+      <TargetPath>sources/src/System.Linq.Queryable/src/System/Linq/Strings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Queryable\src\System\Linq\TypeHelper.cs">
+      <TargetPath>sources/src/System.Linq.Queryable/src/System/Linq/TypeHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

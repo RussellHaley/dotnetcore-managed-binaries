@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\Microsoft.VisualBasic\netstandard\Microsoft.VisualBasic.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\Microsoft.VisualBasic\netstandard\Microsoft.VisualBasic.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\Microsoft.VisualBasic\netstandard\SR.vb">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/Microsoft.VisualBasic/netstandard/SR.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\Microsoft.VisualBasic\netstandard\_AssemblyInfo.vb">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/Microsoft.VisualBasic/netstandard/_AssemblyInfo.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.vb">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.vb</Link>
+      <TargetPath>sources/src/Common/src/System/SR.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CallType.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CallType.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\ConversionResolution.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/ConversionResolution.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\Conversions.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Conversions.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\DesignerGeneratedAttribute.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/DesignerGeneratedAttribute.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\ExceptionUtils.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/ExceptionUtils.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\IDOBinder.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/IDOBinder.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\IncompleteInitialization.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/IncompleteInitialization.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\NewLateBinding.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/NewLateBinding.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\ObjectFlowControl.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/ObjectFlowControl.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\Operators.Resolution.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Operators.Resolution.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\Operators.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Operators.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\OptionCompareAttribute.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/OptionCompareAttribute.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\OptionTextAttribute.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/OptionTextAttribute.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\OverloadResolution.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/OverloadResolution.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\ProjectData.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/ProjectData.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\StandardModuleAttribute.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/StandardModuleAttribute.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\StaticLocalInitFlag.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/StaticLocalInitFlag.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\Symbols.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Symbols.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\Utils.LateBinder.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Utils.LateBinder.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\CompilerServices\Utils.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/CompilerServices/Utils.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\Constants.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/Constants.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\ControlChars.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/ControlChars.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\HideModuleNameAttribute.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/HideModuleNameAttribute.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\Interaction.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/Interaction.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.VisualBasic\src\Microsoft\VisualBasic\Strings.vb">
+      <TargetPath>sources/src/Microsoft.VisualBasic/src/Microsoft/VisualBasic/Strings.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.vb">
+      <Visible>true</Visible>
+      <Link>My Project/_AssemblyInfo.vb</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.vb</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

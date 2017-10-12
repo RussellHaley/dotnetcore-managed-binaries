@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?><span>
+<doc>
+  <assembly>
+    <name>System.Composition.Hosting</name>
+  </assembly>
+  <members>
+    <member name="T:System.Composition.Hosting.CompositionHost">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.CompositionHost.CreateCompositionHost(System.Collections.Generic.IEnumerable{System.Composition.Hosting.Core.ExportDescriptorProvider})">
+      <param name="providers"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.CompositionHost.CreateCompositionHost(System.Composition.Hosting.Core.ExportDescriptorProvider[])">
+      <param name="providers"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.CompositionHost.Dispose">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.CompositionHost.TryGetExport(System.Composition.Hosting.Core.CompositionContract,System.Object@)">
+      <param name="contract"></param>
+      <param name="export"></param>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Hosting.Core.CompositeActivator">
+      <param name="context"></param>
+      <param name="operation"></param>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Hosting.Core.CompositionDependency">
+      
+    </member>
+    <member name="P:System.Composition.Hosting.Core.CompositionDependency.Contract">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.CompositionDependency.IsPrerequisite">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionDependency.Missing(System.Composition.Hosting.Core.CompositionContract,System.Object)">
+      <param name="contract"></param>
+      <param name="site"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionDependency.Oversupplied(System.Composition.Hosting.Core.CompositionContract,System.Collections.Generic.IEnumerable{System.Composition.Hosting.Core.ExportDescriptorPromise},System.Object)">
+      <param name="contract"></param>
+      <param name="targets"></param>
+      <param name="site"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionDependency.Satisfied(System.Composition.Hosting.Core.CompositionContract,System.Composition.Hosting.Core.ExportDescriptorPromise,System.Boolean,System.Object)">
+      <param name="contract"></param>
+      <param name="target"></param>
+      <param name="isPrerequisite"></param>
+      <param name="site"></param>
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.CompositionDependency.Site">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.CompositionDependency.Target">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionDependency.ToString">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Hosting.Core.CompositionOperation">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionOperation.AddNonPrerequisiteAction(System.Action)">
+      <param name="action"></param>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionOperation.AddPostCompositionAction(System.Action)">
+      <param name="action"></param>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionOperation.Dispose">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionOperation.Run(System.Composition.Hosting.Core.LifetimeContext,System.Composition.Hosting.Core.CompositeActivator)">
+      <param name="outermostLifetimeContext"></param>
+      <param name="compositionRootActivator"></param>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Hosting.Core.DependencyAccessor">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.DependencyAccessor.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.DependencyAccessor.GetPromises(System.Composition.Hosting.Core.CompositionContract)">
+      <param name="exportKey"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.DependencyAccessor.ResolveDependencies(System.Object,System.Composition.Hosting.Core.CompositionContract,System.Boolean)">
+      <param name="site"></param>
+      <param name="contract"></param>
+      <param name="isPrerequisite"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.DependencyAccessor.ResolveRequiredDependency(System.Object,System.Composition.Hosting.Core.CompositionContract,System.Boolean)">
+      <param name="site"></param>
+      <param name="contract"></param>
+      <param name="isPrerequisite"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.DependencyAccessor.TryResolveOptionalDependency(System.Object,System.Composition.Hosting.Core.CompositionContract,System.Boolean,System.Composition.Hosting.Core.CompositionDependency@)">
+      <param name="site"></param>
+      <param name="contract"></param>
+      <param name="isPrerequisite"></param>
+      <param name="dependency"></param>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Hosting.Core.ExportDescriptor">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.ExportDescriptor.#ctor">
+      
+    </member>
+    <member name="P:System.Composition.Hosting.Core.ExportDescriptor.Activator">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.ExportDescriptor.Create(System.Composition.Hosting.Core.CompositeActivator,System.Collections.Generic.IDictionary{System.String,System.Object})">
+      <param name="activator"></param>
+      <param name="metadata"></param>
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.ExportDescriptor.Metadata">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Hosting.Core.ExportDescriptorPromise">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.ExportDescriptorPromise.#ctor(System.Composition.Hosting.Core.CompositionContract,System.String,System.Boolean,System.Func{System.Collections.Generic.IEnumerable{System.Composition.Hosting.Core.CompositionDependency}},System.Func{System.Collections.Generic.IEnumerable{System.Composition.Hosting.Core.CompositionDependency},System.Composition.Hosting.Core.ExportDescriptor})">
+      <param name="contract"></param>
+      <param name="origin"></param>
+      <param name="isShared"></param>
+      <param name="dependencies"></param>
+      <param name="getDescriptor"></param>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.ExportDescriptorPromise.Contract">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.ExportDescriptorPromise.Dependencies">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.ExportDescriptorPromise.GetDescriptor">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.ExportDescriptorPromise.IsShared">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.ExportDescriptorPromise.Origin">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.ExportDescriptorPromise.ToString">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Hosting.Core.ExportDescriptorProvider">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.ExportDescriptorProvider.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.ExportDescriptorProvider.GetExportDescriptors(System.Composition.Hosting.Core.CompositionContract,System.Composition.Hosting.Core.DependencyAccessor)">
+      <param name="contract"></param>
+      <param name="descriptorAccessor"></param>
+      <returns></returns>
+    </member>
+    <member name="F:System.Composition.Hosting.Core.ExportDescriptorProvider.NoDependencies">
+      <returns></returns>
+    </member>
+    <member name="F:System.Composition.Hosting.Core.ExportDescriptorProvider.NoExportDescriptors">
+      <returns></returns>
+    </member>
+    <member name="F:System.Composition.Hosting.Core.ExportDescriptorProvider.NoMetadata">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Hosting.Core.LifetimeContext">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.LifetimeContext.AddBoundInstance(System.IDisposable)">
+      <param name="instance"></param>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.LifetimeContext.AllocateSharingId">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.LifetimeContext.Dispose">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.LifetimeContext.FindContextWithin(System.String)">
+      <param name="sharingBoundary"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.LifetimeContext.GetOrCreate(System.Int32,System.Composition.Hosting.Core.CompositionOperation,System.Composition.Hosting.Core.CompositeActivator)">
+      <param name="sharingId"></param>
+      <param name="operation"></param>
+      <param name="creator"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.LifetimeContext.ToString">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.LifetimeContext.TryGetExport(System.Composition.Hosting.Core.CompositionContract,System.Object@)">
+      <param name="contract"></param>
+      <param name="export"></param>
+      <returns></returns>
+    </member>
+  </members>
+</doc></span>

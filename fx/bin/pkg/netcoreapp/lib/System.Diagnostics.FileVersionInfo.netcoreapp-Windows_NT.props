@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Diagnostics.FileVersionInfo\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Diagnostics.FileVersionInfo/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Diagnostics.FileVersionInfo\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Diagnostics.FileVersionInfo/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.FileVersionInfo\netcoreapp\System.Diagnostics.FileVersionInfo.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.FileVersionInfo\netcoreapp\System.Diagnostics.FileVersionInfo.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.VerLanguageName.cs">
+      <Link>Common\Interop\Windows\Interop.VerLanguageName.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.VerLanguageName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\version\Interop.FileVersionInfo.cs">
+      <Link>Common\Interop\Windows\Interop.FileVersionInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/version/Interop.FileVersionInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\version\Interop.FileVersionInfoType.cs">
+      <Link>Common\Interop\Windows\Interop.FileVersionInfoType.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/version/Interop.FileVersionInfoType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\version\Interop.GetFileVersionInfoEx.cs">
+      <Link>Common\Interop\Windows\Interop.GetFileVersionInfoEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/version/Interop.GetFileVersionInfoEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\version\Interop.GetFileVersionInfoSizeEx.cs">
+      <Link>Common\Interop\Windows\Interop.GetFileVersionInfoSizeEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/version/Interop.GetFileVersionInfoSizeEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\version\Interop.VerQueryValue.cs">
+      <Link>Common\Interop\Windows\Interop.VerQueryValue.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/version/Interop.VerQueryValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\version\Interop.VSFixedFileInfo.cs">
+      <Link>Common\Interop\Windows\Interop.VSFixedFileInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/version/Interop.VSFixedFileInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.FileVersionInfo\src\System\Diagnostics\FileVersionInfo.cs">
+      <TargetPath>sources/src/System.Diagnostics.FileVersionInfo/src/System/Diagnostics/FileVersionInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.FileVersionInfo\src\System\Diagnostics\FileVersionInfo.Windows.cs">
+      <TargetPath>sources/src/System.Diagnostics.FileVersionInfo/src/System/Diagnostics/FileVersionInfo.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

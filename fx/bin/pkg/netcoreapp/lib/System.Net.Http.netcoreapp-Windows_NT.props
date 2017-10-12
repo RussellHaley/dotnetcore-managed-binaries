@@ -1,0 +1,673 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.Http\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.Http/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.Http\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.Http/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.Http\netcoreapp\System.Net.Http.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.Http\netcoreapp\System.Net.Http.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.CertEnumCertificatesInStore.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.CertEnumCertificatesInStore.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.certificates.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.certificates.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.certificates_types.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.certificates_types.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.HRESULT_FROM_WIN32.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.HRESULT_FROM_WIN32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FormatMessage.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FormatMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetModuleHandle.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetModuleHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\SChannel\UnmanagedCertificateContext.IntPtr.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/SChannel/UnmanagedCertificateContext.IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\winhttp\Interop.SafeWinHttpHandle.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/winhttp/Interop.SafeWinHttpHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\winhttp\Interop.winhttp.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/winhttp/Interop.winhttp.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\winhttp\Interop.winhttp_types.cs">
+      <TargetPath>sources/src/Common/src/Interop/Windows/winhttp/Interop.winhttp_types.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\CharArrayHelpers.cs">
+      <TargetPath>sources/src/Common/src/System/CharArrayHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\DelegatingStream.cs">
+      <Link>Common\System\IO\DelegatingStream.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/DelegatingStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\ReadOnlyMemoryStream.cs">
+      <Link>Common\System\IO\ReadOnlyMemoryStream.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/ReadOnlyMemoryStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\StreamHelpers.CopyValidation.cs">
+      <Link>Common\System\IO\StreamHelpers.CopyValidation.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/StreamHelpers.CopyValidation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\StringBuilderCache.cs">
+      <Link>Common\System\IO\StringBuilderCache.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/StringBuilderCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\HttpKnownHeaderNames.cs">
+      <TargetPath>sources/src/Common/src/System/Net/HttpKnownHeaderNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\HttpKnownHeaderNames.TryGetHeaderName.cs">
+      <TargetPath>sources/src/Common/src/System/Net/HttpKnownHeaderNames.TryGetHeaderName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\HttpStatusDescription.cs">
+      <TargetPath>sources/src/Common/src/System/Net/HttpStatusDescription.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\HttpVersionInternal.cs">
+      <Link>Common\System\Net\HttpVersionInternal.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/HttpVersionInternal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Http\HttpHandlerDefaults.cs">
+      <TargetPath>sources/src/Common/src/System/Net/Http/HttpHandlerDefaults.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Http\NoWriteNoSeekStreamContent.cs">
+      <TargetPath>sources/src/Common/src/System/Net/Http/NoWriteNoSeekStreamContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Http\WinHttpException.cs">
+      <TargetPath>sources/src/Common/src/System/Net/Http/WinHttpException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Logging\NetEventSource.Common.cs">
+      <Link>Common\System\Net\Logging\NetEventSource.Common.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Logging/NetEventSource.Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\DomainLiteralReader.cs">
+      <Link>Common\System\Net\Mail\DomainLiteralReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/DomainLiteralReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\DotAtomReader.cs">
+      <Link>Common\System\Net\Mail\DotAtomReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/DotAtomReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\MailAddress.cs">
+      <Link>Common\System\Net\Mail\MailAddress.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/MailAddress.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\MailAddressParser.cs">
+      <Link>Common\System\Net\Mail\MailAddressParser.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/MailAddressParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\MailBnfHelper.cs">
+      <Link>Common\System\Net\Mail\MailBnfHelper.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/MailBnfHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\QuotedPairReader.cs">
+      <Link>Common\System\Net\Mail\QuotedPairReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/QuotedPairReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\QuotedStringFormatReader.cs">
+      <Link>Common\System\Net\Mail\QuotedStringFormatReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/QuotedStringFormatReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\WhitespaceReader.cs">
+      <Link>Common\System\Net\Mail\WhitespaceReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/WhitespaceReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SecurityProtocol.cs">
+      <TargetPath>sources/src/Common/src/System/Net/SecurityProtocol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\CertificateHelper.cs">
+      <TargetPath>sources/src/Common/src/System/Net/Security/CertificateHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\CertificateHelper.Windows.cs">
+      <TargetPath>sources/src/Common/src/System/Net/Security/CertificateHelper.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\UriScheme.cs">
+      <TargetPath>sources/src/Common/src/System/Net/UriScheme.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Runtime\ExceptionServices\ExceptionStackTrace.cs">
+      <TargetPath>sources/src/Common/src/System/Runtime/ExceptionServices/ExceptionStackTrace.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\StringExtensions.cs">
+      <TargetPath>sources/src/Common/src/System/StringExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Threading\Tasks\RendezvousAwaitable.cs">
+      <TargetPath>sources/src/Common/src/System/Threading/Tasks/RendezvousAwaitable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Threading\Tasks\TaskToApm.cs">
+      <TargetPath>sources/src/Common/src/System/Threading/Tasks/TaskToApm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpAuthHelper.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpAuthHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpCertificateHelper.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpCertificateHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpChannelBinding.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpChannelBinding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpCookieContainerAdapter.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpCookieContainerAdapter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpHandler.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpRequestCallback.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpRequestCallback.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpRequestState.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpRequestState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpRequestStream.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpRequestStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpResponseHeaderReader.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpResponseHeaderReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpResponseParser.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpResponseParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpResponseStream.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpResponseStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpTraceHelper.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpTraceHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinHttpTransportContext.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinHttpTransportContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http.WinHttpHandler\src\System\Net\Http\WinInetProxyHelper.cs">
+      <TargetPath>sources/src/System.Net.Http.WinHttpHandler/src/System/Net/Http/WinInetProxyHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\ByteArrayContent.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/ByteArrayContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\ByteArrayHelpers.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/ByteArrayHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\ClientCertificateOption.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/ClientCertificateOption.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\DelegatingHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/DelegatingHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\DiagnosticsHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/DiagnosticsHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\DiagnosticsHandlerLoggingStrings.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/DiagnosticsHandlerLoggingStrings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\FormUrlEncodedContent.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/FormUrlEncodedContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\AuthenticationHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/AuthenticationHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\BaseHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/BaseHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\ByteArrayHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/ByteArrayHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\CacheControlHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/CacheControlHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\CacheControlHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/CacheControlHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\ContentDispositionHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/ContentDispositionHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\ContentRangeHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/ContentRangeHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\DateHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/DateHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\EntityTagHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/EntityTagHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\GenericHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/GenericHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\HeaderDescriptor.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/HeaderDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\HeaderUtilities.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/HeaderUtilities.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\HttpContentHeaders.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/HttpContentHeaders.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\HttpGeneralHeaders.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/HttpGeneralHeaders.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\HttpHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/HttpHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\HttpHeaders.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/HttpHeaders.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\HttpHeaderType.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/HttpHeaderType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\HttpHeaderValueCollection.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/HttpHeaderValueCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\HttpRequestHeaders.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/HttpRequestHeaders.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\HttpResponseHeaders.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/HttpResponseHeaders.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\Int32NumberHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/Int32NumberHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\Int64NumberHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/Int64NumberHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\KnownHeader.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/KnownHeader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\KnownHeaders.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/KnownHeaders.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\MediaTypeHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/MediaTypeHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\MediaTypeHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/MediaTypeHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\MediaTypeWithQualityHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/MediaTypeWithQualityHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\NameValueHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/NameValueHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\NameValueWithParametersHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/NameValueWithParametersHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\ObjectCollection.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/ObjectCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\ProductHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/ProductHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\ProductInfoHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/ProductInfoHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\ProductInfoHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/ProductInfoHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\RangeConditionHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/RangeConditionHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\RangeHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/RangeHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\RangeItemHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/RangeItemHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\RetryConditionHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/RetryConditionHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\StringWithQualityHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/StringWithQualityHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\TimeSpanHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/TimeSpanHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\TransferCodingHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/TransferCodingHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\TransferCodingHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/TransferCodingHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\TransferCodingWithQualityHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/TransferCodingWithQualityHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\UriHeaderParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/UriHeaderParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\ViaHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/ViaHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Headers\WarningHeaderValue.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Headers/WarningHeaderValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpClient.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpClient.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpClientHandler.Core.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpClientHandler.Core.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpClientHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpClientHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpClientHandler.Windows.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpClientHandler.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpCompletionOption.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpCompletionOption.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpContent.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpMessageHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpMessageHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpMessageInvoker.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpMessageInvoker.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpMethod.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpMethod.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpParseResult.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpParseResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpRequestException.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpRequestException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpRequestMessage.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpRequestMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpResponseMessage.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpResponseMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpRuleParser.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpRuleParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\HttpUtilities.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/HttpUtilities.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\AuthenticationHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/AuthenticationHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\AuthenticationHelper.Basic.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/AuthenticationHelper.Basic.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\AuthenticationHelper.Digest.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/AuthenticationHelper.Digest.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\AutoRedirectHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/AutoRedirectHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\ChunkedEncodingReadStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/ChunkedEncodingReadStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\ChunkedEncodingWriteStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/ChunkedEncodingWriteStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\ConnectHelper.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/ConnectHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\ConnectionCloseReadStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/ConnectionCloseReadStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\ContentLengthReadStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/ContentLengthReadStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\ContentLengthWriteStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/ContentLengthWriteStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\CookieHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/CookieHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\DecompressionHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/DecompressionHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\EmptyReadStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/EmptyReadStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpConnection.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpConnection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpConnectionContent.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpConnectionContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpConnectionHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpConnectionHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpConnectionKey.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpConnectionKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpConnectionPool.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpConnectionPool.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpConnectionPools.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpConnectionPools.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpConnectionSettings.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpConnectionSettings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpContentDuplexStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpContentDuplexStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpContentReadStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpContentReadStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpContentStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpContentStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpContentWriteStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpContentWriteStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\HttpProxyConnectionHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/HttpProxyConnectionHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\ManagedHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/ManagedHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\Managed\RawConnectionStream.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/Managed/RawConnectionStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\MessageProcessingHandler.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/MessageProcessingHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\MultipartContent.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/MultipartContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\MultipartFormDataContent.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/MultipartFormDataContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\NetEventSource.Http.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/NetEventSource.Http.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\ReadOnlyMemoryContent.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/ReadOnlyMemoryContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\StreamContent.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/StreamContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\StreamToStreamCopy.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/StreamToStreamCopy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Http\src\System\Net\Http\StringContent.cs">
+      <TargetPath>sources/src/System.Net.Http/src/System/Net/Http/StringContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

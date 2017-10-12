@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?><span>
+<doc>
+  <assembly>
+    <name>System.Composition.TypedParts</name>
+  </assembly>
+  <members>
+    <member name="T:System.Composition.CompositionContextExtensions">
+      
+    </member>
+    <member name="M:System.Composition.CompositionContextExtensions.SatisfyImports(System.Composition.CompositionContext,System.Object)">
+      <param name="compositionContext"></param>
+      <param name="objectWithLooseImports"></param>
+    </member>
+    <member name="M:System.Composition.CompositionContextExtensions.SatisfyImports(System.Composition.CompositionContext,System.Object,System.Composition.Convention.AttributedModelProvider)">
+      <param name="compositionContext"></param>
+      <param name="objectWithLooseImports"></param>
+      <param name="conventions"></param>
+    </member>
+    <member name="T:System.Composition.Hosting.ContainerConfiguration">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.CreateContainer">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithAssemblies(System.Collections.Generic.IEnumerable{System.Reflection.Assembly})">
+      <param name="assemblies"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithAssemblies(System.Collections.Generic.IEnumerable{System.Reflection.Assembly},System.Composition.Convention.AttributedModelProvider)">
+      <param name="assemblies"></param>
+      <param name="conventions"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithAssembly(System.Reflection.Assembly)">
+      <param name="assembly"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithAssembly(System.Reflection.Assembly,System.Composition.Convention.AttributedModelProvider)">
+      <param name="assembly"></param>
+      <param name="conventions"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithDefaultConventions(System.Composition.Convention.AttributedModelProvider)">
+      <param name="conventions"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithPart(System.Type)">
+      <param name="partType"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithPart(System.Type,System.Composition.Convention.AttributedModelProvider)">
+      <param name="partType"></param>
+      <param name="conventions"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithPart``1">
+      <typeparam name="TPart"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithPart``1(System.Composition.Convention.AttributedModelProvider)">
+      <param name="conventions"></param>
+      <typeparam name="TPart"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithParts(System.Collections.Generic.IEnumerable{System.Type})">
+      <param name="partTypes"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithParts(System.Type[])">
+      <param name="partTypes"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithParts(System.Collections.Generic.IEnumerable{System.Type},System.Composition.Convention.AttributedModelProvider)">
+      <param name="partTypes"></param>
+      <param name="conventions"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.ContainerConfiguration.WithProvider(System.Composition.Hosting.Core.ExportDescriptorProvider)">
+      <param name="exportDescriptorProvider"></param>
+      <returns></returns>
+    </member>
+  </members>
+</doc></span>

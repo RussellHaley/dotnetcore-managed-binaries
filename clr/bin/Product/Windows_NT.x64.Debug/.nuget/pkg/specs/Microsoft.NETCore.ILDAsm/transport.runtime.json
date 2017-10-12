@@ -1,0 +1,59 @@
+{
+  "runtimes": {
+    "alpine.3.6-x64": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.alpine.3.6-x64.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-arm": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.linux-arm.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-arm64": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.linux-arm64.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-x64": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.linux-x64.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "osx-x64": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.osx-x64.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "rhel.6-x64": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.rhel.6-x64.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "tizen.4.0.0-armel": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.tizen.4.0.0-armel.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-arm": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.win-arm.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-arm64": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.win-arm64.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-x64": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.win-x64.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-x86": {
+      "transport.Microsoft.NETCore.ILDAsm": {
+        "transport.runtime.win-x86.Microsoft.NETCore.ILDAsm": "2.1.0-preview1-25810-0"
+      }
+    }
+  }
+}

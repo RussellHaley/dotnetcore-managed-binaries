@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Drawing.Primitives\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Drawing.Primitives/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Drawing.Primitives\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Drawing.Primitives/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Drawing.Primitives\netcoreapp\System.Drawing.Primitives.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Drawing.Primitives\netcoreapp\System.Drawing.Primitives.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.GetSysColor.cs">
+      <Link>Common\Interop\Windows\user32\Interop.GetSysColor.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.GetSysColor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.Win32SystemColors.cs">
+      <Link>Common\Interop\Windows\user32\Interop.Win32SystemColors.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.Win32SystemColors.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Drawing\ColorTable.cs">
+      <Link>System\Drawing\ColorTable.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Drawing/ColorTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Drawing\ColorUtil.netcoreapp21.cs">
+      <Link>System\Drawing\ColorUtil.netcoreapp21.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Drawing/ColorUtil.netcoreapp21.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Drawing\KnownColor.cs">
+      <Link>System\Drawing\KnownColor.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Drawing/KnownColor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Drawing\KnownColorTable.cs">
+      <Link>System\Drawing\KnownColorTable.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Drawing/KnownColorTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Numerics\Hashing\HashHelpers.cs">
+      <Link>Common\System\Numerics\Hashing\HashHelpers.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Numerics/Hashing/HashHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Drawing.Primitives\src\System\Drawing\Color.cs">
+      <TargetPath>sources/src/System.Drawing.Primitives/src/System/Drawing/Color.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Drawing.Primitives\src\System\Drawing\Point.cs">
+      <TargetPath>sources/src/System.Drawing.Primitives/src/System/Drawing/Point.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Drawing.Primitives\src\System\Drawing\PointF.cs">
+      <TargetPath>sources/src/System.Drawing.Primitives/src/System/Drawing/PointF.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Drawing.Primitives\src\System\Drawing\Rectangle.cs">
+      <TargetPath>sources/src/System.Drawing.Primitives/src/System/Drawing/Rectangle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Drawing.Primitives\src\System\Drawing\RectangleF.cs">
+      <TargetPath>sources/src/System.Drawing.Primitives/src/System/Drawing/RectangleF.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Drawing.Primitives\src\System\Drawing\Size.cs">
+      <TargetPath>sources/src/System.Drawing.Primitives/src/System/Drawing/Size.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Drawing.Primitives\src\System\Drawing\SizeF.cs">
+      <TargetPath>sources/src/System.Drawing.Primitives/src/System/Drawing/SizeF.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

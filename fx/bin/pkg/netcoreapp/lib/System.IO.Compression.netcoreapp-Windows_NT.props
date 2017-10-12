@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.IO.Compression\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.IO.Compression/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.IO.Compression\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.IO.Compression/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.IO.Compression\netcoreapp\System.IO.Compression.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.IO.Compression\netcoreapp\System.IO.Compression.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\PathInternal.cs">
+      <Link>Common\System\IO\PathInternal.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/PathInternal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\PathInternal.Windows.cs">
+      <Link>Common\System\IO\PathInternal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/PathInternal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\StreamHelpers.CopyValidation.cs">
+      <Link>Common\System\IO\StreamHelpers.CopyValidation.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/StreamHelpers.CopyValidation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Threading\Tasks\TaskToApm.cs">
+      <Link>Common\System\Threading\Tasks\TaskToApm.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Threading/Tasks/TaskToApm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\Interop\Interop.zlib.Windows.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/Interop/Interop.zlib.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\CompressionLevel.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/CompressionLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\CompressionMode.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/CompressionMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\Crc32Helper.ZLib.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/Crc32Helper.ZLib.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\BlockType.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/BlockType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\CopyEncoder.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/CopyEncoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\DeflateInput.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/DeflateInput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\DeflateManagedStream.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/DeflateManagedStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\DeflaterManaged.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/DeflaterManaged.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\FastEncoder.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/FastEncoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\FastEncoderStatus.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/FastEncoderStatus.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\FastEncoderWindow.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/FastEncoderWindow.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\FileFormats.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/FileFormats.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\HuffmanTree.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/HuffmanTree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\InflaterManaged.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/InflaterManaged.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\InflaterState.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/InflaterState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\InputBuffer.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/InputBuffer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\Match.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/Match.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\MatchState.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/MatchState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\OutputBuffer.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/OutputBuffer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateManaged\OutputWindow.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateManaged/OutputWindow.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateZLib\Deflater.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateZLib/Deflater.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateZLib\DeflateStream.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateZLib/DeflateStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateZLib\Inflater.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateZLib/Inflater.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateZLib\ZLibException.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateZLib/ZLibException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateZLib\ZLibNative.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateZLib/ZLibNative.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\DeflateZLib\ZLibNative.Windows.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/DeflateZLib/ZLibNative.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\GZipStream.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/GZipStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\PositionPreservingWriteOnlyStreamWrapper.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/PositionPreservingWriteOnlyStreamWrapper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\PositionPreservingWriteOnlyStreamWrapper.netcoreapp.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/PositionPreservingWriteOnlyStreamWrapper.netcoreapp.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZipArchive.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZipArchive.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZipArchiveEntry.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZipArchiveEntry.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZipArchiveEntry.netcoreapp.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZipArchiveEntry.netcoreapp.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZipArchiveEntry.Windows.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZipArchiveEntry.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZipArchiveMode.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZipArchiveMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZipBlocks.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZipBlocks.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZipCustomStreams.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZipCustomStreams.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZipCustomStreams.netcoreapp.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZipCustomStreams.netcoreapp.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZipHelper.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZipHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZipVersion.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZipVersion.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Compression\src\System\IO\Compression\ZLibException.Serialization.cs">
+      <TargetPath>sources/src/System.IO.Compression/src/System/IO/Compression/ZLibException.Serialization.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Collections.Immutable\netcoreapp\System.Collections.Immutable.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Collections.Immutable\netcoreapp\System.Collections.Immutable.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Collections.Immutable\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Collections.Immutable/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Collections.Immutable\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Collections.Immutable/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Runtime\Versioning\NonVersionableAttribute.cs">
+      <Link>Common\System\Runtime\Versioning\NonVersionableAttribute.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Runtime/Versioning/NonVersionableAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\GlobalSuppressions.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/GlobalSuppressions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\Properties\InternalsVisibleTo.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/Properties/InternalsVisibleTo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\Properties\SecurityTransparent.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/Properties/SecurityTransparent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Generic\IHashKeyCollection.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Generic/IHashKeyCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Generic\ISortKeyCollection.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Generic/ISortKeyCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\AllocFreeConcurrentStack.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/AllocFreeConcurrentStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\DictionaryEnumerator.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/DictionaryEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\DisposableEnumeratorAdapter_2.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/DisposableEnumeratorAdapter_2.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IBinaryTree.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IBinaryTree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IImmutableArray.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IImmutableArray.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IImmutableDictionary.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IImmutableDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IImmutableDictionaryInternal.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IImmutableDictionaryInternal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IImmutableList.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IImmutableList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IImmutableListQueries.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IImmutableListQueries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IImmutableQueue.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IImmutableQueue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IImmutableSet.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IImmutableSet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IImmutableStack.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IImmutableStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableArray.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableArray.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableArray_1.Builder.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableArray_1.Builder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableArray_1.Builder.DebuggerProxy.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableArray_1.Builder.DebuggerProxy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableArray_1.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableArray_1.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableArray_1.Enumerator.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableArray_1.Enumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableArray_1.Minimal.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableArray_1.Minimal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableDictionary.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableDictionary_2.Builder.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableDictionary_2.Builder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableDictionary_2.Comparers.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableDictionary_2.Comparers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableDictionary_2.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableDictionary_2.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableDictionary_2.Enumerator.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableDictionary_2.Enumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableDictionary_2.HashBucket.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableDictionary_2.HashBucket.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableDictionary_2.MutationInput.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableDictionary_2.MutationInput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableDictionary_2.MutationResult.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableDictionary_2.MutationResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableEnumerableDebuggerProxy.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableEnumerableDebuggerProxy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableExtensions.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableExtensions.Minimal.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableExtensions.Minimal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableHashSet.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableHashSet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableHashSet_1.Builder.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableHashSet_1.Builder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableHashSet_1.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableHashSet_1.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableHashSet_1.Enumerator.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableHashSet_1.Enumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableHashSet_1.HashBucket.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableHashSet_1.HashBucket.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableHashSet_1.HashBucketByRefEqualityComparer.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableHashSet_1.HashBucketByRefEqualityComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableHashSet_1.HashBucketByValueEqualityComparer.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableHashSet_1.HashBucketByValueEqualityComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableHashSet_1.MutationInput.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableHashSet_1.MutationInput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableHashSet_1.MutationResult.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableHashSet_1.MutationResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableHashSet_1.NodeEnumerable.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableHashSet_1.NodeEnumerable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableInterlocked.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableInterlocked.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableList.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableList_1.Builder.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableList_1.Builder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableList_1.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableList_1.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableList_1.Enumerator.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableList_1.Enumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableList_1.Node.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableList_1.Node.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableQueue.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableQueue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableQueue_1.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableQueue_1.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableQueue_1.Enumerator.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableQueue_1.Enumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedDictionary.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedDictionary_2.Builder.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedDictionary_2.Builder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedDictionary_2.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedDictionary_2.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedDictionary_2.Enumerator.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedDictionary_2.Enumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedDictionary_2.Node.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedDictionary_2.Node.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedSet.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedSet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedSet_1.Builder.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedSet_1.Builder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedSet_1.Builder.DebuggerProxy.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedSet_1.Builder.DebuggerProxy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedSet_1.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedSet_1.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedSet_1.Enumerator.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedSet_1.Enumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableSortedSet_1.Node.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableSortedSet_1.Node.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableStack.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableStack_1.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableStack_1.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\ImmutableStack_1.Enumerator.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/ImmutableStack_1.Enumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IOrderedCollection.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IOrderedCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IStrongEnumerable_2.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IStrongEnumerable_2.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\IStrongEnumerator_1.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/IStrongEnumerator_1.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\KeysOrValuesCollectionAccessor.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/KeysOrValuesCollectionAccessor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\RefAsValueType.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/RefAsValueType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\SecureObjectPool.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/SecureObjectPool.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\SortedInt32KeyNode.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/SortedInt32KeyNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Collections\Immutable\SortedInt32KeyNode.Enumerator.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Collections/Immutable/SortedInt32KeyNode.Enumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\System\Linq\ImmutableArrayExtensions.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/System/Linq/ImmutableArrayExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\Validation\Requires.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/Validation/Requires.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Immutable\src\Validation\ValidatedNotNullAttribute.cs">
+      <TargetPath>sources/src/System.Collections.Immutable/src/Validation/ValidatedNotNullAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

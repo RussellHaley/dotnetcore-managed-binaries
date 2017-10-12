@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\Microsoft.Win32.Registry\netcoreapp2.0\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/Microsoft.Win32.Registry/netcoreapp2.0/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\Microsoft.Win32.Registry\netcoreapp2.0\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/Microsoft.Win32.Registry/netcoreapp2.0/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\Microsoft.Win32.Registry\netcoreapp2.0\Microsoft.Win32.Registry.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\Microsoft.Win32.Registry\netcoreapp2.0\Microsoft.Win32.Registry.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegCloseKey.cs">
+      <Link>Common\Interop\Windows\Interop.RegCloseKey.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegCloseKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegConnectRegistry.cs">
+      <Link>Common\Interop\Windows\Interop.RegConnectRegistry.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegConnectRegistry.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegCreateKeyEx.cs">
+      <Link>Common\Interop\Windows\Interop.RegCreateKeyEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegCreateKeyEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegDeleteKeyEx.cs">
+      <Link>Common\Interop\Windows\Interop.RegDeleteKeyEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegDeleteKeyEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegDeleteValue.cs">
+      <Link>Common\Interop\Windows\Interop.RegDeleteValue.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegDeleteValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegEnumKeyEx.cs">
+      <Link>Common\Interop\Windows\Interop.RegEnumKeyEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegEnumKeyEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegEnumValue.cs">
+      <Link>Common\Interop\Windows\Interop.RegEnumValue.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegEnumValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegFlushKey.cs">
+      <Link>Common\Interop\Windows\Interop.RegFlushKey.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegFlushKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegistryOptions.cs">
+      <Link>Common\Interop\Windows\Interop.RegistryOptions.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegistryOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegOpenKeyEx.cs">
+      <Link>Common\Interop\Windows\Interop.RegOpenKeyEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegOpenKeyEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegQueryInfoKey.cs">
+      <Link>Common\Interop\Windows\Interop.RegQueryInfoKey.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegQueryInfoKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegQueryValueEx.cs">
+      <Link>Common\Interop\Windows\Interop.RegQueryValueEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegQueryValueEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RegSetValueEx.cs">
+      <Link>Common\Interop\Windows\Interop.RegSetValueEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RegSetValueEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.BOOL.cs">
+      <Link>Common\Interop\Windows\Interop.BOOL.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.BOOL.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Errors.cs">
+      <Link>Common\Interop\Windows\Interop.Errors.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Errors.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FormatMessage.cs">
+      <Link>Common\Interop\Windows\Interop.FormatMessage.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FormatMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SECURITY_ATTRIBUTES.cs">
+      <Link>Common\Interop\Windows\Interop.SECURITY_ATTRIBUTES.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SECURITY_ATTRIBUTES.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\Registry.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/Registry.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\RegistryHive.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryHive.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\RegistryKey.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\RegistryKey.Windows.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryKey.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\RegistryKeyPermissionCheck.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryKeyPermissionCheck.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\RegistryOptions.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\RegistryValueKind.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryValueKind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\RegistryValueOptions.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryValueOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\RegistryView.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/RegistryView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\SafeHandles\SafeRegistryHandle.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/SafeHandles/SafeRegistryHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\SafeHandles\SafeRegistryHandle.Windows.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/SafeHandles/SafeRegistryHandle.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\Microsoft\Win32\ThrowHelper.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/Microsoft/Win32/ThrowHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\System\Security\AccessControl\RegistryRights.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/System/Security/AccessControl/RegistryRights.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\System\Security\AccessControl\RegistrySecurity.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/System/Security/AccessControl/RegistrySecurity.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Registry\src\System\Security\AccessControl\RegistrySecurity.Windows.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Registry/src/System/Security/AccessControl/RegistrySecurity.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

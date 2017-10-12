@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.ComponentModel.Primitives\netcoreapp\System.ComponentModel.Primitives.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.ComponentModel.Primitives\netcoreapp\System.ComponentModel.Primitives.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.ComponentModel.Primitives\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.ComponentModel.Primitives/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.ComponentModel.Primitives\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.ComponentModel.Primitives/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\FxCopBaseline.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/FxCopBaseline.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\BrowsableAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/BrowsableAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\CategoryAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/CategoryAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\Component.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/Component.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\ComponentCollection.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/ComponentCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\DescriptionAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/DescriptionAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\DesignerCategoryAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/DesignerCategoryAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\DesignerSerializationVisibility.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/DesignerSerializationVisibility.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\DesignerSerializationVisibilityAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/DesignerSerializationVisibilityAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\DesignOnlyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/DesignOnlyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\DisplayNameAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/DisplayNameAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\EventHandlerList.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/EventHandlerList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\IComponent.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/IComponent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\IContainer.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/IContainer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\ImmutableObjectAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/ImmutableObjectAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\InitializationEventAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/InitializationEventAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\InvalidEnumArgumentException.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/InvalidEnumArgumentException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\ISite.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/ISite.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\ISupportInitialize.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/ISupportInitialize.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\ISynchronizeInvoke.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/ISynchronizeInvoke.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\LocalizableAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/LocalizableAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\MergablePropertyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/MergablePropertyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\NotifyParentPropertyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/NotifyParentPropertyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\ParenthesizePropertyNameAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/ParenthesizePropertyNameAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\ReadOnlyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/ReadOnlyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\RefreshProperties.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/RefreshProperties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Primitives\src\System\ComponentModel\RefreshPropertiesAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Primitives/src/System/ComponentModel/RefreshPropertiesAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

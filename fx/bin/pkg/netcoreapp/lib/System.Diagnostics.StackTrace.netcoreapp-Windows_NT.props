@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Diagnostics.StackTrace\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Diagnostics.StackTrace/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.StackTrace\netcoreapp\System.Diagnostics.StackTrace.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.StackTrace\netcoreapp\System.Diagnostics.StackTrace.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\StackFrameExtensions.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/StackFrameExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\StackTraceSymbols.CoreCLR.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/StackTraceSymbols.CoreCLR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\ISymbolBinder.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/ISymbolBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\ISymbolDocument.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/ISymbolDocument.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\ISymbolMethod.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/ISymbolMethod.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\ISymbolNamespace.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/ISymbolNamespace.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\ISymbolReader.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/ISymbolReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\ISymbolScope.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/ISymbolScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\ISymbolVariable.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/ISymbolVariable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\ISymbolWriter.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/ISymbolWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\SymAddressKind.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/SymAddressKind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\SymbolToken.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/SymbolToken.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\SymDocumentType.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/SymDocumentType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\SymLanguageType.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/SymLanguageType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.StackTrace\src\System\Diagnostics\SymbolStore\SymLanguageVendor.cs">
+      <TargetPath>sources/src/System.Diagnostics.StackTrace/src/System/Diagnostics/SymbolStore/SymLanguageVendor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

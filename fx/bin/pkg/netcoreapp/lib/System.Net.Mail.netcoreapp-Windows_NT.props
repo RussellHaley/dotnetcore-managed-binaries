@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.Mail\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.Mail/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.Mail\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.Mail/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.Mail\netcoreapp\System.Net.Mail.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.Mail\netcoreapp\System.Net.Mail.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.certificates.cs">
+      <Link>Common\Interop\Windows\Crypt32\Interop.certificates.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.certificates.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.certificates_types.cs">
+      <Link>Common\Interop\Windows\Crypt32\Interop.certificates_types.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.certificates_types.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CloseHandle.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.CloseHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CloseHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\SChannel\Interop.SECURITY_STATUS.cs">
+      <Link>Common\Interop\Windows\SChannel\Interop.SECURITY_STATUS.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/SChannel/Interop.SECURITY_STATUS.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\SChannel\SecPkgContext_ConnectionInfo.cs">
+      <Link>Common\Interop\Windows\SChannel\SecPkgContext_ConnectionInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/SChannel/SecPkgContext_ConnectionInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\GlobalSSPI.cs">
+      <Link>Common\Interop\Windows\sspicli\GlobalSSPI.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/GlobalSSPI.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.SSPI.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.SSPI.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.SSPI.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\NegotiationInfoClass.cs">
+      <Link>Common\Interop\Windows\sspicli\NegotiationInfoClass.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/NegotiationInfoClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SafeDeleteContext.cs">
+      <Link>Common\Interop\Windows\sspicli\SafeDeleteContext.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SafeDeleteContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecPkgContext_Bindings.cs">
+      <Link>Common\Interop\Windows\sspicli\SecPkgContext_Bindings.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecPkgContext_Bindings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecPkgContext_NegotiationInfoW.cs">
+      <Link>Common\Interop\Windows\sspicli\SecPkgContext_NegotiationInfoW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecPkgContext_NegotiationInfoW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecPkgContext_Sizes.cs">
+      <Link>Common\Interop\Windows\sspicli\SecPkgContext_Sizes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecPkgContext_Sizes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecPkgContext_StreamSizes.cs">
+      <Link>Common\Interop\Windows\sspicli\SecPkgContext_StreamSizes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecPkgContext_StreamSizes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecurityPackageInfo.cs">
+      <Link>Common\Interop\Windows\sspicli\SecurityPackageInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecurityPackageInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecurityPackageInfoClass.cs">
+      <Link>Common\Interop\Windows\sspicli\SecurityPackageInfoClass.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecurityPackageInfoClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SecuritySafeHandles.cs">
+      <Link>Common\Interop\Windows\sspicli\SecuritySafeHandles.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SecuritySafeHandles.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SSPIAuthType.cs">
+      <Link>Common\Interop\Windows\sspicli\SSPIAuthType.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SSPIAuthType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SSPIInterface.cs">
+      <Link>Common\Interop\Windows\sspicli\SSPIInterface.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SSPIInterface.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SSPISecureChannelType.cs">
+      <Link>Common\Interop\Windows\sspicli\SSPISecureChannelType.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SSPISecureChannelType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\SSPIWrapper.cs">
+      <Link>Common\Interop\Windows\sspicli\SSPIWrapper.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/SSPIWrapper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\BidirectionalDictionary.cs">
+      <Link>Common\System\Collections\Generic\BidirectionalDictionary.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/BidirectionalDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ContextAwareResult.cs">
+      <Link>Common\System\Net\ContextAwareResult.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ContextAwareResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ContextAwareResult.Windows.cs">
+      <Link>Common\System\Net\ContextAwareResult.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ContextAwareResult.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ContextFlagsAdapterPal.Windows.cs">
+      <Link>Common\System\Net\ContextFlagsAdapterPal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ContextFlagsAdapterPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ContextFlagsPal.cs">
+      <Link>Common\System\Net\ContextFlagsPal.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ContextFlagsPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\DebugCriticalHandleMinusOneIsInvalid.cs">
+      <Link>Common\System\Net\DebugCriticalHandleMinusOneIsInvalid.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/DebugCriticalHandleMinusOneIsInvalid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\DebugCriticalHandleZeroOrMinusOneIsInvalid.cs">
+      <Link>Common\System\Net\DebugCriticalHandleZeroOrMinusOneIsInvalid.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/DebugCriticalHandleZeroOrMinusOneIsInvalid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\DebugSafeHandle.cs">
+      <Link>Common\System\Net\DebugSafeHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/DebugSafeHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ExceptionCheck.cs">
+      <Link>Common\System\Net\ExceptionCheck.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ExceptionCheck.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\InternalException.cs">
+      <Link>Common\System\Net\InternalException.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/InternalException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\IntPtrHelper.cs">
+      <Link>Common\System\Net\IntPtrHelper.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/IntPtrHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\LazyAsyncResult.cs">
+      <Link>Common\System\Net\LazyAsyncResult.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/LazyAsyncResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Logging\DebugThreadTracking.cs">
+      <Link>Common\System\Net\Logging\DebugThreadTracking.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Logging/DebugThreadTracking.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Logging\NetEventSource.Common.cs">
+      <Link>Common\System\Net\Logging\NetEventSource.Common.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Logging/NetEventSource.Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\DomainLiteralReader.cs">
+      <Link>Common\System\Net\Mail\DomainLiteralReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/DomainLiteralReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\DotAtomReader.cs">
+      <Link>Common\System\Net\Mail\DotAtomReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/DotAtomReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\MailAddressParser.cs">
+      <Link>Common\System\Net\Mail\MailAddressParser.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/MailAddressParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\MailBnfHelper.cs">
+      <Link>Common\System\Net\Mail\MailBnfHelper.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/MailBnfHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\QuotedPairReader.cs">
+      <Link>Common\System\Net\Mail\QuotedPairReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/QuotedPairReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\QuotedStringFormatReader.cs">
+      <Link>Common\System\Net\Mail\QuotedStringFormatReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/QuotedStringFormatReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Mail\WhitespaceReader.cs">
+      <Link>Common\System\Net\Mail\WhitespaceReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Mail/WhitespaceReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NegotiationInfoClass.cs">
+      <Link>Common\System\Net\NegotiationInfoClass.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NegotiationInfoClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NTAuthentication.Common.cs">
+      <Link>Common\System\Net\NTAuthentication.Common.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NTAuthentication.Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SecurityProtocol.cs">
+      <Link>Common\System\Net\SecurityProtocol.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SecurityProtocol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SecurityStatusAdapterPal.Windows.cs">
+      <Link>Common\System\Net\SecurityStatusAdapterPal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SecurityStatusAdapterPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SecurityStatusPal.cs">
+      <Link>Common\System\Net\SecurityStatusPal.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SecurityStatusPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\NegotiateStreamPal.Windows.cs">
+      <Link>Common\System\Net\Security\NegotiateStreamPal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/NegotiateStreamPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\NetEventSource.Security.cs">
+      <Link>Common\System\Net\Security\NetEventSource.Security.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/NetEventSource.Security.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\NetEventSource.Security.Windows.cs">
+      <Link>Common\System\Net\Security\NetEventSource.Security.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/NetEventSource.Security.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\SecurityBuffer.cs">
+      <Link>Common\System\Net\Security\SecurityBuffer.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/SecurityBuffer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\SecurityBufferType.cs">
+      <Link>Common\System\Net\Security\SecurityBufferType.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/SecurityBufferType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\SecurityContextTokenHandle.cs">
+      <Link>Common\System\Net\Security\SecurityContextTokenHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/SecurityContextTokenHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Security\SSPIHandleCache.cs">
+      <Link>Common\System\Net\Security\SSPIHandleCache.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Security/SSPIHandleCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\TlsStream.cs">
+      <Link>Common\System\Net\TlsStream.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/TlsStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\NotImplemented.cs">
+      <Link>Common\System\NotImplemented.cs</Link>
+      <TargetPath>sources/src/Common/src/System/NotImplemented.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\StringExtensions.cs">
+      <Link>Common\System\StringExtensions.cs</Link>
+      <TargetPath>sources/src/Common/src/System/StringExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Base64Stream.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Base64Stream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\BufferBuilder.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/BufferBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\BufferedReadStream.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/BufferedReadStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\CloseableStream.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/CloseableStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\DelegatedStream.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/DelegatedStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\AlternateView.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/AlternateView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\AlternateViewCollection.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/AlternateViewCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\Attachment.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/Attachment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\AttachmentCollection.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/AttachmentCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\ISmtpAuthenticationModule.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/ISmtpAuthenticationModule.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\LinkedResource.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/LinkedResource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\LinkedResourceCollection.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/LinkedResourceCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\MailAddress.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/MailAddress.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\MailAddressCollection.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/MailAddressCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\MailHeaderID.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/MailHeaderID.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\MailHeaderInfo.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/MailHeaderInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\MailMessage.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/MailMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\MailPriority.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/MailPriority.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\MailWriter.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/MailWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\NetEventSource.Mail.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/NetEventSource.Mail.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpAuthenticationManager.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpAuthenticationManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpClient.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpClient.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpCommands.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpCommands.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpConnection.Auth.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpConnection.Auth.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpConnection.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpConnection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpException.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpFailedRecipientException.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpFailedRecipientException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpFailedRecipientsException.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpFailedRecipientsException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpLoginAuthenticationModule.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpLoginAuthenticationModule.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpNegotiateAuthenticationModule.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpNegotiateAuthenticationModule.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpNtlmAuthenticationModule.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpNtlmAuthenticationModule.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpReplyReader.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpReplyReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpReplyReaderFactory.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpReplyReaderFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpStatusCode.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpStatusCode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mail\SmtpTransport.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mail/SmtpTransport.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\Base64WriteStateInfo.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/Base64WriteStateInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\BaseWriter.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/BaseWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\ContentDisposition.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/ContentDisposition.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\ContentType.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/ContentType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\DispositionTypeNames.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/DispositionTypeNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\EightBitStream.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/EightBitStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\EncodedStreamFactory.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/EncodedStreamFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\HeaderCollection.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/HeaderCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\IEncodableStream.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/IEncodableStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\MediaTypeNames.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/MediaTypeNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\MimeBasePart.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/MimeBasePart.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\MimeMultiPart.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/MimeMultiPart.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\MimeMultiPartType.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/MimeMultiPartType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\MimePart.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/MimePart.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\MimeWriter.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/MimeWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\MultiAsyncResult.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/MultiAsyncResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\QEncodedStream.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/QEncodedStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\QuotedPrintableStream.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/QuotedPrintableStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\SmtpDateTime.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/SmtpDateTime.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\TransferEncoding.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/TransferEncoding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\Mime\WriteStateInfoBase.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/Mime/WriteStateInfoBase.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\TrackingStringDictionary.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/TrackingStringDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Mail\src\System\Net\TrackingValidationObjectDictionary.cs">
+      <TargetPath>sources/src/System.Net.Mail/src/System/Net/TrackingValidationObjectDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+    18>MASM : warning A4018: invalid command-line option : /Yustdafx.h [N:\Code\Git\coreclr\bin\obj\Windows_NT.x64.Debug\src\debug\di\cordbdi.vcxproj]
+    18>MASM : warning A4018: invalid command-line option : /FpN:/Code/Git/coreclr/bin/obj/Windows_NT.x64.Debug/src/debug/di/Debug/stdafx.pch [N:\Code\Git\coreclr\bin\obj\Windows_NT.x64.Debug\src\debug\di\cordbdi.vcxproj]
+    21>LINK : warning LNK4266: missing load config symbol for image built with /GUARD [N:\Code\Git\coreclr\bin\obj\Windows_NT.x64.Debug\src\dlls\clretwrc\clretwrc.vcxproj]
+    81>LINK : warning LNK4266: missing load config symbol for image built with /GUARD [N:\Code\Git\coreclr\bin\obj\Windows_NT.x64.Debug\src\dlls\mscorrc\small\mscorrc.vcxproj]
+    82>LINK : warning LNK4266: missing load config symbol for image built with /GUARD [N:\Code\Git\coreclr\bin\obj\Windows_NT.x64.Debug\src\dlls\mscorrc\full\mscorrc.debug.vcxproj]
+
+Build succeeded.
+    5 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:07:32.97

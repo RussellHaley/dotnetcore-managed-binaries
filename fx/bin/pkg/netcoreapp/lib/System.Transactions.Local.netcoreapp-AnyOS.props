@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Transactions.Local\netcoreapp\System.Transactions.Local.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Transactions.Local\netcoreapp\System.Transactions.Local.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Transactions.Local\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Transactions.Local/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Transactions.Local\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Transactions.Local/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\CommittableTransaction.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/CommittableTransaction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\Configuration\AppSettings.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/Configuration/AppSettings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\Configuration\ConfigurationStrings.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/Configuration/ConfigurationStrings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\Configuration\DefaultSettingsSection.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/Configuration/DefaultSettingsSection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\Configuration\MachineSettingsSection.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/Configuration/MachineSettingsSection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\DependentTransaction.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/DependentTransaction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\DistributedTransaction.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/DistributedTransaction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\DurableEnlistmentState.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/DurableEnlistmentState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\Enlistment.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/Enlistment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\EnlistmentState.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/EnlistmentState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\EnlistmentTraceIdentifier.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/EnlistmentTraceIdentifier.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\EnterpriseServices.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/EnterpriseServices.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\IEnlistmentNotification.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/IEnlistmentNotification.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\InternalTransaction.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/InternalTransaction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\IPromotableSinglePhaseNotification.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/IPromotableSinglePhaseNotification.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\ISimpleTransactionSuperior.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/ISimpleTransactionSuperior.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\ISinglePhaseNotification.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/ISinglePhaseNotification.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\ITransactionPromoter.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/ITransactionPromoter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\PreparingEnlistment.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/PreparingEnlistment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\SinglePhaseEnlistment.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/SinglePhaseEnlistment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\SubordinateTransaction.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/SubordinateTransaction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\Transaction.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/Transaction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\TransactionException.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/TransactionException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\TransactionInformation.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/TransactionInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\TransactionInterop.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/TransactionInterop.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\TransactionManager.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/TransactionManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\TransactionOptions.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/TransactionOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\TransactionScope.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/TransactionScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\TransactionsEtwProvider.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/TransactionsEtwProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\TransactionState.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/TransactionState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\TransactionTable.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/TransactionTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\TransactionTraceIdentifier.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/TransactionTraceIdentifier.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\VolatileEnlistmentMultiplexing.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/VolatileEnlistmentMultiplexing.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Transactions.Local\src\System\Transactions\VolatileEnlistmentState.cs">
+      <TargetPath>sources/src/System.Transactions.Local/src/System/Transactions/VolatileEnlistmentState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,59 @@
+{
+  "runtimes": {
+    "alpine.3.6-x64": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.alpine.3.6-x64.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-arm": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.linux-arm.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-arm64": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.linux-arm64.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-x64": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.linux-x64.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    },
+    "osx-x64": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.osx-x64.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    },
+    "rhel.6-x64": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.rhel.6-x64.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    },
+    "tizen.4.0.0-armel": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.tizen.4.0.0-armel.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-arm": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.win-arm.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-arm64": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.win-arm64.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-x64": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.win-x64.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-x86": {
+      "Microsoft.NETCore.TestHost": {
+        "runtime.win-x86.Microsoft.NETCore.TestHost": "2.1.0-preview1-25810-0"
+      }
+    }
+  }
+}

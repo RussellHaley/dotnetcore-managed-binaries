@@ -1,0 +1,2644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Private.Xml\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Private.Xml/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Private.Xml\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Private.Xml/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Private.Xml\netcoreapp\System.Private.Xml.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Private.Xml\netcoreapp\System.Private.Xml.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\CSharpHelpers.cs">
+      <TargetPath>sources/src/Common/src/System/CSharpHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\StringBuilderCache.cs">
+      <Link>System\StringBuilderCache.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/StringBuilderCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\LocalAppContext.cs">
+      <TargetPath>sources/src/Common/src/System/LocalAppContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\Misc\HResults.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/Misc/HResults.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\AsyncHelper.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/AsyncHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Base64Decoder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Base64Decoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Base64Encoder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Base64Encoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Base64EncoderAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Base64EncoderAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\BinaryXml\BinXmlToken.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/BinaryXml/BinXmlToken.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\BinaryXml\SqlUtils.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/BinaryXml/SqlUtils.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\BinaryXml\XmlBinaryReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/BinaryXml/XmlBinaryReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\BinHexDecoder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/BinHexDecoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\BinHexEncoder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/BinHexEncoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\BinHexEncoderAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/BinHexEncoderAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Bits.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Bits.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\BitStack.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/BitStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\ByteStack.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/ByteStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\Shape.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/Shape.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\ShapeGenerator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/ShapeGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\XPathDocumentBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/XPathDocumentBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\XPathDocumentIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/XPathDocumentIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\XPathDocumentNavigator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/XPathDocumentNavigator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\XPathDocumentView.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/XPathDocumentView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\XPathNode.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/XPathNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\XPathNodeHelper.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/XPathNodeHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\XPathNodeInfoAtom.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/XPathNodeInfoAtom.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\XPathNodeView.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/XPathNodeView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Cache\XPathNodeViewPropertyDescriptor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Cache/XPathNodeViewPropertyDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\CharEntityEncoderFallback.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/CharEntityEncoderFallback.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\ConformanceLevel.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/ConformanceLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\DtdProcessing.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/DtdProcessing.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\EntityHandling.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/EntityHandling.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\HtmlEncodedRawTextWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/HtmlEncodedRawTextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\HtmlTernaryTree.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/HtmlTernaryTree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\HtmlUtf8RawTextWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/HtmlUtf8RawTextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\IDtdInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/IDtdInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\IDtdParser.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/IDtdParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\IDtdParserAdapter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/IDtdParserAdapter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\IDtdParserAdapterAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/IDtdParserAdapterAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\IDtdParserAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/IDtdParserAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\IncrementalReadDecoders.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/IncrementalReadDecoders.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\IRemovableWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/IRemovableWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\IValidationEventHandling.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/IValidationEventHandling.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\LocalAppContextSwitches.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/LocalAppContextSwitches.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\NamespaceHandling.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/NamespaceHandling.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\NewLineHandling.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/NewLineHandling.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\QueryOutputWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/QueryOutputWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\QueryOutputWriterV1.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/QueryOutputWriterV1.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\ReadContentAsBinaryHelper.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/ReadContentAsBinaryHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\ReadContentAsBinaryHelperAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/ReadContentAsBinaryHelperAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\ReadOnlyTernaryTree.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/ReadOnlyTernaryTree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\ReadState.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/ReadState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\SecureStringHasher.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/SecureStringHasher.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\TextEncodedRawTextWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/TextEncodedRawTextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\TextUtf8RawTextWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/TextUtf8RawTextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\ValidatingReaderNodeData.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/ValidatingReaderNodeData.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\ValidationType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/ValidationType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\WhitespaceHandling.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/WhitespaceHandling.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlAsyncCheckReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlAsyncCheckReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlAsyncCheckWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlAsyncCheckWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlAutoDetectWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlAutoDetectWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlCharCheckingReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlCharCheckingReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlCharCheckingReaderAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlCharCheckingReaderAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlCharCheckingWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlCharCheckingWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlCharCheckingWriterAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlCharCheckingWriterAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlEncodedRawTextWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlEncodedRawTextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlEncodedRawTextWriterAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlEncodedRawTextWriterAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlEventCache.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlEventCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlParserContext.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlParserContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlRawWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlRawWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlRawWriterAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlRawWriterAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlReaderAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlReaderAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlReaderSettings.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlReaderSettings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlSpace.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlSpace.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlSubtreeReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlSubtreeReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlSubtreeReaderAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlSubtreeReaderAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlTextEncoder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlTextEncoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlTextReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlTextReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlTextReaderImpl.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlTextReaderImpl.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlTextReaderImplAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlTextReaderImplAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlTextReaderImplHelpers.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlTextReaderImplHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlTextReaderImplHelpersAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlTextReaderImplHelpersAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlTextWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlTextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlUtf8RawTextWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlUtf8RawTextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlUtf8RawTextWriterAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlUtf8RawTextWriterAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlValidatingReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlValidatingReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlValidatingReaderImpl.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlValidatingReaderImpl.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlValidatingReaderImplAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlValidatingReaderImplAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWellFormedWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWellFormedWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWellFormedWriterAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWellFormedWriterAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWellFormedWriterHelpers.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWellFormedWriterHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWellFormedWriterHelpersAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWellFormedWriterHelpersAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWrappingReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWrappingReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWrappingReaderAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWrappingReaderAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWrappingWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWrappingWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWrappingWriterAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWrappingWriterAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWriterAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWriterAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XmlWriterSettings.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XmlWriterSettings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XsdCachingReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XsdCachingReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XsdCachingReaderAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XsdCachingReaderAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XsdValidatingReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XsdValidatingReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Core\XsdValidatingReaderAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Core/XsdValidatingReaderAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\DiagnosticsSwitches.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/DiagnosticsSwitches.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\DocumentSchemaValidator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/DocumentSchemaValidator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\DocumentXmlWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/DocumentXmlWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\DocumentXPathNavigator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/DocumentXPathNavigator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\DomNameTable.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/DomNameTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlAttributeCollection.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlAttributeCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlCDataSection.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlCDataSection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlCharacterData.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlCharacterData.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlChildEnumerator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlChildEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlChildNodes.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlChildNodes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlComment.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlComment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlDeclaration.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlDeclaration.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlDocument.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlDocument.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlDocumentFragment.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlDocumentFragment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlDocumentType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlDocumentType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlDomTextWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlDomTextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlElement.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlElement.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlElementList.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlElementList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlEntity.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlEntity.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlEntityReference.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlEntityReference.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlEventChangedAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlEventChangedAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlImplementation.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlImplementation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlLinkedNode.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlLinkedNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlLoader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlLoader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlName.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlNamedNodemap.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlNamedNodemap.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlNamedNodeMap.SmallXmlNodeList.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlNamedNodeMap.SmallXmlNodeList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlNode.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlNodeChangedEventArgs.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlNodeChangedEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlNodeChangedEventHandler.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlNodeChangedEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlNodeList.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlNodeList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlNodeReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlNodeReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlNotation.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlNotation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlProcessingInstruction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlProcessingInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlSignificantWhiteSpace.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlSignificantWhiteSpace.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlText.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlText.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlUnspecifiedAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlUnspecifiedAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XmlWhitespace.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XmlWhitespace.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Dom\XPathNodeList.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Dom/XPathNodeList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\EmptyEnumerator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/EmptyEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Extensions\ExtensionMethods.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Extensions/ExtensionMethods.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\HWStack.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/HWStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\IApplicationResourceStreamResolver.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/IApplicationResourceStreamResolver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\IHasXmlNode.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/IHasXmlNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\IXmlLineInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/IXmlLineInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\IXmlNamespaceResolver.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/IXmlNamespaceResolver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\LineInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/LineInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\MTNameTable.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/MTNameTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\NameTable.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/NameTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Ref.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Ref.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Resolvers\XmlKnownDtds.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Resolvers/XmlKnownDtds.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Resolvers\XmlPreloadedResolver.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Resolvers/XmlPreloadedResolver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Resolvers\XmlPreloadedResolverAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Resolvers/XmlPreloadedResolverAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Resolvers\XmlSystemPathResolver.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Resolvers/XmlSystemPathResolver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\Asttree.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/Asttree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\AutoValidator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/AutoValidator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\BaseProcessor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/BaseProcessor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\BaseValidator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/BaseValidator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\BitSet.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/BitSet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\Chameleonkey.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/Chameleonkey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\CompiledidEntityConstraint.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/CompiledidEntityConstraint.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\ConstraintStruct.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/ConstraintStruct.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\ContentValidator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/ContentValidator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\DataTypeImplementation.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/DataTypeImplementation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\DtdParser.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/DtdParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\DtdParserAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/DtdParserAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\DtdValidator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/DtdValidator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\FacetChecker.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/FacetChecker.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\Inference\Infer.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/Inference/Infer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\Inference\XmlSchemaInferenceException.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/Inference/XmlSchemaInferenceException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\IXmlSchemaInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/IXmlSchemaInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\NamespaceList.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/NamespaceList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\Parser.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/Parser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\ParserAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/ParserAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\Preprocessor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/Preprocessor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaAttDef.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaAttDef.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaCollectionCompiler.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaCollectionCompiler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaCollectionpreProcessor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaCollectionpreProcessor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaDeclBase.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaDeclBase.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaElementDecl.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaElementDecl.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaEntity.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaEntity.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaNames.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaNamespacemanager.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaNamespacemanager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaNotation.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaNotation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaSetCompiler.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaSetCompiler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\SchemaType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/SchemaType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\ValidationEventArgs.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/ValidationEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\ValidationEventHandler.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/ValidationEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\ValidationState.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/ValidationState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XdrBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XdrBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XdrValidator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XdrValidator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlAtomicValue.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlAtomicValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchema.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchema.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaAll.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaAll.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaAnnotated.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaAnnotated.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaAnnotation.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaAnnotation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaAny.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaAny.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaAnyAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaAnyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaAppInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaAppInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaAttributeGroup.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaAttributeGroup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaAttributeGroupref.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaAttributeGroupref.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaChoice.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaChoice.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaCollection.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaCompilationSettings.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaCompilationSettings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaComplexContent.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaComplexContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaComplexContentExtension.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaComplexContentExtension.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaComplexContentRestriction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaComplexContentRestriction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaComplexType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaComplexType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaContent.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaContentModel.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaContentModel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaContentProcessing.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaContentProcessing.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaContentType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaContentType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaDataType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaDataType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaDerivationMethod.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaDerivationMethod.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaDocumentation.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaDocumentation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaElement.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaElement.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaException.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaExternal.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaExternal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaFacet.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaFacet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaForm.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaForm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaGroup.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaGroup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaGroupBase.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaGroupBase.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaGroupRef.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaGroupRef.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaIdEntityConstraint.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaIdEntityConstraint.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaImport.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaImport.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaInclude.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaInclude.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaNotation.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaNotation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaObject.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaObjectCollection.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaObjectCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaObjectTable.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaObjectTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaParticle.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaParticle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaRedefine.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaRedefine.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSequence.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSequence.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSet.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSimpleContent.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSimpleContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSimpleContentExtension.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSimpleContentExtension.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSimpleContentRestriction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSimpleContentRestriction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSimpleType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSimpleType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSimpleTypeContent.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSimpleTypeContent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSimpleTypeList.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSimpleTypeList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSimpleTypeRestriction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSimpleTypeRestriction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSimpleTypeUnion.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSimpleTypeUnion.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaSubstitutionGroup.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaSubstitutionGroup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaUse.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaUse.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaValidationException.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaValidationException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaValidator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaValidator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSchemaValidity.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSchemaValidity.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlSeverityType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlSeverityType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlTokenizedType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlTokenizedType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlTypeCode.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlTypeCode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlUntypedStringConverter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlUntypedStringConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XmlValueConverter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XmlValueConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XsdBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XsdBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XsdDateTime.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XsdDateTime.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XsdDuration.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XsdDuration.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Schema\XsdValidator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Schema/XsdValidator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\CodeGenerationoptions.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/CodeGenerationoptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\CodeGenerator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/CodeGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\CodeIdentifier.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/CodeIdentifier.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\CodeIdentifiers.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/CodeIdentifiers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\Compilation.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/Compilation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\Compiler.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/Compiler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\Configuration\DateTimeSerializationSection.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/Configuration/DateTimeSerializationSection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\Globals.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/Globals.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\ImportContext.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/ImportContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\indentedWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/indentedWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\IXmlSerializable.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/IXmlSerializable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\IXmlTextParser.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/IXmlTextParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\Mappings.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/Mappings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\Models.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/Models.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\NameTable.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/NameTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\PrimitiveXmlSerializers.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/PrimitiveXmlSerializers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\ReflectionXmlSerializationReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/ReflectionXmlSerializationReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\ReflectionXmlSerializationWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/ReflectionXmlSerializationWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SchemaImporter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SchemaImporter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SchemaObjectWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SchemaObjectWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SoapAttributeAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SoapAttributeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SoapAttributeOverrides.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SoapAttributeOverrides.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SoapAttributes.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SoapAttributes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SoapElementAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SoapElementAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SoapEnumAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SoapEnumAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SoapIgnoreAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SoapIgnoreAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SoapIncludeAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SoapIncludeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SoapReflectionImporter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SoapReflectionImporter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SoapSchemamember.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SoapSchemamember.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SoapTypeAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SoapTypeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\SourceInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/SourceInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\TypeCode.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/TypeCode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\TypeExtensions.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/TypeExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\Types.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/Types.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlAnyAttributeAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlAnyAttributeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlAnyElementAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlAnyElementAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlAnyElementAttributes.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlAnyElementAttributes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlArrayAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlArrayAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlArrayItemAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlArrayItemAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlArrayItemAttributes.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlArrayItemAttributes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlAttributeAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlAttributeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlAttributeOverrides.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlAttributeOverrides.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlAttributes.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlAttributes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlChoiceIdentifierAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlChoiceIdentifierAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlCountingReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlCountingReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\Xmlcustomformatter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/Xmlcustomformatter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlElementAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlElementAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlElementAttributes.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlElementAttributes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlEnumAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlEnumAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlIgnoreAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlIgnoreAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlIncludeAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlIncludeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlMapping.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlMapping.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlMemberMapping.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlMemberMapping.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlMembersMapping.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlMembersMapping.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlNamespaceDeclarationsAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlNamespaceDeclarationsAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlReflectionImporter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlReflectionImporter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlReflectionMember.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlReflectionMember.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlRootAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlRootAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSchemaExporter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSchemaExporter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSchemaImporter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSchemaImporter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSchemaProviderAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSchemaProviderAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSchemas.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSchemas.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializationGeneratedCode.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializationGeneratedCode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializationILGen.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializationILGen.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializationReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializationReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializationReaderILGen.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializationReaderILGen.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializationWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializationWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializationWriterILGen.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializationWriterILGen.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializer.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializerAssemblyAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializerAssemblyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializerFactory.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializerFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializerNamespaces.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializerNamespaces.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlSerializerVersionAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlSerializerVersionAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlTextAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlTextAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlTypeAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlTypeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\XmlTypeMapping.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/XmlTypeMapping.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Serialization\_Events.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Serialization/_Events.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\ValidateNames.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/ValidateNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlCharType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlCharType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlComplianceUtil.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlComplianceUtil.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlConvert.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlConvert.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlDownloadManager.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlDownloadManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlDownloadManagerAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlDownloadManagerAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlEncoding.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlEncoding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlException.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlNamespacemanager.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlNamespacemanager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlNamespaceScope.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlNamespaceScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlNameTable.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlNameTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlNodeOrder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlNodeOrder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlNodeType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlNodeType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlNullResolver.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlNullResolver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlQualifiedName.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlQualifiedName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlReservedNs.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlReservedNs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlResolver.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlResolver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlResolverAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlResolverAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlSecureResolver.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlSecureResolver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlSecureResolverAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlSecureResolverAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlUrlResolver.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlUrlResolver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XmlUrlResolverAsync.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XmlUrlResolverAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\AbsoluteQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/AbsoluteQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\AstNode.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/AstNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\AttributeQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/AttributeQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\Axis.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/Axis.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\BaseAxisQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/BaseAxisQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\BooleanExpr.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/BooleanExpr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\BooleanFunctions.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/BooleanFunctions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\CacheAxisQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/CacheAxisQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\CacheChildrenQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/CacheChildrenQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\CacheOutputQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/CacheOutputQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\ChildrenQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/ChildrenQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\ClonableStack.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/ClonableStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\CompiledXPathExpr.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/CompiledXPathExpr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\ContextQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/ContextQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\DescendantBaseQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/DescendantBaseQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\DescendantoverDescendantQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/DescendantoverDescendantQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\DescendantQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/DescendantQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\DocumentorderQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/DocumentorderQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\EmptyQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/EmptyQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\ExtensionQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/ExtensionQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\Filter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/Filter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\FilterQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/FilterQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\FollowingQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/FollowingQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\FollSiblingQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/FollSiblingQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\ForwardPositionQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/ForwardPositionQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\Function.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/Function.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\FunctionQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/FunctionQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\Group.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/Group.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\GroupQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/GroupQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\IdQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/IdQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\IteratorFilter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/IteratorFilter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\LogicalExpr.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/LogicalExpr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\MergeFilterQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/MergeFilterQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\NamespaceQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/NamespaceQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\NodeFunctions.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/NodeFunctions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\NumberFunctions.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/NumberFunctions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\NumericExpr.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/NumericExpr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\Operand.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/Operand.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\OperandQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/OperandQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\Operator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/Operator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\ParentQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/ParentQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\PrecedingQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/PrecedingQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\PreSiblingQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/PreSiblingQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\Query.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/Query.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\QueryBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/QueryBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\ResetableIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/ResetableIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\ReversePositionQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/ReversePositionQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\Root.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/Root.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\SortQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/SortQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\StringFunctions.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/StringFunctions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\UnionExpr.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/UnionExpr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\ValueQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/ValueQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\Variable.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/Variable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\VariableQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/VariableQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathAncestorIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathAncestorIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathAncestorQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathAncestorQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathArrayIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathArrayIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathAxisIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathAxisIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathChildIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathChildIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathDescendantIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathDescendantIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathEmptyIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathEmptyIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathMultyIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathMultyIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathParser.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathScanner.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathScanner.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathSelectionIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathSelectionIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathSelfQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathSelfQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\Internal\XPathSingletonIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/Internal/XPathSingletonIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\IXPathNavigable.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/IXPathNavigable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\XPathDocument.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/XPathDocument.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\XPathException.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/XPathException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\XPathExpr.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/XPathExpr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\XPathItem.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/XPathItem.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\XPathNamespaceScope.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/XPathNamespaceScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\XPathNavigator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/XPathNavigator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\XPathNavigatorKeyComparer.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/XPathNavigatorKeyComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\XPathNavigatorReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/XPathNavigatorReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\XPathNodeIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/XPathNodeIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\XPath\XPathNodeType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/XPath/XPathNodeType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xslt\XslCompiledTransform.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xslt/XslCompiledTransform.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xslt\XsltArgumentList.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xslt/XsltArgumentList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xslt\XsltContext.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xslt/XsltContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xslt\XsltException.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xslt/XsltException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xslt\XslTransform.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xslt/XslTransform.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xslt\XsltSettings.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xslt/XsltSettings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\GenerateHelper.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/GenerateHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\IteratorDescriptor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/IteratorDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\OptimizerPatterns.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/OptimizerPatterns.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\StaticDataManager.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/StaticDataManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\TailCallAnalyzer.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/TailCallAnalyzer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\XmlILAnnotation.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/XmlILAnnotation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\XmlILConstructAnalyzer.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/XmlILConstructAnalyzer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\XmlILModule.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/XmlILModule.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\XmlILOptimization.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/XmlILOptimization.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\XmlILOptimizerVisitor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/XmlILOptimizerVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\XmlILTrace.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/XmlILTrace.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\XmlIlTypeHelper.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/XmlIlTypeHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\IlGen\XmlIlVisitor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/IlGen/XmlIlVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\ISourceLineInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/ISourceLineInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\ListBase.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/ListBase.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Pair.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Pair.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilBinary.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilBinary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilChoice.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilChoice.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilCloneVisitor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilCloneVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilDataSource.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilDataSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilExpression.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilFactory.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilFunction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilFunction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilInvoke.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilInvoke.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilInvokeEarlyBound.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilInvokeEarlyBound.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilInvokeLateBound.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilInvokeLateBound.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilIterator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilList.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilLiteral.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilLiteral.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilLoop.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilLoop.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilName.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilNode.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilNodeType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilNodeType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilParameter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilParameter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilPatternFactory.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilPatternFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilPatternVisitor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilPatternVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilReference.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilReference.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilReplaceVisitor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilReplaceVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilScopedVisitor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilScopedVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilSortKey.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilSortKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilStrConcat.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilStrConcat.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilTargetType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilTargetType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilTernary.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilTernary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilTypeChecker.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilTypeChecker.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilUnary.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilUnary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilValidationVisitor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilValidationVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilVisitor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\QilXmlWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/QilXmlWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\SerializationHints.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/SerializationHints.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\SubstitutionList.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/SubstitutionList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QIL\WhitespaceRule.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QIL/WhitespaceRule.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\QueryReaderSettings.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/QueryReaderSettings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\ContentIterators.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/ContentIterators.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\DecimalFormatter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/DecimalFormatter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\DocumentOrderComparer.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/DocumentOrderComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\DodSequenceMerge.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/DodSequenceMerge.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\EarlyBoundInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/EarlyBoundInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\NumberFormatter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/NumberFormatter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\RtfNavigator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/RtfNavigator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\SetIterators.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/SetIterators.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\SiblingIterators.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/SiblingIterators.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\StringConcat.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/StringConcat.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\TreeIterators.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/TreeIterators.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\WhitespaceRuleLookup.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/WhitespaceRuleLookup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\WhitespaceRuleReader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/WhitespaceRuleReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlAggregates.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlAggregates.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlAttributeCache.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlAttributeCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlCollation.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlCollation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlCollation.Windows.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlCollation.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlExtensionFunction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlExtensionFunction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlILIndex.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlILIndex.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlILStorageConverter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlILStorageConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlIterators.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlIterators.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlNavigatorFilter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlNavigatorFilter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlNavigatorStack.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlNavigatorStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlQueryContext.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlQueryContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlQueryOutput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlQueryOutput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlQueryRuntime.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlQueryRuntime.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlQuerySequence.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlQuerySequence.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlQueryStaticData.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlQueryStaticData.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlRawWriterWrapper.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlRawWriterWrapper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlSequenceWriter.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlSequenceWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlSortKey.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlSortKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XmlSortKeyAccumulator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XmlSortKeyAccumulator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XslNumber.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XslNumber.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XsltConvert.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XsltConvert.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XsltFunctions.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XsltFunctions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Runtime\XsltLibrary.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Runtime/XsltLibrary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\SourceLineInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/SourceLineInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XmlILCommand.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XmlILCommand.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XmlIlGenerator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XmlIlGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XmlNodeKindFlags.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XmlNodeKindFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XmlQualifiedNameTest.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XmlQualifiedNameTest.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XmlQueryCardinality.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XmlQueryCardinality.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XmlQueryType.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XmlQueryType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XmlQueryTypeFactory.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XmlQueryTypeFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPathConvert.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPathConvert.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPath\IXpathBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPath/IXpathBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPath\IXPathEnvironment.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPath/IXPathEnvironment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPath\XPathAxis.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPath/XPathAxis.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPath\XPathBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPath/XPathBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPath\XPathCompileException.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPath/XPathCompileException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPath\XPathContext.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPath/XPathContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPath\XPathOperator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPath/XPathOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPath\XPathParser.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPath/XPathParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPath\XPathQilFactory.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPath/XPathQilFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XPath\XPathScanner.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XPath/XPathScanner.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XslException.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XslException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\Action.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/Action.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\ActionFrame.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/ActionFrame.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\ApplyImportsAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/ApplyImportsAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\ApplyTemplatesAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/ApplyTemplatesAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\AttributeAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/AttributeAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\AttributeSetAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/AttributeSetAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\Avt.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/Avt.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\AvtEvent.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/AvtEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\BeginEvent.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/BeginEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\BuilderInfo.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/BuilderInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\CallTemplateAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/CallTemplateAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\ChooseAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/ChooseAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\CommentAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/CommentAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\CompiledAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/CompiledAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\Compiler.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/Compiler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\ContainerAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/ContainerAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\CopyAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/CopyAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\CopyAttributesAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/CopyAttributesAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\CopyCodeAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/CopyCodeAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\CopyNamespacesAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/CopyNamespacesAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\CopyNodeSetAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/CopyNodeSetAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\CopyOfAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/CopyOfAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\DbgCompiler.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/DbgCompiler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\DocumentScope.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/DocumentScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\ElementAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/ElementAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\EndEvent.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/EndEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\Event.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/Event.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\ForEachAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/ForEachAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\HtmlProps.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/HtmlProps.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\IfAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/IfAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\InputScope.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/InputScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\InputScopeManager.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/InputScopeManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\MessageAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/MessageAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\NamespaceDecl.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/NamespaceDecl.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\NameSpaceEvent.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/NameSpaceEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\NavigatorInput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/NavigatorInput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\NavigatorOutput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/NavigatorOutput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\newinstructionaction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/newinstructionaction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\NumberAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/NumberAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\OutKeywords.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/OutKeywords.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\OutputScope.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/OutputScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\OutputScopeManager.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/OutputScopeManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\PrefixQName.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/PrefixQName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\ProcessingInstructionAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/ProcessingInstructionAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\Processor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/Processor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\ReaderOutput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/ReaderOutput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\RecordBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/RecordBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\RecordOutput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/RecordOutput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\RootAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/RootAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\SequentialOutput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/SequentialOutput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\SortAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/SortAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\StateMachine.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/StateMachine.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\StringOutput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/StringOutput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\Stylesheet.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/Stylesheet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\TemplateAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/TemplateAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\TemplateBaseAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/TemplateBaseAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\TemplateLookupAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/TemplateLookupAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\TemplateManager.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/TemplateManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\TextAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/TextAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\TextEvent.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/TextEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\TextOnlyOutput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/TextOnlyOutput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\TextOutput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/TextOutput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\TheQuery.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/TheQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\UseAttributeSetsAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/UseAttributeSetsAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\ValueOfAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/ValueOfAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\VariableAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/VariableAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\WithParamAction.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/WithParamAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\WriterOutput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/WriterOutput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\XsltCompileContext.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/XsltCompileContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\XsltDebugger.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/XsltDebugger.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\XsltOld\XsltOutput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/XsltOld/XsltOutput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\Compiler.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/Compiler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\CompilerError.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/CompilerError.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\CompilerScopeManager.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/CompilerScopeManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\Focus.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/Focus.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\IErrorHelper.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/IErrorHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\InvokeGenerator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/InvokeGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\KeyMatchBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/KeyMatchBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\Keywords.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/Keywords.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\MatcherBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/MatcherBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\OutputScopeManager.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/OutputScopeManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\QilGenerator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/QilGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\QilGeneratorEnv.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/QilGeneratorEnv.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\QilStrConcatenator.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/QilStrConcatenator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\Scripts.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/Scripts.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\Stylesheet.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/Stylesheet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\XPathPatternBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/XPathPatternBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\XPathPatternParser.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/XPathPatternParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\XslAst.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/XslAst.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\XslAstAnalyzer.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/XslAstAnalyzer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\XslFlags.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/XslFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\XsltInput.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/XsltInput.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\XsltLoader.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/XsltLoader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\XsltQilFactory.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/XsltQilFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml\src\System\Xml\Xsl\Xslt\XslVisitor.cs">
+      <TargetPath>sources/src/System.Private.Xml/src/System/Xml/Xsl/Xslt/XslVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

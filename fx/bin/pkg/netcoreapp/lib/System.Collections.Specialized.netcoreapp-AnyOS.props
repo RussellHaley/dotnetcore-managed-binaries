@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Collections.Specialized\netcoreapp\System.Collections.Specialized.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Collections.Specialized\netcoreapp\System.Collections.Specialized.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Collections.Specialized\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Collections.Specialized/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Collections.Specialized\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Collections.Specialized/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\CompatibleComparer.cs">
+      <Link>Common\System\Collections\CompatibleComparer.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/CompatibleComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Specialized\src\System\Collections\Specialized\BitVector32.cs">
+      <TargetPath>sources/src/System.Collections.Specialized/src/System/Collections/Specialized/BitVector32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Specialized\src\System\Collections\Specialized\HybridDictionary.cs">
+      <TargetPath>sources/src/System.Collections.Specialized/src/System/Collections/Specialized/HybridDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Specialized\src\System\Collections\Specialized\IOrderedDictionary.cs">
+      <TargetPath>sources/src/System.Collections.Specialized/src/System/Collections/Specialized/IOrderedDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Specialized\src\System\Collections\Specialized\ListDictionary.cs">
+      <TargetPath>sources/src/System.Collections.Specialized/src/System/Collections/Specialized/ListDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Specialized\src\System\Collections\Specialized\NameObjectCollectionBase.cs">
+      <TargetPath>sources/src/System.Collections.Specialized/src/System/Collections/Specialized/NameObjectCollectionBase.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Specialized\src\System\Collections\Specialized\NameValueCollection.cs">
+      <TargetPath>sources/src/System.Collections.Specialized/src/System/Collections/Specialized/NameValueCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Specialized\src\System\Collections\Specialized\OrderedDictionary.cs">
+      <TargetPath>sources/src/System.Collections.Specialized/src/System/Collections/Specialized/OrderedDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Specialized\src\System\Collections\Specialized\StringCollection.cs">
+      <TargetPath>sources/src/System.Collections.Specialized/src/System/Collections/Specialized/StringCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Specialized\src\System\Collections\Specialized\StringDictionary.cs">
+      <TargetPath>sources/src/System.Collections.Specialized/src/System/Collections/Specialized/StringDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

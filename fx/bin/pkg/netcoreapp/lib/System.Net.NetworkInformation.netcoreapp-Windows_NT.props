@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.NetworkInformation\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.NetworkInformation/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.NetworkInformation\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.NetworkInformation/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.NetworkInformation\netcoreapp\System.Net.NetworkInformation.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.NetworkInformation\netcoreapp\System.Net.NetworkInformation.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\IpHlpApi\Interop.ErrorCodes.cs">
+      <Link>Interop\Windows\IpHlpApi\Interop.ErrorCodes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/IpHlpApi/Interop.ErrorCodes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\IpHlpApi\Interop.FIXED_INFO.cs">
+      <Link>Interop\Windows\IpHlpApi\Interop.FIXED_INFO.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/IpHlpApi/Interop.FIXED_INFO.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\IpHlpApi\Interop.IP_ADDR_STRING.cs">
+      <Link>Interop\Windows\IpHlpApi\Interop.IP_ADDR_STRING.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/IpHlpApi/Interop.IP_ADDR_STRING.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\IpHlpApi\Interop.NetworkInformation.cs">
+      <Link>Interop\Windows\IpHlpApi\Interop.NetworkInformation.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/IpHlpApi/Interop.NetworkInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalAlloc.Constants.cs">
+      <Link>Interop\Windows\kernel32\Interop.LocalAlloc.Constants.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalAlloc.Constants.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalAlloc.cs">
+      <Link>Interop\Windows\kernel32\Interop.LocalAlloc.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalAlloc.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalAlloc_SafeOverlappedFree.cs">
+      <Link>Interop\Windows\kernel32\Interop.LocalAlloc_SafeOverlappedFree.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalAlloc_SafeOverlappedFree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalFree.cs">
+      <Link>Interop\Windows\kernel32\Interop.LocalFree.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalFree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetFileCompletionNotificationModes.cs">
+      <Link>Interop\Windows\kernel32\Interop.SetFileCompletionNotificationModes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetFileCompletionNotificationModes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.accept.cs">
+      <Link>Interop\Windows\Winsock\Interop.accept.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.accept.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.closesocket.cs">
+      <Link>Interop\Windows\Winsock\Interop.closesocket.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.closesocket.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.ioctlsocket.cs">
+      <Link>Interop\Windows\Winsock\Interop.ioctlsocket.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.ioctlsocket.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.setsockopt.cs">
+      <Link>Interop\Windows\Winsock\Interop.setsockopt.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.setsockopt.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.WinsockAsync.cs">
+      <Link>Interop\Windows\Winsock\Interop.WinsockAsync.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.WinsockAsync.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.WinsockBSD.cs">
+      <Link>Interop\Windows\Winsock\Interop.WinsockBSD.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.WinsockBSD.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.WSAEventSelect.cs">
+      <Link>Interop\Windows\Winsock\Interop.WSAEventSelect.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.WSAEventSelect.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.WSAIoctl.cs">
+      <Link>Interop\Windows\Winsock\Interop.WSAIoctl.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.WSAIoctl.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.WSASocketW.cs">
+      <Link>Interop\Windows\Winsock\Interop.WSASocketW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.WSASocketW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.WSASocketW.SafeCloseSocket.cs">
+      <Link>Interop\Windows\Winsock\Interop.WSASocketW.SafeCloseSocket.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.WSASocketW.SafeCloseSocket.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\SafeOverlappedFree.cs">
+      <Link>Interop\Windows\Winsock\SafeOverlappedFree.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/SafeOverlappedFree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\WSABuffer.cs">
+      <Link>Interop\Windows\Winsock\WSABuffer.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/WSABuffer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeLocalAllocHandle.cs">
+      <Link>Common\Microsoft\Win32\SafeHandles\SafeLocalAllocHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeLocalAllocHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ByteOrder.cs">
+      <Link>Common\System\Net\ByteOrder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ByteOrder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\CompletionPortHelper.Windows.cs">
+      <Link>Common\System\Net\CompletionPortHelper.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/CompletionPortHelper.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ContextAwareResult.cs">
+      <Link>Common\System\Net\ContextAwareResult.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ContextAwareResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ContextAwareResult.Windows.cs">
+      <Link>Common\System\Net\ContextAwareResult.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ContextAwareResult.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\DebugSafeHandle.cs">
+      <Link>Common\System\Net\DebugSafeHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/DebugSafeHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\DebugSafeHandleMinusOneIsInvalid.cs">
+      <Link>Common\System\Net\DebugSafeHandleMinusOneIsInvalid.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/DebugSafeHandleMinusOneIsInvalid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ExceptionCheck.cs">
+      <Link>Common\System\Net\ExceptionCheck.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ExceptionCheck.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\InternalException.cs">
+      <Link>Common\System\Net\InternalException.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/InternalException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\IPAddressParserStatics.cs">
+      <Link>Common\System\Net\IPAddressParserStatics.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/IPAddressParserStatics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\LazyAsyncResult.cs">
+      <Link>Common\System\Net\LazyAsyncResult.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/LazyAsyncResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Logging\DebugThreadTracking.cs">
+      <Link>Common\System\Net\Logging\DebugThreadTracking.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Logging/DebugThreadTracking.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Logging\NetEventSource.Common.cs">
+      <Link>Common\System\Net\Logging\NetEventSource.Common.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Logging/NetEventSource.Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NetworkInformation\HostInformation.cs">
+      <Link>Common\System\Net\NetworkInformation\HostInformation.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NetworkInformation/HostInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NetworkInformation\HostInformationPal.Windows.cs">
+      <Link>Common\System\Net\NetworkInformation\HostInformationPal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NetworkInformation/HostInformationPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NetworkInformation\NetworkInformationException.cs">
+      <Link>Common\System\Net\NetworkInformation\NetworkInformationException.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NetworkInformation/NetworkInformationException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NetworkInformation\StartIPOptions.cs">
+      <Link>Common\System\Net\NetworkInformation\StartIPOptions.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NetworkInformation/StartIPOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SafeCloseSocket.cs">
+      <Link>Common\System\Net\SafeCloseSocket.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SafeCloseSocket.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SafeCloseSocket.Windows.cs">
+      <Link>Common\System\Net\SafeCloseSocket.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SafeCloseSocket.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SafeCloseSocketAndEvent.cs">
+      <Link>Common\System\Net\SafeCloseSocketAndEvent.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SafeCloseSocketAndEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SocketAddress.cs">
+      <Link>Common\System\Net\SocketAddress.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SocketAddress.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SocketAddressPal.Windows.cs">
+      <Link>Common\System\Net\SocketAddressPal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SocketAddressPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Sockets\SocketType.cs">
+      <Link>Common\System\Net\Sockets\SocketType.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Sockets/SocketType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\NotImplemented.cs">
+      <Link>Common\System\NotImplemented.cs</Link>
+      <TargetPath>sources/src/Common/src/System/NotImplemented.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\DuplicateAddressDetectionState.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/DuplicateAddressDetectionState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\GatewayIPAddressInformation.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\GatewayIPAddressInformationCollection.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IcmpV4Statistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IcmpV4Statistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IcmpV6Statistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IcmpV6Statistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\InternalIPAddressCollection.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/InternalIPAddressCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IPAddressInformation.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IPAddressInformationCollection.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IPGlobalProperties.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IPGlobalPropertiesPal.Windows.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalPropertiesPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IPGlobalStatistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalStatistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IPInterfaceProperties.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPInterfaceProperties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IPInterfaceStatistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPInterfaceStatistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IPv4InterfaceProperties.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPv4InterfaceProperties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\Ipv4InterfaceStatistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\IPv6InterfaceProperties.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPv6InterfaceProperties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\MulticastIPAddressInformation.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\MulticastIPAddressInformationCollection.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\NetBiosNodeType.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetBiosNodeType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\NetEventSource.NetworkInformation.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetEventSource.NetworkInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\NetworkAddressChange.Windows.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\NetworkAvailabilityEventArgs.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAvailabilityEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\NetworkChangeDelegates.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkChangeDelegates.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\NetworkInterface.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\NetworkInterfaceComponent.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterfaceComponent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\NetworkInterfacePal.Windows.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterfacePal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\NetworkInterfaceType.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterfaceType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\OperationalStatus.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/OperationalStatus.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\PhysicalAddress.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\PrefixOrigin.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PrefixOrigin.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SafeCancelMibChangeNotify.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SafeCancelMibChangeNotify.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SafeFreeMibTable.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SafeFreeMibTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\ScopeLevel.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/ScopeLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SuffixOrigin.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SuffixOrigin.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemGatewayIPAddressInformation.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemGatewayIPAddressInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemIcmpV4Statistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemIcmpV4Statistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemIcmpV6Statistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemIcmpV6Statistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemIPAddressInformation.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemIPAddressInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemIPGlobalProperties.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemIPGlobalProperties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemIPGlobalStatistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemIPGlobalStatistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemIPInterfaceProperties.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemIPInterfaceProperties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemIPInterfaceStatistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemIPInterfaceStatistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemIPv4InterfaceProperties.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemIPv4InterfaceProperties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemIPv4InterfaceStatistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemIPv4InterfaceStatistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemIPv6InterfaceProperties.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemIPv6InterfaceProperties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemMulticastIPAddressInformation.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemMulticastIPAddressInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemNetworkInterface.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemNetworkInterface.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemTcpConnection.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemTcpConnection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemTcpStatistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemTcpStatistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemUdpStatistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemUdpStatistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\SystemUnicastIPAddressInformation.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/SystemUnicastIPAddressInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\TcpConnection.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/TcpConnection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\TcpState.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/TcpState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\TcpStatistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/TcpStatistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\TeredoHelper.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/TeredoHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\UdpStatistics.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UdpStatistics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\UnicastIPAddressInformation.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.NetworkInformation\src\System\Net\NetworkInformation\UnicastIPAddressInformationCollection.cs">
+      <TargetPath>sources/src/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

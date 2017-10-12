@@ -1,0 +1,16 @@
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\eh.h(31): warning C4987: nonstandard extension used: 'throw (...)' [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\iosfwd(356): warning C4365: 'return': conversion from 'int' to 'std::char_traits<wchar_t>::int_type', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\iosfwd(452): warning C4365: 'return': conversion from 'int' to 'std::char_traits<unsigned short>::int_type', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\vcruntime_typeinfo.h(41): warning C4623: '__std_type_info_data': default constructor was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\vcruntime_typeinfo.h(41): warning C4626: '__std_type_info_data': assignment operator was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\vcruntime_typeinfo.h(41): warning C5027: '__std_type_info_data': move assignment operator was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\memory(507): warning C4365: 'argument': conversion from 'std::_Atomic_integral_t' to 'long', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\memory(550): warning C4365: 'return': conversion from 'std::_Atomic_integral_t' to 'long', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\thr\xthread(253): warning C4625: 'std::_LaunchPad<_Target>': copy constructor was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\thr\xthread(253): warning C4626: 'std::_LaunchPad<_Target>': assignment operator was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+
+Build succeeded.
+    10 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:16.90

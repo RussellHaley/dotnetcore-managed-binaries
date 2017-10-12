@@ -1,0 +1,59 @@
+{
+  "runtimes": {
+    "alpine.3.6-x64": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.alpine.3.6-x64.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-arm": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.linux-arm.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-arm64": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.linux-arm64.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-x64": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.linux-x64.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "osx-x64": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.osx-x64.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "rhel.6-x64": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.rhel.6-x64.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "tizen.4.0.0-armel": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.tizen.4.0.0-armel.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-arm": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.win-arm.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-arm64": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.win-arm64.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-x64": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.win-x64.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    },
+    "win-x86": {
+      "Microsoft.NETCore.ILAsm": {
+        "runtime.win-x86.Microsoft.NETCore.ILAsm": "2.1.0-preview1-25810-0"
+      }
+    }
+  }
+}

@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Cng\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.Cryptography.Cng/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Cng\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.Cryptography.Cng/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Cng\netcoreapp\System.Security.Cryptography.Cng.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Cng\netcoreapp\System.Security.Cryptography.Cng.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\BasicSymmetricCipher.cs">
+      <Link>Internal\Cryptography\BasicSymmetricCipher.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/BasicSymmetricCipher.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\BasicSymmetricCipherBCrypt.cs">
+      <Link>Internal\Cryptography\BasicSymmetricCipherBCrypt.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/BasicSymmetricCipherBCrypt.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\CngCommon.Hash.cs">
+      <Link>Internal\Cryptography\CngCommon.Hash.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/CngCommon.Hash.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\CngCommon.SignVerify.cs">
+      <Link>Internal\Cryptography\CngCommon.SignVerify.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/CngCommon.SignVerify.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\HashProvider.cs">
+      <Link>Internal\Cryptography\HashProvider.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/HashProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\HashProviderCng.cs">
+      <Link>Internal\Cryptography\HashProviderCng.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/HashProviderCng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\UniversalCryptoDecryptor.cs">
+      <Link>Internal\Cryptography\UniversalCryptoDecryptor.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/UniversalCryptoDecryptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\UniversalCryptoEncryptor.cs">
+      <Link>Internal\Cryptography\UniversalCryptoEncryptor.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/UniversalCryptoEncryptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\UniversalCryptoTransform.cs">
+      <Link>Internal\Cryptography\UniversalCryptoTransform.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/UniversalCryptoTransform.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\Windows\CryptoThrowHelper.cs">
+      <Link>Internal\Cryptography\Windows\CryptoThrowHelper.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/Windows/CryptoThrowHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\Windows\ErrorCodeHelper.cs">
+      <Link>Internal\Cryptography\Windows\ErrorCodeHelper.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/Windows/ErrorCodeHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\AesBCryptModes.cs">
+      <Link>Interop\Windows\BCrypt\AesBCryptModes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/AesBCryptModes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\BCryptAlgorithmCache.cs">
+      <Link>Internal\Windows\BCrypt\BCryptAlgorithmCache.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/BCryptAlgorithmCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Cng.cs">
+      <Link>Interop\Windows\BCrypt\Cng.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Cng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.AsymmetricEncryption.Types.cs">
+      <Link>Interop\Windows\BCrypt\Interop.AsymmetricEncryption.Types.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.AsymmetricEncryption.Types.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptChainingModes.cs">
+      <Link>Internal\Windows\BCrypt\Interop.BCryptChainingModes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptChainingModes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptCloseAlgorithmProvider.cs">
+      <Link>Interop\Windows\BCrypt\Interop.BCryptCloseAlgorithmProvider.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptCloseAlgorithmProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptCreateHash.cs">
+      <Link>Interop\Windows\BCrypt\Interop.BCryptCreateHash.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptCreateHash.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptDestroyHash.cs">
+      <Link>Interop\Windows\BCrypt\Interop.BCryptDestroyHash.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptDestroyHash.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptFinishHash.cs">
+      <Link>Interop\Windows\BCrypt\Interop.BCryptFinishHash.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptFinishHash.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptGetProperty.cs">
+      <Link>Interop\Windows\BCrypt\Interop.BCryptGetProperty.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptGetProperty.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptHashData.cs">
+      <Link>Interop\Windows\BCrypt\Interop.BCryptHashData.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptHashData.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptKeyDataBlob.cs">
+      <Link>Internal\Windows\BCrypt\Interop.BCryptKeyDataBlob.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptKeyDataBlob.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptOpenAlgorithmProvider.cs">
+      <Link>Interop\Windows\BCrypt\Interop.BCryptOpenAlgorithmProvider.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptOpenAlgorithmProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptPropertyStrings.cs">
+      <Link>Interop\Windows\BCrypt\Interop.BCryptPropertyStrings.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptPropertyStrings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.Blobs.cs">
+      <Link>Interop\Windows\BCrypt\Interop.Blobs.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.Blobs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.CreateCryptographicException.cs">
+      <Link>Interop\Windows\BCrypt\Interop.CreateCryptographicException.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.CreateCryptographicException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.NTSTATUS.cs">
+      <Link>Interop\Windows\BCrypt\Interop.NTSTATUS.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.NTSTATUS.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\TripleDesBCryptModes.cs">
+      <Link>Interop\Windows\BCrypt\TripleDesBCryptModes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/TripleDesBCryptModes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.FindOidInfo.cs">
+      <Link>Internal\Windows\Crypt32\Interop.FindOidInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.FindOidInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.HashIdAlg.cs">
+      <Link>Common\Interop\Windows\Crypt32\Interop.HashIdAlg.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.HashIdAlg.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FormatMessage.cs">
+      <Link>Internal\Windows\kernel32\Interop.FormatMessage.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FormatMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.AsymmetricPaddingMode.cs">
+      <Link>Internal\Windows\NCrypt\Interop.AsymmetricPaddingMode.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.AsymmetricPaddingMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.EncryptDecrypt.cs">
+      <Link>Internal\Windows\NCrypt\Interop.EncryptDecrypt.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.EncryptDecrypt.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.ErrorCode.cs">
+      <Link>Internal\Windows\NCrypt\Interop.ErrorCode.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.ErrorCode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.Keys.cs">
+      <Link>Internal\Windows\NCrypt\Interop.Keys.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.Keys.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.NCryptAlgorithms.cs">
+      <Link>Internal\Windows\NCrypt\Interop.NCryptAlgorithms.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.NCryptAlgorithms.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.NCryptCipherKeyBlob.cs">
+      <Link>Internal\Windows\NCrypt\Interop.NCryptCipherKeyBlob.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.NCryptCipherKeyBlob.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.NCryptFreeObject.cs">
+      <Link>Internal\Windows\NCrypt\Interop.NCryptFreeObject.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.NCryptFreeObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.NCryptOpenStorageProvider.cs">
+      <Link>Internal\Windows\NCrypt\Interop.NCryptOpenStorageProvider.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.NCryptOpenStorageProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.NCryptPropertyNames.cs">
+      <Link>Internal\Windows\NCrypt\Interop.NCryptPropertyNames.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.NCryptPropertyNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.Properties.cs">
+      <Link>Internal\Windows\NCrypt\Interop.Properties.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.Properties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.SignVerify.cs">
+      <Link>Internal\Windows\NCrypt\Interop.SignVerify.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.SignVerify.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NCrypt\Interop.UiPolicy.cs">
+      <Link>Internal\Windows\NCrypt\Interop.UiPolicy.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NCrypt/Interop.UiPolicy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeBCryptAlgorithmHandle.cs">
+      <Link>Microsoft\Win32\SafeHandles\SafeBCryptAlgorithmHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeBCryptAlgorithmHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeBCryptHandle.cs">
+      <Link>Microsoft\Win32\SafeHandles\SafeBCryptHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeBCryptHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeBCryptHashHandle.cs">
+      <Link>Microsoft\Win32\SafeHandles\SafeBCryptHashHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeBCryptHashHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeUnicodeStringHandle.cs">
+      <Link>Microsoft\Win32\SafeHandles\SafeUnicodeStringHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeUnicodeStringHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\DSACng.cs">
+      <Link>Common\System\Security\Cryptography\DSACng.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/DSACng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\DSACng.ImportExport.cs">
+      <Link>Common\System\Security\Cryptography\DSACng.ImportExport.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/DSACng.ImportExport.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\DSACng.SignVerify.cs">
+      <Link>Common\System\Security\Cryptography\DSACng.SignVerify.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/DSACng.SignVerify.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\ECCng.HashAlgorithm.cs">
+      <Link>Common\System\Security\Cryptography\ECCng.HashAlgorithm.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/ECCng.HashAlgorithm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\ECCng.ImportExport.cs">
+      <Link>Common\System\Security\Cryptography\ECCng.ImportExport.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/ECCng.ImportExport.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\ECDsaCng.cs">
+      <Link>Common\System\Security\Cryptography\ECDsaCng.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/ECDsaCng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\ECDsaCng.HashData.cs">
+      <Link>Common\System\Security\Cryptography\ECDsaCng.HashData.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/ECDsaCng.HashData.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\ECDsaCng.ImportExport.cs">
+      <Link>Common\System\Security\Cryptography\ECDsaCng.ImportExport.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/ECDsaCng.ImportExport.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\ECDsaCng.SignVerify.cs">
+      <Link>Common\System\Security\Cryptography\ECDsaCng.SignVerify.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/ECDsaCng.SignVerify.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\RSACng.cs">
+      <Link>Common\System\Security\Cryptography\RSACng.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/RSACng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\RSACng.EncryptDecrypt.cs">
+      <Link>Common\System\Security\Cryptography\RSACng.EncryptDecrypt.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/RSACng.EncryptDecrypt.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\RSACng.ImportExport.cs">
+      <Link>Common\System\Security\Cryptography\RSACng.ImportExport.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/RSACng.ImportExport.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\RSACng.SignVerify.cs">
+      <Link>Common\System\Security\Cryptography\RSACng.SignVerify.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/RSACng.SignVerify.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\Internal\Cryptography\BasicSymmetricCipherNCrypt.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/Internal/Cryptography/BasicSymmetricCipherNCrypt.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\Internal\Cryptography\CngAlgorithmCore.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/Internal/Cryptography/CngAlgorithmCore.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\Internal\Cryptography\CngSymmetricAlgorithmCore.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/Internal/Cryptography/CngSymmetricAlgorithmCore.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\Internal\Cryptography\Helpers.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/Internal/Cryptography/Helpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\Internal\Cryptography\ICngSymmetricAlgorithm.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/Internal/Cryptography/ICngSymmetricAlgorithm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\Internal\Cryptography\KeyPropertyName.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/Internal/Cryptography/KeyPropertyName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\Internal\Cryptography\ProviderPropertyName.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/Internal/Cryptography/ProviderPropertyName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\Internal\Cryptography\SymmetricImportExportExtensions.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/Internal/Cryptography/SymmetricImportExportExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\Microsoft\Win32\SafeHandles\NCryptSafeHandles.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/Microsoft/Win32/SafeHandles/NCryptSafeHandles.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\AesCng.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/AesCng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngAlgorithm.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngAlgorithm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngAlgorithmGroup.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngAlgorithmGroup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngExportPolicies.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngExportPolicies.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.Create.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.Create.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.Delete.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.Delete.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.EC.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.EC.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.Exists.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.Exists.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.Export.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.Export.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.Import.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.Import.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.Open.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.Open.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.OpenHandle.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.OpenHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.Properties.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.Properties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKey.StandardProperties.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKey.StandardProperties.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKeyBlobFormat.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKeyBlobFormat.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKeyCreationOptions.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKeyCreationOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKeyCreationParameters.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKeyCreationParameters.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKeyHandleOpenOptions.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKeyHandleOpenOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKeyOpenOptions.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKeyOpenOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngKeyUsages.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngKeyUsages.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngProperty.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngProperty.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngPropertyCollection.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngPropertyCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngPropertyOptions.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngPropertyOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngProvider.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngUIPolicy.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngUIPolicy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\CngUIProtectionLevels.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/CngUIProtectionLevels.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\DSACng.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/DSACng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\DSACng.ImportExport.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/DSACng.ImportExport.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\DSACng.Key.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/DSACng.Key.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\ECCng.ImportExport.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/ECCng.ImportExport.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\ECDsaCng.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/ECDsaCng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\ECDsaCng.Key.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/ECDsaCng.Key.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\ECKeyXmlFormat.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/ECKeyXmlFormat.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\RSACng.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/RSACng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\RSACng.ImportExport.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/RSACng.ImportExport.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\RSACng.Key.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/RSACng.Key.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Cng\src\System\Security\Cryptography\TripleDESCng.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Cng/src/System/Security/Cryptography/TripleDESCng.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

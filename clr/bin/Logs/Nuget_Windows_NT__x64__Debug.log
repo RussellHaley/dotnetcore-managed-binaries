@@ -1,0 +1,908 @@
+Build started 2017-10-10 11:23:03 PM.
+     1>Project "N:\Code\Git\coreclr\src\.nuget\packages.builds" on node 1 (default targets).
+     1>Project "N:\Code\Git\coreclr\src\.nuget\packages.builds" (1) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.builds" (2) on node 1 (Build target(s)).
+     2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.builds" (2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3) on node 1 (Build target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     1>Project "N:\Code\Git\coreclr\src\.nuget\packages.builds" (1) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.builds" (5) on node 3 (Build target(s)).
+     5>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.builds" (5) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8) on node 3 (Build target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     1>Project "N:\Code\Git\coreclr\src\.nuget\packages.builds" (1) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.builds" (9) on node 6 (Build target(s)).
+     9>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.builds" (9) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11) on node 6 (Build target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     1>Project "N:\Code\Git\coreclr\src\.nuget\packages.builds" (1) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.builds" (6) on node 5 (Build target(s)).
+     6>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.builds" (6) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) on node 5 (Build target(s)).
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:2) on node 5 (GetPackageIdentity target(s)).
+    12>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     1>Project "N:\Code\Git\coreclr\src\.nuget\packages.builds" (1) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.builds" (10) on node 7 (Build target(s)).
+    10>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.builds" (10) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13) on node 7 (Build target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    12>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (GetPackageIdentity target(s)).
+     1>Project "N:\Code\Git\coreclr\src\.nuget\packages.builds" (1) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.builds" (4) on node 4 (Build target(s)).
+     4>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.builds" (4) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14) on node 4 (Build target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     1>Project "N:\Code\Git\coreclr\src\.nuget\packages.builds" (1) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.TargetingPack.Private.CoreCLR\Microsoft.TargetingPack.Private.CoreCLR.pkgproj" (7) on node 2 (Build target(s)).
+     7>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/runtime.win-x64.Microsoft.NETCore.Jit.2.1.0-preview1-25810-0.nupkg'
+    11>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/runtime.win-x64.Microsoft.NETCore.ILAsm.2.1.0-preview1-25810-0.nupkg'
+    10>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.builds" (10) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) on node 5 (Build target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:3) on node 5 (GetPackageIdentity target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (GetPackageIdentity target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:4) on node 5 (GetPackageIdentity target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (GetPackageIdentity target(s)).
+    14>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/runtime.win-x64.Microsoft.NETCore.TestHost.2.1.0-preview1-25810-0.nupkg'
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:5) on node 5 (GetPackageIdentity target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (GetPackageIdentity target(s)).
+    13>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+       CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/runtime.win-x64.Microsoft.NETCore.ILDAsm.2.1.0-preview1-25810-0.nupkg'
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:6) on node 5 (GetPackageIdentity target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (GetPackageIdentity target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:7) on node 5 (GetPackageIdentity target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (GetPackageIdentity target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:8) on node 5 (GetPackageIdentity target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (GetPackageIdentity target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:9) on node 5 (GetPackageIdentity target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     7>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+    13>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (GetPackageIdentity target(s)).
+    14>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/runtime.win-x64.Microsoft.NETCore.TestHost.2.1.0-preview1-25810-0.symbols.nupkg'
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:10) on node 5 (GetPackageIdentity target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (GetPackageIdentity target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:11) on node 5 (GetPackageIdentity target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (GetPackageIdentity target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:12) on node 5 (GetPackageIdentity target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (GetPackageIdentity target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:3) on node 5 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+     7>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     4>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.builds" (4) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) on node 5 (Build target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:3) on node 5 (GetPackageIdentity target(s)).
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (GetPackageIdentity target(s)).
+     7>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+       CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/Microsoft.TargetingPack.Private.CoreCLR.2.1.0-preview1-25810-0.nupkg'
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:4) on node 5 (GetPackageIdentity target(s)).
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (GetPackageIdentity target(s)).
+     2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.builds" (2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) on node 8 (Build target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:4) on node 8 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    11>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/runtime.win-x64.Microsoft.NETCore.ILAsm.2.1.0-preview1-25810-0.symbols.nupkg'
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:5) on node 5 (GetPackageIdentity target(s)).
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (GetPackageIdentity target(s)).
+    13>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/runtime.win-x64.Microsoft.NETCore.ILDAsm.2.1.0-preview1-25810-0.symbols.nupkg'
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:5) on node 5 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.runtime.win-x64.Microsoft.NETCore.TestHost.2.1.0-preview1-25810-0.nupkg'
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+     3>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:6) on node 5 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:7) on node 5 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:8) on node 8 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:9) on node 8 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:10) on node 5 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+     3>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:11) on node 5 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:12) on node 8 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:13) on node 5 (GetPackageIdentity target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (GetPackageIdentity target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:6) on node 5 (GetPackageIdentity target(s)).
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:2) on node 8 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (GetPackageIdentity target(s)).
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:8) on node 8 (GetPackageIdentity target(s)).
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (GetPackageIdentity target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:7) on node 5 (GetPackageIdentity target(s)).
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (GetPackageIdentity target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:9) on node 8 (GetPackageIdentity target(s)).
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (GetPackageIdentity target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:10) on node 5 (GetPackageIdentity target(s)).
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (GetPackageIdentity target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:11) on node 8 (GetPackageIdentity target(s)).
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (GetPackageIdentity target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:12) on node 5 (GetPackageIdentity target(s)).
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (GetPackageIdentity target(s)).
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:3) on node 8 (GetPackageIdentity target(s)).
+    12>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (GetPackageIdentity target(s)).
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:4) on node 5 (GetPackageIdentity target(s)).
+    12>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (GetPackageIdentity target(s)).
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:5) on node 8 (GetPackageIdentity target(s)).
+    12>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+    14>Build:
+         Microsoft.NETCore.TestHost -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/runtime.win-x64.Microsoft.NETCore.TestHost.nuspec
+    12>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (GetPackageIdentity target(s)).
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (Build target(s)).
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:7) on node 8 (GetPackageIdentity target(s)).
+    12>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:6) on node 5 (GetPackageIdentity target(s)).
+    12>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    12>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    12>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (GetPackageIdentity target(s)).
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (GetPackageIdentity target(s)).
+     8>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/runtime.win-x64.Microsoft.NETCore.Jit.2.1.0-preview1-25810-0.symbols.nupkg'
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:8) on node 4 (GetPackageIdentity target(s)).
+    12>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+    14>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+    12>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (GetPackageIdentity target(s)).
+    14>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     5>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.builds" (5) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) on node 4 (Build target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:4) on node 4 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+     9>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.builds" (9) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) on node 8 (Build target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:3) on node 8 (GetPackageIdentity target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (GetPackageIdentity target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:5) on node 8 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:6) on node 4 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:7) on node 8 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+     8>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:8) on node 4 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:9) on node 8 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    12>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+     8>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:10) on node 4 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:9) on node 8 (DetermineRuntimeDependencies target(s)).
+    12>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (DetermineRuntimeDependencies target(s)).
+     8>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:10) on node 8 (DetermineRuntimeDependencies target(s)).
+    12>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:11) on node 4 (DetermineRuntimeDependencies target(s)).
+    12>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (DetermineRuntimeDependencies target(s)).
+    11>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.runtime.win-x64.Microsoft.NETCore.ILAsm.2.1.0-preview1-25810-0.nupkg'
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (DetermineRuntimeDependencies target(s)).
+    12>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:12) on node 8 (DetermineRuntimeDependencies target(s)).
+    12>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (DetermineRuntimeDependencies target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:15) on node 8 (DetermineRuntimeDependencies target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (DetermineRuntimeDependencies target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:16) on node 8 (DetermineRuntimeDependencies target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (DetermineRuntimeDependencies target(s)).
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:13) on node 5 (DetermineRuntimeDependencies target(s)).
+    12>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (DetermineRuntimeDependencies target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:17) on node 8 (DetermineRuntimeDependencies target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (DetermineRuntimeDependencies target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:11) on node 4 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:14) on node 5 (DetermineRuntimeDependencies target(s)).
+    12>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (DetermineRuntimeDependencies target(s)).
+    12>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (12:15) on node 5 (DetermineRuntimeDependencies target(s)).
+    12>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (DetermineRuntimeDependencies target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:12) on node 4 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:13) on node 8 (GetPackageIdentity target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:4) on node 4 (GetPackageIdentity target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+     8>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (GetPackageIdentity target(s)).
+    11>Build:
+         Microsoft.NETCore.ILAsm -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/runtime.win-x64.Microsoft.NETCore.ILAsm.nuspec
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (Build target(s)).
+    11>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (GetPackageIdentity target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:5) on node 8 (GetPackageIdentity target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (GetPackageIdentity target(s)).
+     7>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/Microsoft.TargetingPack.Private.CoreCLR.2.1.0-preview1-25810-0.symbols.nupkg'
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:7) on node 4 (GetPackageIdentity target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (GetPackageIdentity target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:6) on node 6 (GetPackageIdentity target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (GetPackageIdentity target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:9) on node 6 (GetPackageIdentity target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:8) on node 8 (GetPackageIdentity target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (GetPackageIdentity target(s)).
+    11>GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (GetPackageIdentity target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:10) on node 4 (GetPackageIdentity target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (GetPackageIdentity target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:12) on node 8 (GetPackageIdentity target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (GetPackageIdentity target(s)).
+    13>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.runtime.win-x64.Microsoft.NETCore.ILDAsm.2.1.0-preview1-25810-0.nupkg'
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:11) on node 6 (GetPackageIdentity target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (GetPackageIdentity target(s)).
+    12>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/Microsoft.NETCore.Native.2.1.0-preview1-25810-0.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/Microsoft.NETCore.Native.2.1.0-preview1-25810-0.symbols.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.Microsoft.NETCore.Native.2.1.0-preview1-25810-0.nupkg'
+    13>Build:
+         Microsoft.NETCore.ILDAsm -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/runtime.win-x64.Microsoft.NETCore.ILDAsm.nuspec
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (Build target(s)).
+    12>Build:
+         Microsoft.NETCore.Native -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/Microsoft.NETCore.Native.nuspec
+    12>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.pkgproj" (Build target(s)).
+    13>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+     6>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Native\Microsoft.NETCore.Native.builds" (Build target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:15) on node 5 (DetermineRuntimeDependencies target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:16) on node 5 (DetermineRuntimeDependencies target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:17) on node 5 (DetermineRuntimeDependencies target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:18) on node 5 (DetermineRuntimeDependencies target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:19) on node 5 (DetermineRuntimeDependencies target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:20) on node 5 (DetermineRuntimeDependencies target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:21) on node 5 (DetermineRuntimeDependencies target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:22) on node 5 (DetermineRuntimeDependencies target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:23) on node 5 (DetermineRuntimeDependencies target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:24) on node 5 (DetermineRuntimeDependencies target(s)).
+    13>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  13:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (13:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:14) on node 5 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+    13>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/Microsoft.NETCore.ILDAsm.2.1.0-preview1-25810-0.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/Microsoft.NETCore.ILDAsm.2.1.0-preview1-25810-0.symbols.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.Microsoft.NETCore.ILDAsm.2.1.0-preview1-25810-0.nupkg'
+       Build:
+         Microsoft.NETCore.ILDAsm -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/Microsoft.NETCore.ILDAsm.nuspec
+    13>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.pkgproj" (Build target(s)).
+    10>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILDAsm\Microsoft.NETCore.ILDAsm.builds" (Build target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:18) on node 5 (DetermineRuntimeDependencies target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (DetermineRuntimeDependencies target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:19) on node 5 (DetermineRuntimeDependencies target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (DetermineRuntimeDependencies target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:20) on node 5 (DetermineRuntimeDependencies target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (DetermineRuntimeDependencies target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:21) on node 5 (DetermineRuntimeDependencies target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (DetermineRuntimeDependencies target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:22) on node 5 (DetermineRuntimeDependencies target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (DetermineRuntimeDependencies target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:23) on node 5 (DetermineRuntimeDependencies target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (DetermineRuntimeDependencies target(s)).
+  14:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (14:24) on node 5 (DetermineRuntimeDependencies target(s)).
+    14>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (DetermineRuntimeDependencies target(s)).
+    14>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/Microsoft.NETCore.TestHost.2.1.0-preview1-25810-0.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/Microsoft.NETCore.TestHost.2.1.0-preview1-25810-0.symbols.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.Microsoft.NETCore.TestHost.2.1.0-preview1-25810-0.nupkg'
+     8>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.runtime.win-x64.Microsoft.NETCore.Jit.2.1.0-preview1-25810-0.nupkg'
+    14>Build:
+         Microsoft.NETCore.TestHost -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/Microsoft.NETCore.TestHost.nuspec
+    14>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.pkgproj" (Build target(s)).
+     4>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.TestHost\Microsoft.NETCore.TestHost.builds" (Build target(s)).
+    11>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:14) on node 8 (DetermineRuntimeDependencies target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:15) on node 4 (DetermineRuntimeDependencies target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:16) on node 6 (DetermineRuntimeDependencies target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:17) on node 4 (DetermineRuntimeDependencies target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:18) on node 8 (DetermineRuntimeDependencies target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:19) on node 6 (DetermineRuntimeDependencies target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:20) on node 4 (DetermineRuntimeDependencies target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:21) on node 8 (DetermineRuntimeDependencies target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:22) on node 6 (DetermineRuntimeDependencies target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+  11:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (11:23) on node 8 (DetermineRuntimeDependencies target(s)).
+    11>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+     8>Build:
+         Microsoft.NETCore.Jit -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/runtime.win-x64.Microsoft.NETCore.Jit.nuspec
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (DetermineRuntimeDependencies target(s)).
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (Build target(s)).
+     8>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:15) on node 4 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:17) on node 4 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:18) on node 4 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:19) on node 4 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:20) on node 4 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:21) on node 4 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+     7>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.Microsoft.TargetingPack.Private.CoreCLR.2.1.0-preview1-25810-0.nupkg'
+    11>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/Microsoft.NETCore.ILAsm.2.1.0-preview1-25810-0.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/Microsoft.NETCore.ILAsm.2.1.0-preview1-25810-0.symbols.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.Microsoft.NETCore.ILAsm.2.1.0-preview1-25810-0.nupkg'
+     7>Build:
+         Microsoft.TargetingPack.Private.CoreCLR -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/Microsoft.TargetingPack.Private.CoreCLR.nuspec
+     7>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.TargetingPack.Private.CoreCLR\Microsoft.TargetingPack.Private.CoreCLR.pkgproj" (Build target(s)).
+    11>Build:
+         Microsoft.NETCore.ILAsm -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/Microsoft.NETCore.ILAsm.nuspec
+    11>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.pkgproj" (Build target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:22) on node 8 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     9>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.ILAsm\Microsoft.NETCore.ILAsm.builds" (Build target(s)).
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+     3>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/runtime.win-x64.Microsoft.NETCore.Runtime.CoreCLR.2.1.0-preview1-25810-0.nupkg'
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:23) on node 8 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:24) on node 8 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+   8:3>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:3) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:25) on node 8 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+     8>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/Microsoft.NETCore.Jit.2.1.0-preview1-25810-0.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/Microsoft.NETCore.Jit.2.1.0-preview1-25810-0.symbols.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.Microsoft.NETCore.Jit.2.1.0-preview1-25810-0.nupkg'
+       Build:
+         Microsoft.NETCore.Jit -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/Microsoft.NETCore.Jit.nuspec
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (Build target(s)).
+     5>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.builds" (Build target(s)).
+     3>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/runtime.win-x64.Microsoft.NETCore.Runtime.CoreCLR.2.1.0-preview1-25810-0.symbols.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.runtime.win-x64.Microsoft.NETCore.Runtime.CoreCLR.2.1.0-preview1-25810-0.nupkg'
+       Build:
+         Microsoft.NETCore.Runtime.CoreCLR -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/runtime.win-x64.Microsoft.NETCore.Runtime.CoreCLR.nuspec
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (Build target(s)).
+     3>AddPlaceholders:
+       Skipping target "AddPlaceholders" because it has no inputs.
+       GetPackageIdentity:
+         Could not find any NETStandard frameworks, defaulting to .NETStandard,Version=v1.0.
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:19) on node 8 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:20) on node 5 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:22) on node 5 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:21) on node 8 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:24) on node 8 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:23) on node 5 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:25) on node 8 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:26) on node 5 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (8:37) on node 8 (DetermineRuntimeDependencies target(s)).
+     8>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:27) on node 5 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     8>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Jit\Microsoft.NETCore.Jit.pkgproj" (DetermineRuntimeDependencies target(s)).
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+   3:2>Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:2) is building "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (3:28) on node 5 (DetermineRuntimeDependencies target(s)).
+     3>GetPkgProjPackageDependencies:
+       Skipping target "GetPkgProjPackageDependencies" because it has no inputs.
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (DetermineRuntimeDependencies target(s)).
+     3>CreatePackage:
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/Microsoft.NETCore.Runtime.CoreCLR.2.1.0-preview1-25810-0.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/symbolpkg/Microsoft.NETCore.Runtime.CoreCLR.2.1.0-preview1-25810-0.symbols.nupkg'
+         Created 'N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/transport.Microsoft.NETCore.Runtime.CoreCLR.2.1.0-preview1-25810-0.nupkg'
+       Build:
+         Microsoft.NETCore.Runtime.CoreCLR -> N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget/pkg/specs/Microsoft.NETCore.Runtime.CoreCLR.nuspec
+     3>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.pkgproj" (Build target(s)).
+     2>Done Building Project "N:\Code\Git\coreclr\src\.nuget\Microsoft.NETCore.Runtime.CoreCLR\Microsoft.NETCore.Runtime.CoreCLR.builds" (Build target(s)).
+     1>Done Building Project "N:\Code\Git\coreclr\src\.nuget\packages.builds" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:53.05

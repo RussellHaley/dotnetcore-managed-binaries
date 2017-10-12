@@ -1,0 +1,39 @@
+{
+  "runtimes": {
+    "alpine.3.6-x64": {
+      "Microsoft.NETCore.Native": {
+        "runtime.alpine.3.6-x64.Microsoft.NETCore.Native": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-arm": {
+      "Microsoft.NETCore.Native": {
+        "runtime.linux-arm.Microsoft.NETCore.Native": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-arm64": {
+      "Microsoft.NETCore.Native": {
+        "runtime.linux-arm64.Microsoft.NETCore.Native": "2.1.0-preview1-25810-0"
+      }
+    },
+    "linux-x64": {
+      "Microsoft.NETCore.Native": {
+        "runtime.linux-x64.Microsoft.NETCore.Native": "2.1.0-preview1-25810-0"
+      }
+    },
+    "osx-x64": {
+      "Microsoft.NETCore.Native": {
+        "runtime.osx-x64.Microsoft.NETCore.Native": "2.1.0-preview1-25810-0"
+      }
+    },
+    "rhel.6-x64": {
+      "Microsoft.NETCore.Native": {
+        "runtime.rhel.6-x64.Microsoft.NETCore.Native": "2.1.0-preview1-25810-0"
+      }
+    },
+    "tizen.4.0.0-armel": {
+      "Microsoft.NETCore.Native": {
+        "runtime.tizen.4.0.0-armel.Microsoft.NETCore.Native": "2.1.0-preview1-25810-0"
+      }
+    }
+  }
+}

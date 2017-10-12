@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.Primitives\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.Primitives/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.Primitives\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.Primitives/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.Primitives\netcoreapp\System.Net.Primitives.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.Primitives\netcoreapp\System.Net.Primitives.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.Alg.cs">
+      <Link>Common\Interop\Windows\Crypt32\Interop.Alg.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.Alg.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\IpHlpApi\Interop.ErrorCodes.cs">
+      <Link>Common\Interop\Windows\IpHlpApi\Interop.ErrorCodes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/IpHlpApi/Interop.ErrorCodes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\IpHlpApi\Interop.FIXED_INFO.cs">
+      <Link>Common\Interop\Windows\IpHlpApi\Interop.FIXED_INFO.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/IpHlpApi/Interop.FIXED_INFO.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\IpHlpApi\Interop.GetNetworkParams.cs">
+      <Link>Common\Interop\Windows\IpHlpApi\Interop.GetNetworkParams.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/IpHlpApi/Interop.GetNetworkParams.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\IpHlpApi\Interop.IP_ADDR_STRING.cs">
+      <Link>Common\Interop\Windows\IpHlpApi\Interop.IP_ADDR_STRING.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/IpHlpApi/Interop.IP_ADDR_STRING.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalAlloc.Constants.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.LocalAlloc.Constants.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalAlloc.Constants.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalAlloc.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.LocalAlloc.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalAlloc.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalFree.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.LocalFree.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalFree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NtDll\Interop.NtStatus.cs">
+      <Link>Common\Interop\Windows\NtDll\Interop.NtStatus.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NtDll/Interop.NtStatus.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\SChannel\Interop.SchProtocols.cs">
+      <Link>Common\Interop\Windows\SChannel\Interop.SchProtocols.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/SChannel/Interop.SchProtocols.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Winsock\Interop.ErrorCodes.cs">
+      <Link>Common\Interop\Windows\Winsock\Interop.ErrorCodes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Winsock/Interop.ErrorCodes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeLocalAllocHandle.cs">
+      <Link>Common\Microsoft\Win32\SafeHandles\SafeLocalAllocHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeLocalAllocHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\StringBuilderCache.cs">
+      <Link>Common\System\IO\StringBuilderCache.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/StringBuilderCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Marvin.cs">
+      <Link>Common\System\Marvin.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Marvin.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\ByteOrder.cs">
+      <Link>Common\System\Net\ByteOrder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/ByteOrder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\CookieComparer.cs">
+      <Link>ProductionCode\System\Net\CookieComparer.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/CookieComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\CookieFields.cs">
+      <Link>Common\System\Net\CookieFields.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/CookieFields.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\CookieParser.cs">
+      <Link>Common\System\Net\CookieParser.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/CookieParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\HttpKnownHeaderNames.cs">
+      <Link>Common\System\Net\HttpKnownHeaderNames.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/HttpKnownHeaderNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\InternalException.cs">
+      <Link>Common\System\Net\InternalException.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/InternalException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\IPAddressParserStatics.cs">
+      <Link>Common\System\Net\IPAddressParserStatics.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/IPAddressParserStatics.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Logging\NetEventSource.Common.cs">
+      <Link>Common\System\Net\Logging\NetEventSource.Common.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Logging/NetEventSource.Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NegotiationInfoClass.cs">
+      <Link>Common\System\Net\NegotiationInfoClass.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NegotiationInfoClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NetworkInformation\HostInformation.cs">
+      <Link>Common\System\Net\NetworkInformation\HostInformation.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NetworkInformation/HostInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\NetworkInformation\HostInformationPal.Windows.cs">
+      <Link>Common\System\Net\NetworkInformation\HostInformationPal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/NetworkInformation/HostInformationPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SocketAddress.cs">
+      <Link>Common\System\Net\SocketAddress.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SocketAddress.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\SocketAddressPal.Windows.cs">
+      <Link>Common\System\Net\SocketAddressPal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/SocketAddressPal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\TcpValidationHelpers.cs">
+      <Link>Common\System\Net\TcpValidationHelpers.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/TcpValidationHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\UriScheme.cs">
+      <Link>Common\System\Net\UriScheme.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/UriScheme.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\NotImplemented.cs">
+      <Link>Common\System\NotImplemented.cs</Link>
+      <TargetPath>sources/src/Common/src/System/NotImplemented.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\StringExtensions.cs">
+      <Link>Common\System\StringExtensions.cs</Link>
+      <TargetPath>sources/src/Common/src/System/StringExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\AuthenticationSchemes.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/AuthenticationSchemes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\Cache\RequestCacheLevel.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/Cache/RequestCacheLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\Cache\RequestCachePolicy.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/Cache/RequestCachePolicy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\Cookie.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/Cookie.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\CookieCollection.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/CookieCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\CookieContainer.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/CookieContainer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\CookieException.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/CookieException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\CredentialCache.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/CredentialCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\DecompressionMethods.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/DecompressionMethods.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\DnsEndPoint.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/DnsEndPoint.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\EndPoint.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/EndPoint.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\HttpStatusCode.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/HttpStatusCode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\HttpVersion.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/HttpVersion.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\ICredentials.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/ICredentials.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\ICredentialsByHost.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/ICredentialsByHost.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\IPAddress.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/IPAddress.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\IPAddressParser.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/IPAddressParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\IPEndPoint.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/IPEndPoint.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\IPv4AddressHelper.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/IPv4AddressHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\IPv6AddressHelper.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/IPv6AddressHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\IWebProxy.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/IWebProxy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\NetEventSource.Primitives.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/NetEventSource.Primitives.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\NetworkCredential.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/NetworkCredential.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\NetworkInformation\IPAddressCollection.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/NetworkInformation/IPAddressCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\SecureProtocols\NegotiateEnumTypes.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/SecureProtocols/NegotiateEnumTypes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\SecureProtocols\SslEnumTypes.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/SecureProtocols/SslEnumTypes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\Security\SslPolicyErrors.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/Security/SslPolicyErrors.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\SocketException.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/SocketException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\SocketException.Windows.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/SocketException.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\Sockets\AddressFamily.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/Sockets/AddressFamily.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\Sockets\SocketError.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/Sockets/SocketError.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Net\TransportContext.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Net/TransportContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Security\Authentication\ExtendedProtection\ChannelBinding.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Security/Authentication/ExtendedProtection/ChannelBinding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.Primitives\src\System\Security\Authentication\ExtendedProtection\ChannelBindingKind.cs">
+      <TargetPath>sources/src/System.Net.Primitives/src/System/Security/Authentication/ExtendedProtection/ChannelBindingKind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

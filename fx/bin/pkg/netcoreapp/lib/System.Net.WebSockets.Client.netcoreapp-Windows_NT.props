@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.WebSockets.Client\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.WebSockets.Client/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Net.WebSockets.Client\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Net.WebSockets.Client/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.WebSockets.Client\netcoreapp\System.Net.WebSockets.Client.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Net.WebSockets.Client\netcoreapp\System.Net.WebSockets.Client.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.HRESULT_FROM_WIN32.cs">
+      <Link>Interop\Windows\Interop.HRESULT_FROM_WIN32.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.HRESULT_FROM_WIN32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FormatMessage.cs">
+      <Link>Interop\Windows\kernel32\Interop.FormatMessage.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FormatMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FreeLibrary.cs">
+      <Link>Interop\Windows\kernel32\Interop.FreeLibrary.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FreeLibrary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetModuleHandle.cs">
+      <Link>Interop\Windows\kernel32\Interop.GetModuleHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetModuleHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetProcAddress.cs">
+      <Link>Interop\Windows\kernel32\Interop.GetProcAddress.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetProcAddress.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LoadLibraryEx.cs">
+      <Link>Interop\Windows\kernel32\Interop.LoadLibraryEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LoadLibraryEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\winhttp\Interop.SafeWinHttpHandle.cs">
+      <Link>Interop\Windows\winhttp\Interop.SafeWinHttpHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/winhttp/Interop.SafeWinHttpHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\winhttp\Interop.winhttp.cs">
+      <Link>Interop\Windows\winhttp\Interop.winhttp.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/winhttp/Interop.winhttp.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\winhttp\Interop.winhttp_types.cs">
+      <Link>Interop\Windows\winhttp\Interop.winhttp_types.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/winhttp/Interop.winhttp_types.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeLibraryHandle.cs">
+      <Link>Common\Microsoft\Win32\SafeHandles\SafeLibraryHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeLibraryHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Http\WinHttpException.cs">
+      <Link>Common\System\Net\Http\WinHttpException.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Http/WinHttpException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\Logging\NetEventSource.Common.cs">
+      <Link>Common\System\Net\Logging\NetEventSource.Common.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/Logging/NetEventSource.Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\UriScheme.cs">
+      <Link>Common\System\Net\UriScheme.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/UriScheme.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Net\WebSockets\WebSocketValidate.cs">
+      <Link>Common\System\Net\WebSockets\WebSocketValidate.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Net/WebSockets/WebSocketValidate.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Runtime\ExceptionServices\ExceptionStackTrace.cs">
+      <Link>Common\System\Runtime\ExceptionServices\ExceptionStackTrace.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Runtime/ExceptionServices/ExceptionStackTrace.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.WebSockets.Client\src\System\Net\WebSockets\ClientWebSocket.cs">
+      <TargetPath>sources/src/System.Net.WebSockets.Client/src/System/Net/WebSockets/ClientWebSocket.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.WebSockets.Client\src\System\Net\WebSockets\ClientWebSocketOptions.cs">
+      <TargetPath>sources/src/System.Net.WebSockets.Client/src/System/Net/WebSockets/ClientWebSocketOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.WebSockets.Client\src\System\Net\WebSockets\NetEventSource.WebSockets.cs">
+      <TargetPath>sources/src/System.Net.WebSockets.Client/src/System/Net/WebSockets/NetEventSource.WebSockets.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.WebSockets.Client\src\System\Net\WebSockets\WebSocketHandle.Win32.cs">
+      <TargetPath>sources/src/System.Net.WebSockets.Client/src/System/Net/WebSockets/WebSocketHandle.Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.WebSockets.Client\src\System\Net\WebSockets\WebSocketHandle.Windows.cs">
+      <TargetPath>sources/src/System.Net.WebSockets.Client/src/System/Net/WebSockets/WebSocketHandle.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.WebSockets.Client\src\System\Net\WebSockets\WebSocketMessageTypeAdapter.cs">
+      <TargetPath>sources/src/System.Net.WebSockets.Client/src/System/Net/WebSockets/WebSocketMessageTypeAdapter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.WebSockets.Client\src\System\Net\WebSockets\WinHttpWebSocket.cs">
+      <TargetPath>sources/src/System.Net.WebSockets.Client/src/System/Net/WebSockets/WinHttpWebSocket.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.WebSockets.Client\src\System\Net\WebSockets\WinHttpWebSocketCallback.cs">
+      <TargetPath>sources/src/System.Net.WebSockets.Client/src/System/Net/WebSockets/WinHttpWebSocketCallback.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Net.WebSockets.Client\src\System\Net\WebSockets\WinHttpWebSocketState.cs">
+      <TargetPath>sources/src/System.Net.WebSockets.Client/src/System/Net/WebSockets/WinHttpWebSocketState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

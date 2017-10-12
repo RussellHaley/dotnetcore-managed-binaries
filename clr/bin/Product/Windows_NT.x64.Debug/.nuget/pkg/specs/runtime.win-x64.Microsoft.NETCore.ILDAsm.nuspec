@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>runtime.win-x64.Microsoft.NETCore.ILDAsm</id>
+    <version>2.1.0-preview1-25810-0</version>
+    <title>runtime.win-x64.Microsoft.NETCore.ILDAsm</title>
+    <authors>Microsoft</authors>
+    <owners>microsoft,dotnetframework</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/dotnet/coreclr/blob/master/LICENSE.TXT</licenseUrl>
+    <projectUrl>https://dot.net/</projectUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
+    <description>Internal implementation package not meant for direct consumption.  Please do not reference directly. 
+The .NET IL Disassembler. 
+faca87ae7fd06c520fc0458a81b5b4a99a1c5e72 
+When using NuGet 3.x this package requires at least version 3.4.</description>
+    <releaseNotes>https://go.microsoft.com/fwlink/?LinkID=799421</releaseNotes>
+    <copyright>© Microsoft Corporation.  All rights reserved.</copyright>
+    <serviceable>true</serviceable>
+  </metadata>
+  <files>
+    <file src="N:\Code\Git\coreclr\LICENSE.TXT" target="" exclude="" />
+    <file src="N:\Code\Git\coreclr\THIRD-PARTY-NOTICES.TXT" target="" exclude="" />
+    <file src="N:\Code\Git\coreclr\bin\obj\version.txt" target="" exclude="" />
+    <file src="N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\ildasm.exe" target="runtimes\win-x64\native" exclude="" />
+    <file src="N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\ildasmrc.dll" target="runtimes\win-x64\native" exclude="" />
+    <file src="N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\PDB\ildasm.pdb" target="runtimes\win-x64\native" exclude="" />
+    <file src="N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\PDB\ildasmrc.pdb" target="runtimes\win-x64\native" exclude="" />
+    <file src="N:\Code\Git\coreclr\Tools\_._" target="src" exclude="" />
+  </files>
+</package>

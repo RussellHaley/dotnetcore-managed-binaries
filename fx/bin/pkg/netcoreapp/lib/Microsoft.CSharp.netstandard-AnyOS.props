@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\Microsoft.CSharp\netstandard\Microsoft.CSharp.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\Microsoft.CSharp\netstandard\Microsoft.CSharp.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\Microsoft.CSharp\netstandard\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/Microsoft.CSharp/netstandard/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\Microsoft.CSharp\netstandard\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/Microsoft.CSharp/netstandard/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\ArgumentObject.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/ArgumentObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Binder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Binder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\BinderHelper.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/BinderHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpArgumentInfo.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpArgumentInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpArgumentInfoFlags.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpArgumentInfoFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpBinaryOperationBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpBinaryOperationBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpBinaryOperationFlags.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpBinaryOperationFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpBinderFlags.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpBinderFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpCallFlags.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpCallFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpConversionKind.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpConversionKind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpConvertBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpConvertBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpGetIndexBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpGetIndexBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpGetMemberBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpGetMemberBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpInvokeBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpInvokeBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpInvokeConstructorBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpInvokeConstructorBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpInvokeMemberBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpInvokeMemberBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpIsEventBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpIsEventBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpSetIndexBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpSetIndexBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpSetMemberBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpSetMemberBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\CSharpUnaryOperationBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/CSharpUnaryOperationBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Error.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Error.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Errors\ErrorCode.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/ErrorCode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Errors\ErrorFacts.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/ErrorFacts.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Errors\ErrorFmt.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/ErrorFmt.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Errors\ErrorHandling.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/ErrorHandling.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Errors\MessageID.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/MessageID.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Errors\UserStringBuilder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Errors/UserStringBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\ExpressionTreeCallRewriter.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/ExpressionTreeCallRewriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\ICSharpBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/ICSharpBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\ICSharpInvokeOrInvokeMemberBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/ICSharpInvokeOrInvokeMemberBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\ResetBindException.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/ResetBindException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\RuntimeBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/RuntimeBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\RuntimeBinderException.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/RuntimeBinderException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\RuntimeBinderExtensions.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/RuntimeBinderExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\RuntimeBinderInternalCompilerException.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/RuntimeBinderInternalCompilerException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\BindingContext.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BindingContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\BindingFlag.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BindingFlag.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Binding\Better.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Binding/Better.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Binding\ErrorReporting.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Binding/ErrorReporting.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\BinOpArgInfo.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BinOpArgInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\BinOpKind.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BinOpKind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\BinOpSig.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/BinOpSig.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\CandidateFunctionMember.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/CandidateFunctionMember.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\ConstVal.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ConstVal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Conversion.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Conversion.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Conversions.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Conversions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\COperators.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/COperators.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Declarations\AggregateDeclaration.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Declarations/AggregateDeclaration.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\ExplicitConversion.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ExplicitConversion.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\ExpressionBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ExpressionBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\ExpressionKind.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ExpressionKind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\EXPRExtensions.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/EXPRExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\ExprFactory.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ExprFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\EXPRFLAG.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/EXPRFLAG.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\FundamentalTypes.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/FundamentalTypes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\GlobalSymbolContext.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/GlobalSymbolContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\GroupToArgsBinder.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/GroupToArgsBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\GroupToArgsBinderResult.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/GroupToArgsBinderResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\ImplicitConversion.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/ImplicitConversion.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\MemberLookup.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MemberLookup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\MemberLookupResults.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MemberLookupResults.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\MethodIterator.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MethodIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\MethodKind.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MethodKind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\MethodTypeInferrer.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/MethodTypeInferrer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Nullable.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Nullable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\NullableLift.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/NullableLift.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Operators.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Operators.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\PredefinedMembers.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/PredefinedMembers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\SemanticChecker.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/SemanticChecker.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\SubstitutionContext.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/SubstitutionContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\AggregateSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/AggregateSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\AssemblyQualifiedNamespaceSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/AssemblyQualifiedNamespaceSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\EventSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/EventSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\FieldSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/FieldSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\IndexerSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/IndexerSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\LocalVariableSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/LocalVariableSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\MethodOrPropertySymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/MethodOrPropertySymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\MethodSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/MethodSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\NamespaceOrAggregateSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/NamespaceOrAggregateSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\NamespaceSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/NamespaceSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\ParentSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/ParentSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\PropertySymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/PropertySymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\Scope.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/Scope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\Symbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/Symbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\SymbolKind.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymbolKind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\SymbolLoader.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymbolLoader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\SymbolManagerBase.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymbolManagerBase.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\SymbolMask.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymbolMask.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\SymbolTable.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymbolTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\SymFactory.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/SymFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\TypeParameterSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/TypeParameterSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Symbols\VariableSymbol.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Symbols/VariableSymbol.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\ArrayIndex.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ArrayIndex.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\ArrayInitialization.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ArrayInitialization.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Assignment.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Assignment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\BinaryOperator.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/BinaryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Block.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Block.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\BoundAnonymousFunction.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/BoundAnonymousFunction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Call.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Call.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Cast.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Cast.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Class.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Class.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\CompoundOperator.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/CompoundOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Concatenate.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Concatenate.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Constant.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Constant.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\EXPR.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/EXPR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\ExpressionIterator.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ExpressionIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\ExprOperator.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ExprOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\ExprWithType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ExprWithType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Field.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Field.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\FieldInfo.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/FieldInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\HoistedLocal.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/HoistedLocal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\IExprWithArgs.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/IExprWithArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\IExprWithObject.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/IExprWithObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\List.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/List.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\LocalVariable.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/LocalVariable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\MemberGroup.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/MemberGroup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\MethodInfo.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/MethodInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\NamedArgumentSpecification.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/NamedArgumentSpecification.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Property.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Property.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\PropertyInfo.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/PropertyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Return.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Return.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Statement.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Statement.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Temporary.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Temporary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\TypeOf.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/TypeOf.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\UnaryOperator.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/UnaryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\UserDefinedConversion.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/UserDefinedConversion.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\UserDefinedLogicalOperator.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/UserDefinedLogicalOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Visitors\ExpressionTreeRewriter.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Visitors/ExpressionTreeRewriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\Visitors\ExprVisitorBase.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/Visitors/ExprVisitorBase.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Tree\ZeroInitialize.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Tree/ZeroInitialize.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\TypeBind.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/TypeBind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\AggregateType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/AggregateType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\ArgumentListType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/ArgumentListType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\ArrayType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/ArrayType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\ErrorType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/ErrorType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\MethodGroupType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/MethodGroupType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\NullableType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/NullableType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\NullType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/NullType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\ParameterModifierType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/ParameterModifierType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\PointerType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/PointerType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\PredefinedTypes.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/PredefinedTypes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\Type.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/Type.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\TypeArray.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeArray.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\TypeFactory.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\TypeKind.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeKind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\TypeManager.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\TypeParameterType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeParameterType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\TypeTable.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/TypeTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\Types\VoidType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/Types/VoidType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\UnaOpSig.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/UnaOpSig.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\UtilityTypeExtensions.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/UtilityTypeExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Semantics\WithType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Semantics/WithType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\SpecialNames.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/SpecialNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\SymbolTable.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/SymbolTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Syntax\NameManager.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/NameManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Syntax\Names.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/Names.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Syntax\NameTable.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/NameTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Syntax\Operators.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/Operators.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Syntax\PredefinedName.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/PredefinedName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Syntax\PredefinedType.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/PredefinedType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Syntax\TokenFacts.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/TokenFacts.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Microsoft.CSharp\src\Microsoft\CSharp\RuntimeBinder\Syntax\TokenKind.cs">
+      <TargetPath>sources/src/Microsoft.CSharp/src/Microsoft/CSharp/RuntimeBinder/Syntax/TokenKind.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\BlockReflectionAttribute.cs">
+      <TargetPath>sources/Tools/BlockReflectionAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

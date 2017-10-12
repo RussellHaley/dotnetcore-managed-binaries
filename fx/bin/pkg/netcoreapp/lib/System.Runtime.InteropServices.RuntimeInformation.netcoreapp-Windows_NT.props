@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Runtime.InteropServices.RuntimeInformation\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Runtime.InteropServices.RuntimeInformation/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Runtime.InteropServices.RuntimeInformation\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Runtime.InteropServices.RuntimeInformation/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Runtime.InteropServices.RuntimeInformation\netcoreapp\System.Runtime.InteropServices.RuntimeInformation.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Runtime.InteropServices.RuntimeInformation\netcoreapp\System.Runtime.InteropServices.RuntimeInformation.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetNativeSystemInfo.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetNativeSystemInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetNativeSystemInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetSystemInfo.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetSystemInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetSystemInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SYSTEM_INFO.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SYSTEM_INFO.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SYSTEM_INFO.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NtDll\Interop.RtlGetVersion.cs">
+      <Link>Common\Interop\Windows\NtDll\Interop.RtlGetVersion.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NtDll/Interop.RtlGetVersion.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NtDll\Interop.RTL_OSVERSIONINFOEX.cs">
+      <Link>Common\Interop\Windows\NtDll\Interop.RTL_OSVERSIONINFOEX.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NtDll/Interop.RTL_OSVERSIONINFOEX.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.InteropServices.RuntimeInformation\src\System\Runtime\InteropServices\RuntimeInformation\Architecture.cs">
+      <TargetPath>sources/src/System.Runtime.InteropServices.RuntimeInformation/src/System/Runtime/InteropServices/RuntimeInformation/Architecture.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.InteropServices.RuntimeInformation\src\System\Runtime\InteropServices\RuntimeInformation\OSPlatform.cs">
+      <TargetPath>sources/src/System.Runtime.InteropServices.RuntimeInformation/src/System/Runtime/InteropServices/RuntimeInformation/OSPlatform.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.InteropServices.RuntimeInformation\src\System\Runtime\InteropServices\RuntimeInformation\RuntimeInformation.cs">
+      <TargetPath>sources/src/System.Runtime.InteropServices.RuntimeInformation/src/System/Runtime/InteropServices/RuntimeInformation/RuntimeInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.InteropServices.RuntimeInformation\src\System\Runtime\InteropServices\RuntimeInformation\RuntimeInformation.Windows.cs">
+      <TargetPath>sources/src/System.Runtime.InteropServices.RuntimeInformation/src/System/Runtime/InteropServices/RuntimeInformation/RuntimeInformation.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

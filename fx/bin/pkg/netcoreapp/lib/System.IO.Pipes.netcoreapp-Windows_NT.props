@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.IO.Pipes\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.IO.Pipes/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.IO.Pipes\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.IO.Pipes/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.IO.Pipes\netcoreapp\System.IO.Pipes.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.IO.Pipes\netcoreapp\System.IO.Pipes.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.ImpersonateNamedPipeClient.cs">
+      <Link>Common\Interop\Windows\Interop.ImpersonateNamedPipeClient.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.ImpersonateNamedPipeClient.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RevertToSelf.cs">
+      <Link>Common\Interop\Windows\Interop.RevertToSelf.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RevertToSelf.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.BOOL.cs">
+      <Link>Common\Interop\Windows\Interop.BOOL.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.BOOL.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Errors.cs">
+      <Link>Common\Interop\Windows\Interop.Errors.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Errors.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CancelIoEx.cs">
+      <Link>Common\Interop\Windows\Interop.CancelIoEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CancelIoEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CloseHandle.cs">
+      <Link>Common\Interop\Windows\Interop.CloseHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CloseHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.ConnectNamedPipe.cs">
+      <Link>Common\Interop\Windows\Interop.ConnectNamedPipe.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.ConnectNamedPipe.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CreateNamedPipe.cs">
+      <Link>Common\Interop\Windows\Interop.CreateNamedPipe.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CreateNamedPipe.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CreateNamedPipeClient.cs">
+      <Link>Common\Interop\Windows\Interop.CreateNamedPipeClient.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CreateNamedPipeClient.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CreatePipe_SafePipeHandle.cs">
+      <Link>Common\Interop\Windows\Interop.CreatePipe_SafePipeHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CreatePipe_SafePipeHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.DisconnectNamedPipe.cs">
+      <Link>Common\Interop\Windows\Interop.DisconnectNamedPipe.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.DisconnectNamedPipe.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.DuplicateHandle_IntPtr.cs">
+      <Link>Common\Interop\Windows\Interop.DuplicateHandle_IntPtr.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.DuplicateHandle_IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FileOperations.cs">
+      <Link>Common\Interop\Windows\Interop.FileOperations.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FileOperations.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FileTypes.cs">
+      <Link>Common\Interop\Windows\Interop.FileTypes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FileTypes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FlushFileBuffers.cs">
+      <Link>Common\Interop\Windows\Interop.FlushFileBuffers.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FlushFileBuffers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FormatMessage.cs">
+      <Link>Common\Interop\Windows\Interop.FormatMessage.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FormatMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GenericOperations.cs">
+      <Link>Common\Interop\Windows\Interop.GenericOperations.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GenericOperations.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentProcess_IntPtr.cs">
+      <Link>Common\Interop\Windows\Interop.GetCurrentProcess.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentProcess_IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetFileType_SafeHandle.cs">
+      <Link>Common\Interop\Windows\Interop.GetFileType.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetFileType_SafeHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetNamedPipeHandleState.cs">
+      <Link>Common\Interop\Windows\Interop.GetNamedPipeHandleState.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetNamedPipeHandleState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetNamedPipeInfo.cs">
+      <Link>Common\Interop\Windows\Interop.GetNamedPipeInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetNamedPipeInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.HandleOptions.cs">
+      <Link>Common\Interop\Windows\Interop.HandleOptions.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.HandleOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.MaxLengths.cs">
+      <Link>Common\Interop\Windows\Interop.MaxLengths.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.MaxLengths.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.PipeOptions.cs">
+      <Link>Common\Interop\Windows\Interop.PipeOptions.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.PipeOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.ReadFile_SafeHandle_IntPtr.cs">
+      <Link>Common\Interop\Windows\Interop.ReadFile_IntPtr.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.ReadFile_SafeHandle_IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.ReadFile_SafeHandle_NativeOverlapped.cs">
+      <Link>Common\Interop\Windows\Interop.ReadFile_NativeOverlapped.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.ReadFile_SafeHandle_NativeOverlapped.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SecurityOptions.cs">
+      <Link>Common\Interop\Windows\Interop.SecurityOptions.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SecurityOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SECURITY_ATTRIBUTES.cs">
+      <Link>Common\Interop\Windows\Interop.SECURITY_ATTRIBUTES.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SECURITY_ATTRIBUTES.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetNamedPipeHandleState.cs">
+      <Link>Common\Interop\Windows\Interop.SetNamedPipeHandleState.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetNamedPipeHandleState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.WaitNamedPipe.cs">
+      <Link>Common\Interop\Windows\Interop.WaitNamedPipe.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.WaitNamedPipe.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.WriteFile_SafeHandle_IntPtr.cs">
+      <Link>Common\Interop\Windows\Interop.WriteFile_IntPtr.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.WriteFile_SafeHandle_IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.WriteFile_SafeHandle_NativeOverlapped.cs">
+      <Link>Common\Interop\Windows\Interop.WriteFile_NativeOverlapped.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.WriteFile_SafeHandle_NativeOverlapped.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\StreamHelpers.CopyValidation.cs">
+      <Link>Common\System\IO\StreamHelpers.CopyValidation.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/StreamHelpers.CopyValidation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\Win32Marshal.cs">
+      <Link>Common\System\IO\Win32Marshal.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/Win32Marshal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Threading\Tasks\TaskToApm.cs">
+      <Link>Common\System\Threading\Tasks\TaskToApm.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Threading/Tasks/TaskToApm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\Microsoft\Win32\SafeHandles\SafePipeHandle.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/Microsoft/Win32/SafeHandles/SafePipeHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\Microsoft\Win32\SafeHandles\SafePipeHandle.Windows.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/Microsoft/Win32/SafeHandles/SafePipeHandle.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Error.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Error.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\AnonymousPipeClientStream.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/AnonymousPipeClientStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\AnonymousPipeServerStream.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/AnonymousPipeServerStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\AnonymousPipeServerStream.Windows.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/AnonymousPipeServerStream.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\ConnectionCompletionSource.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/ConnectionCompletionSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\NamedPipeClientStream.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/NamedPipeClientStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\NamedPipeClientStream.Windows.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/NamedPipeClientStream.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\NamedPipeServerStream.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/NamedPipeServerStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\NamedPipeServerStream.Windows.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/NamedPipeServerStream.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\PipeCompletionSource.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/PipeCompletionSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\PipeDirection.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/PipeDirection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\PipeOptions.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/PipeOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\PipeState.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/PipeState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\PipeStream.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/PipeStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\PipeStream.Windows.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/PipeStream.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\PipeTransmissionMode.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/PipeTransmissionMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.Pipes\src\System\IO\Pipes\ReadWriteCompletionSource.cs">
+      <TargetPath>sources/src/System.IO.Pipes/src/System/IO/Pipes/ReadWriteCompletionSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

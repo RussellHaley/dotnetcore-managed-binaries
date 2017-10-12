@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.AccessControl\netcoreapp2.0\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.AccessControl/netcoreapp2.0/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.AccessControl\netcoreapp2.0\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.AccessControl/netcoreapp2.0/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.AccessControl\netcoreapp2.0\System.Security.AccessControl.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.AccessControl\netcoreapp2.0\System.Security.AccessControl.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.AdjustTokenPrivileges_TokenPrivilege.cs">
+      <Link>Common\Interop\Interop.AdjustTokenPrivileges_TokenPrivilege.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.AdjustTokenPrivileges_TokenPrivilege.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.ConvertSdToStringSd.cs">
+      <Link>Common\Interop\Interop.ConvertSdToStringSd.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.ConvertSdToStringSd.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.ConvertStringSdToSd.cs">
+      <Link>Common\Interop\Interop.ConvertStringSdToSd.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.ConvertStringSdToSd.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.DuplicateTokenEx_SafeTokenHandle.cs">
+      <Link>Common\Interop\Interop.DuplicateTokenEx_SafeTokenHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.DuplicateTokenEx_SafeTokenHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.GetSecurityDescriptorLength.cs">
+      <Link>Common\Interop\Interop.GetSecurityDescriptorLength.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.GetSecurityDescriptorLength.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.GetSecurityInfoByHandle.cs">
+      <Link>Common\Interop\Interop.GetSecurityInfoByHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.GetSecurityInfoByHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.GetSecurityInfoByName.cs">
+      <Link>Common\Interop\Interop.GetSecurityInfoByName.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.GetSecurityInfoByName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LookupPrivilegeValue.cs">
+      <Link>Common\Interop\Interop.LookupPrivilegeValue.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LookupPrivilegeValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LUID.cs">
+      <Link>Common\Interop\Interop.LUID.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LUID.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LUIDAndAttributes.cs">
+      <Link>Common\Interop\Interop.LUIDAndAttributes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LUIDAndAttributes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LUIDAndAttributes1.cs">
+      <Link>Common\Interop\Interop.LUIDAndAttributes1.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LUIDAndAttributes1.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.OpenProcessToken_IntPtr.cs">
+      <Link>Common\Interop\Interop.OpenProcessToken_IntPtrs.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.OpenProcessToken_IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.OpenThreadToken_SafeTokenHandle.cs">
+      <Link>Common\Interop\Interop.OpenThreadToken_SafeTokenHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.OpenThreadToken_SafeTokenHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.ProcessOptions.cs">
+      <Link>Common\Interop\Interop.ProcessOptions.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.ProcessOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RevertToSelf.cs">
+      <Link>Common\Interop\Interop.RevertToSelf.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RevertToSelf.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.SecurityImpersonationLevel.cs">
+      <Link>Common\Interop\Interop.SecurityImpersonationLevel.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.SecurityImpersonationLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.SetSecurityInfoByHandle.cs">
+      <Link>Common\Interop\Interop.SetSecurityInfoByHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.SetSecurityInfoByHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.SetSecurityInfoByName.cs">
+      <Link>Common\Interop\Interop.SetSecurityInfoByName.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.SetSecurityInfoByName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.SetThreadToken.cs">
+      <Link>Common\Interop\Interop.SetThreadToken.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.SetThreadToken.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.TokenPrivilege.cs">
+      <Link>Common\Interop\Interop.TokenPrivilege.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.TokenPrivilege.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Errors.cs">
+      <Link>Common\Interop\Interop.Errors.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Errors.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CloseHandle.cs">
+      <Link>Common\Interop\Interop.CloseHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CloseHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentProcess_IntPtr.cs">
+      <Link>Common\Interop\Interop.GetCurrentProcess_IntPtr.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentProcess_IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentThread.cs">
+      <Link>Common\Interop\Interop.GetCurrentThread.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentThread.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalFree.cs">
+      <Link>Common\Interop\Interop.LocalFree.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalFree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\NotImplemented.cs">
+      <Link>Common\System\NotImplemented.cs</Link>
+      <TargetPath>sources/src/Common/src/System/NotImplemented.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\ACE.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/ACE.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\ACL.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/ACL.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\CommonObjectSecurity.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/CommonObjectSecurity.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\Enums.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/Enums.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\NativeObjectSecurity.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/NativeObjectSecurity.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\ObjectSecurity.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/ObjectSecurity.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\ObjectSecurityT.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/ObjectSecurityT.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\Privilege.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/Privilege.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\PrivilegeNotHeldException.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/PrivilegeNotHeldException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\Rules.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/Rules.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\SecurityDescriptor.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/SecurityDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\AccessControl\Win32.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/AccessControl/Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\Principal\Win32.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/Principal/Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.AccessControl\src\System\Security\SafeSecurityHandles.cs">
+      <TargetPath>sources/src/System.Security.AccessControl/src/System/Security/SafeSecurityHandles.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Runtime.Extensions\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Runtime.Extensions/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Runtime.Extensions\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Runtime.Extensions/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Runtime.Extensions\netcoreapp\System.Runtime.Extensions.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Runtime.Extensions\netcoreapp\System.Runtime.Extensions.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LookupAccountNameW.cs">
+      <Link>Common\Interop\Windows\advapi32\Interop.LookupAccountNameW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LookupAccountNameW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Errors.cs">
+      <Link>Common\Interop\Windows\Interop.Errors.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Errors.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.ExpandEnvironmentStrings.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.ExpandEnvironmentStrings.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.ExpandEnvironmentStrings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FormatMessage.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.FormatMessage.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FormatMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetComputerName.cs">
+      <Link>Common\Interop\Windows\mincore\Interop.GetComputerNameW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetComputerName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentDirectory.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetCurrentDirectory.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentDirectory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentProcessId.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetCurrentProcessId.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentProcessId.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentProcess_IntPtr.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetCurrentProcess_IntPtr.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentProcess_IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetLogicalDrive.cs">
+      <Link>Common\Interop\Windows\Interop.GetLogicalDrive.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetLogicalDrive.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetLogicalProcessorInformationEx.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetLogicalProcessorInformationEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetLogicalProcessorInformationEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetLongPathName.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetLongPathName.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetLongPathName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetSystemDirectoryW.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetSystemDirectoryW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetSystemDirectoryW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetSystemInfo.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetSystemInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetSystemInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetVersionExW.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetVersionExW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetVersionExW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.IsWow64Process_IntPtr.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.IsWow64Process_IntPtr.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.IsWow64Process_IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.MaxLengths.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.MaxLengths.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.MaxLengths.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.QueryPerformanceCounter.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.QueryPerformanceCounter.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.QueryPerformanceCounter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.QueryPerformanceFrequency.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.QueryPerformanceFrequency.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.QueryPerformanceFrequency.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetCurrentDirectory.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SetCurrentDirectory.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetCurrentDirectory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SYSTEM_INFO.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SYSTEM_INFO.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SYSTEM_INFO.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\secur32\Interop.GetUserNameExW.cs">
+      <Link>Common\Interop\Windows\secur32\Interop.GetUserNameExW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/secur32/Interop.GetUserNameExW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\shell32\Interop.SHGetKnownFolderPath.cs">
+      <Link>Common\Interop\Windows\shell32\Interop.SHGetKnownFolderPath.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/shell32/Interop.SHGetKnownFolderPath.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\CompatibleComparer.cs">
+      <Link>Common\System\Collections\CompatibleComparer.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/CompatibleComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\LowLevelDictionary.cs">
+      <Link>Common\System\Collections\Generic\LowLevelDictionary.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/LowLevelDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\HResults.cs">
+      <Link>Common\System\HResults.cs</Link>
+      <TargetPath>sources/src/Common/src/System/HResults.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\DriveInfoInternal.Win32.cs">
+      <Link>Common\System\IO\DriveInfoInternal.Win32.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/DriveInfoInternal.Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\PathInternal.cs">
+      <Link>Common\System\IO\PathInternal.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/PathInternal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\PathInternal.Windows.cs">
+      <Link>Common\System\IO\PathInternal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/PathInternal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\StreamHelpers.CopyValidation.cs">
+      <Link>Common\System\IO\StreamHelpers.CopyValidation.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/StreamHelpers.CopyValidation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\StringBuilderCache.cs">
+      <Link>Common\System\IO\StringBuilderCache.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/StringBuilderCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\Win32Marshal.cs">
+      <Link>Common\System\IO\Win32Marshal.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/Win32Marshal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Threading\Tasks\TaskToApm.cs">
+      <Link>Common\System\Threading\Tasks\TaskToApm.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Threading/Tasks/TaskToApm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\AppDomain.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/AppDomain.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\AppDomainUnloadedException.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/AppDomainUnloadedException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\ApplicationId.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/ApplicationId.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\CannotUnloadAppDomainException.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/CannotUnloadAppDomainException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\CodeDom\Compiler\IndentedTextWriter.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/CodeDom/Compiler/IndentedTextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Collections\ArrayList.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Collections/ArrayList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Collections\Comparer.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Collections/Comparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Collections\Hashtable.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Collections/Hashtable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Collections\IHashCodeProvider.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Collections/IHashCodeProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Collections\KeyValuePairs.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Collections/KeyValuePairs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Context.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Context.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Diagnostics\Stopwatch.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Diagnostics/Stopwatch.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Diagnostics\Stopwatch.Windows.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Diagnostics/Stopwatch.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Environment.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Environment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Environment.SpecialFolder.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Environment.SpecialFolder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Environment.SpecialFolderOption.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Environment.SpecialFolderOption.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Environment.Win32.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Environment.Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Environment.Windows.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Environment.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Globalization\Extensions.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Globalization/Extensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\IO\BufferedStream.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/IO/BufferedStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\IO\EncodingCache.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/IO/EncodingCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\IO\InvalidDataException.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/IO/InvalidDataException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\IO\StreamReader.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/IO/StreamReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\IO\StreamWriter.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/IO/StreamWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\IO\StringReader.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/IO/StringReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\IO\StringWriter.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/IO/StringWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\IO\TextReader.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/IO/TextReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\IO\TextWriter.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/IO/TextWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\LoaderOptimization.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/LoaderOptimization.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\LoaderOptimizationAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/LoaderOptimizationAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Net\WebUtility.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Net/WebUtility.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\OperatingSystem.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/OperatingSystem.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\PlatformID.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/PlatformID.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Reflection\AssemblyNameProxy.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Reflection/AssemblyNameProxy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Runtime\Versioning\ComponentGuaranteesAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Runtime/Versioning/ComponentGuaranteesAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Runtime\Versioning\ComponentGuaranteesOptions.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Runtime/Versioning/ComponentGuaranteesOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Runtime\Versioning\FrameworkName.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Runtime/Versioning/FrameworkName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Runtime\Versioning\ResourceConsumptionAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Runtime/Versioning/ResourceConsumptionAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Runtime\Versioning\ResourceExposureAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Runtime/Versioning/ResourceExposureAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Runtime\Versioning\ResourceScope.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Runtime/Versioning/ResourceScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Runtime\Versioning\VersioningHelper.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Runtime/Versioning/VersioningHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Runtime\Versioning\VersioningHelper.Windows.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Runtime/Versioning/VersioningHelper.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Security\IPermission.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Security/IPermission.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Security\ISecurityEncodable.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Security/ISecurityEncodable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Security\Permissions\CodeAccessSecurityAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Security/Permissions/CodeAccessSecurityAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Security\Permissions\SecurityAction.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Security/Permissions/SecurityAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Security\Permissions\SecurityAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Security/Permissions/SecurityAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Security\Permissions\SecurityPermissionAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Security/Permissions/SecurityPermissionAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Security\Permissions\SecurityPermissionFlag.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Security/Permissions/SecurityPermissionFlag.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\Security\SecurityElement.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/Security/SecurityElement.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Extensions\src\System\StringNormalizationExtensions.cs">
+      <TargetPath>sources/src/System.Runtime.Extensions/src/System/StringNormalizationExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

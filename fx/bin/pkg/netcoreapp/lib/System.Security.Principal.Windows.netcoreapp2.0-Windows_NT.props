@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.Principal.Windows\netcoreapp2.0\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.Principal.Windows/netcoreapp2.0/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.Principal.Windows\netcoreapp2.0\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.Principal.Windows/netcoreapp2.0/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.Principal.Windows\netcoreapp2.0\System.Security.Principal.Windows.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.Principal.Windows\netcoreapp2.0\System.Security.Principal.Windows.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.AllocateLocallyUniqueId.cs">
+      <Link>Common\Interop\Windows\advapi32\Interop.AllocateLocallyUniqueId.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.AllocateLocallyUniqueId.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.CheckTokenMembership.cs">
+      <Link>Common\Interop\Interop.CheckTokenMembership.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.CheckTokenMembership.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.ConvertStringSidToSid.cs">
+      <Link>Common\Interop\Interop.ConvertStringSidToSid.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.ConvertStringSidToSid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.CreateWellKnownSid.cs">
+      <Link>Common\Interop\Interop.CreateWellKnownSid.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.CreateWellKnownSid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.DuplicateTokenEx.cs">
+      <Link>Common\Interop\Interop.DuplicateTokenEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.DuplicateTokenEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.GetTokenInformation.cs">
+      <Link>Common\Interop\Interop.GetTokenInformation.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.GetTokenInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.GetWindowsAccountDomainSid.cs">
+      <Link>Common\Interop\Interop.GetWindowsAccountDomainSid.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.GetWindowsAccountDomainSid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.ImpersonateLoggedOnUser.cs">
+      <Link>Common\Interop\Interop.ImpersonateLoggedOnUser.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.ImpersonateLoggedOnUser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.IsEqualDomainSid.cs">
+      <Link>Common\Interop\Interop.IsEqualDomainSid.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.IsEqualDomainSid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.IsWellKnownSid.cs">
+      <Link>Common\Interop\Interop.IsWellKnownSid.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.IsWellKnownSid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LsaClose.cs">
+      <Link>Common\Interop\Interop.LsaClose.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LsaClose.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LsaFreeMemory.cs">
+      <Link>Common\Interop\Interop.LsaFreeMemory.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LsaFreeMemory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LsaLookupNames2.cs">
+      <Link>Common\Interop\Interop.LsaLookupNames2.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LsaLookupNames2.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LsaLookupSids.cs">
+      <Link>Common\Interop\Interop.LsaLookupSids.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LsaLookupSids.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LsaNtStatusToWinError.cs">
+      <Link>Common\Interop\Interop.LsaNtStatusToWinError.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LsaNtStatusToWinError.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LsaOpenPolicy.cs">
+      <Link>Common\Interop\Interop.LsaOpenPolicy.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LsaOpenPolicy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.OpenProcessToken_SafeAccessTokenHandle.cs">
+      <Link>Common\Interop\Interop.OpenProcessToken.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.OpenProcessToken_SafeAccessTokenHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.OpenThreadToken.cs">
+      <Link>Common\Interop\Interop.OpenThreadToken.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.OpenThreadToken.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.RevertToSelf.cs">
+      <Link>Common\Interop\Interop.RevertToSelf.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.RevertToSelf.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Errors.cs">
+      <Link>Common\Interop\Interop.WinError.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Errors.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CloseHandle.cs">
+      <Link>Common\Interop\Interop.CloseHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CloseHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.DuplicateHandle.cs">
+      <Link>Common\Interop\Interop.DuplicateHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.DuplicateHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentProcess_IntPtr.cs">
+      <Link>Common\Interop\Interop.GetCurrentProcess.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentProcess_IntPtr.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentThread.cs">
+      <Link>Common\Interop\Interop.GetCurrentThread.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentThread.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalAlloc.Constants.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.LocalAlloc.Constants.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalAlloc.Constants.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalAlloc.cs">
+      <Link>Common\Interop\Interop.LocalAlloc.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalAlloc.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.LocalFree.cs">
+      <Link>Common\Interop\Interop.LocalFree.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.LocalFree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NtDll\Interop.NtStatus.cs">
+      <Link>Common\Interop\Interop.NtStatus.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NtDll/Interop.NtStatus.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.AuthenticationPackageNames.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.AuthenticationPackageNames.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.AuthenticationPackageNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.KerbLogonSubmitType.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.KerbLogonSubmitType.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.KerbLogonSubmitType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.KerbS4uLogin.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.KerbS4uLogin.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.KerbS4uLogin.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.LsaConnectUntrusted.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.LsaConnectUntrusted.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.LsaConnectUntrusted.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.LsaDeregisterLogonProcess.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.LsaDeregisterLogonProcess.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.LsaDeregisterLogonProcess.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.LsaFreeReturnBuffer.cs">
+      <Link>Common\Interop\Interop.LsaFreeReturnBuffer.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.LsaFreeReturnBuffer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.LsaGetLogonSessionData.cs">
+      <Link>Common\Interop\Interop.LsaGetLogonSessionData.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.LsaGetLogonSessionData.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.LsaLogonUser.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.LsaLogonUser.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.LsaLogonUser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.LsaLookupAuthenticationPackage.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.LsaLookupAuthenticationPackage.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.LsaLookupAuthenticationPackage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.LsaString.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.LsaString.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.LsaString.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.LSAStructs.cs">
+      <Link>Common\Interop\Interop.LSAStructs.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.LSAStructs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.LsaUnicodeString.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.LsaUnicodeString.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.LsaUnicodeString.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.QuotaLimits.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.QuotaLimits.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.QuotaLimits.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.SecurityLogonType.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.SecurityLogonType.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.SecurityLogonType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.SECURITY_LOGON_SESSION_DATA.cs">
+      <Link>Common\Interop\Interop.SECURITY_LOGON_SESSION_DATA.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.SECURITY_LOGON_SESSION_DATA.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.TOKENS.cs">
+      <Link>Common\Interop\Interop.TOKENS.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.TOKENS.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.TokenSource.cs">
+      <Link>Common\Interop\Windows\sspicli\Interop.TokenSource.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.TokenSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.UNICODE_STRING.cs">
+      <Link>Common\Interop\Interop.UNICODE_STRING.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.UNICODE_STRING.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\sspicli\Interop.Winnt.cs">
+      <Link>Common\Interop\Interop.Winnt.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/sspicli/Interop.Winnt.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeLocalAllocHandle.cs">
+      <Link>Common\Microsoft\Win32\SafeHandles\SafeLocalAllocHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeLocalAllocHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeLsaHandle.cs">
+      <Link>Common\Microsoft\Win32\SafeHandles\SafeLsaHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeLsaHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\Microsoft\Win32\SafeHandles\SafeAccessTokenHandle.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/Microsoft/Win32/SafeHandles/SafeAccessTokenHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\Microsoft\Win32\SafeHandles\SafeSecurityHandles.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/Microsoft/Win32/SafeHandles/SafeSecurityHandles.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\System\Security\Principal\IdentityNotMappedException.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/System/Security/Principal/IdentityNotMappedException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\System\Security\Principal\IdentityReference.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/System/Security/Principal/IdentityReference.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\System\Security\Principal\IRCollection.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/System/Security/Principal/IRCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\System\Security\Principal\NTAccount.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/System/Security/Principal/NTAccount.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\System\Security\Principal\SID.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/System/Security/Principal/SID.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\System\Security\Principal\TokenAccessLevels.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/System/Security/Principal/TokenAccessLevels.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\System\Security\Principal\Win32.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/System/Security/Principal/Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\System\Security\Principal\WindowsIdentity.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/System/Security/Principal/WindowsIdentity.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Principal.Windows\src\System\Security\Principal\WindowsPrincipal.cs">
+      <TargetPath>sources/src/System.Security.Principal.Windows/src/System/Security/Principal/WindowsPrincipal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

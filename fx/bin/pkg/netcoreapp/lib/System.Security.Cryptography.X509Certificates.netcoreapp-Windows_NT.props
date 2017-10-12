@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.X509Certificates\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.Cryptography.X509Certificates/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.X509Certificates\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.Cryptography.X509Certificates/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.X509Certificates\netcoreapp\System.Security.Cryptography.X509Certificates.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.X509Certificates\netcoreapp\System.Security.Cryptography.X509Certificates.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\Windows\CryptoThrowHelper.cs">
+      <Link>Common\Internal\Cryptography\Windows\CryptoThrowHelper.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/Windows/CryptoThrowHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptDestroyKey.cs">
+      <Link>Common\Interop\Windows\BCrypt\Interop.BCryptDestroyKey.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptDestroyKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptExportKey.cs">
+      <Link>Common\Interop\Windows\BCrypt\Interop.BCryptExportKey.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptExportKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.BCryptGetProperty.cs">
+      <Link>Common\Interop\Windows\BCrypt\Interop.BCryptGetProperty.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.BCryptGetProperty.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.Blobs.cs">
+      <Link>Common\Interop\Windows\BCrypt\Interop.Blobs.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.Blobs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\BCrypt\Interop.NTSTATUS.cs">
+      <Link>Common\Interop\Windows\BCrypt\Interop.NTSTATUS.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/BCrypt/Interop.NTSTATUS.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.FindOidInfo.cs">
+      <Link>Common\Interop\Windows\Crypt32\Interop.FindOidInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.FindOidInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FormatMessage.cs">
+      <Link>Common\Internal\Windows\kernel32\Interop.FormatMessage.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FormatMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeBCryptHandle.cs">
+      <Link>Common\Microsoft\Win32\SafeHandles\SafeBCryptHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeBCryptHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeBCryptKeyHandle.cs">
+      <Link>Common\Microsoft\Win32\SafeHandles\SafeBCryptKeyHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeBCryptKeyHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeHandleCache.cs">
+      <Link>Common\Microsoft\Win32\SafeHandles\SafeHandleCache.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeHandleCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\DerEncoder.cs">
+      <Link>Common\System\Security\Cryptography\DerEncoder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/DerEncoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Security\Cryptography\DerSequenceReader.cs">
+      <Link>Common\System\Security\Cryptography\DerSequenceReader.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Security/Cryptography/DerSequenceReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\CertificateExtensionsCommon.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/CertificateExtensionsCommon.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\EncodingHelpers.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/EncodingHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\ErrorCode.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/ErrorCode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\FindPal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/FindPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Helpers.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Helpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\ICertificatePal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/ICertificatePal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\IChainPal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/IChainPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\IExportPal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/IExportPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\IFindPal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/IFindPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\ILoaderPal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/ILoaderPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\IStorePal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/IStorePal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\IX509Pal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/IX509Pal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Oids.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Oids.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\CertificatePal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/CertificatePal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\CertificatePal.Import.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/CertificatePal.Import.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\CertificatePal.PrivateKey.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/CertificatePal.PrivateKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\ChainPal.BuildChain.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/ChainPal.BuildChain.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\ChainPal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/ChainPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\ChainPal.GetChainStatusInformation.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/ChainPal.GetChainStatusInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\FindPal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/FindPal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\Native\Helpers.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/Native/Helpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\Native\Interop.crypt32.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/Native/Interop.crypt32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\Native\Interop.cryptoapi.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/Native/Interop.cryptoapi.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\Native\Interop.localization.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/Native/Interop.localization.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\Native\Primitives.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/Native/Primitives.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\Native\SafeHandles.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/Native/SafeHandles.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\StorePal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/StorePal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\StorePal.Export.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/StorePal.Export.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\StorePal.Import.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/StorePal.Import.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\X509Pal.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/X509Pal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\X509Pal.CustomExtensions.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/X509Pal.CustomExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\X509Pal.GetCertContentType.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/X509Pal.GetCertContentType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\X509Pal.PublicKey.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/X509Pal.PublicKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Internal\Cryptography\Pal.Windows\X509Pal.X500DistinguishedName.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Internal/Cryptography/Pal.Windows/X509Pal.X500DistinguishedName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Microsoft\Win32\SafeHandles\SafePasswordHandle.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Microsoft/Win32/SafeHandles/SafePasswordHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Microsoft\Win32\SafeHandles\SafePasswordHandle.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Microsoft/Win32/SafeHandles/SafePasswordHandle.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\Microsoft\Win32\SafeHandles\SafeX509ChainHandle.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/Microsoft/Win32/SafeHandles/SafeX509ChainHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\CertificateRequest.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/CertificateRequest.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\DSACertificateExtensions.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/DSACertificateExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\ECDsaCertificateExtensions.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/ECDsaCertificateExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\ECDsaX509SignatureGenerator.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/ECDsaX509SignatureGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\GeneralNameEncoder.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/GeneralNameEncoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\OpenFlags.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/OpenFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\Pkcs10CertificationRequestInfo.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/Pkcs10CertificationRequestInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\Pkcs9ExtensionRequest.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/Pkcs9ExtensionRequest.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\PublicKey.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/PublicKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\RSACertificateExtensions.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/RSACertificateExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\RSAPkcs1X509SignatureGenerator.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/RSAPkcs1X509SignatureGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\RSAPssX509SignatureGenerator.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/RSAPssX509SignatureGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\StoreLocation.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/StoreLocation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\StoreName.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/StoreName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\SubjectAlternativeNameBuilder.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/SubjectAlternativeNameBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\TbsCertificate.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/TbsCertificate.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X500DistinguishedName.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X500DistinguishedName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X500DistinguishedNameFlags.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X500DistinguishedNameFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X501Attribute.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X501Attribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509BasicConstraintsExtension.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509BasicConstraintsExtension.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509Certificate.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509Certificate.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509Certificate2.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509Certificate2.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509Certificate2Collection.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509Certificate2Collection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509Certificate2Enumerator.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509Certificate2Enumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509CertificateCollection.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509CertificateCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509CertificateEnumerator.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509CertificateEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509Chain.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509Chain.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509ChainElement.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509ChainElement.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509ChainElementCollection.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509ChainElementCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509ChainElementEnumerator.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509ChainElementEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509ChainPolicy.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509ChainPolicy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509ChainStatus.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509ChainStatus.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509ChainStatusFlags.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509ChainStatusFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509ContentType.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509ContentType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509EnhancedKeyUsageExtension.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509EnhancedKeyUsageExtension.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509Extension.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509Extension.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509ExtensionCollection.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509ExtensionCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509ExtensionEnumerator.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509ExtensionEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509FindType.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509FindType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509IncludeOption.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509IncludeOption.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509KeyStorageFlags.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509KeyStorageFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509KeyUsageExtension.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509KeyUsageExtension.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509KeyUsageFlags.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509KeyUsageFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509NameType.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509NameType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509RevocationFlag.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509RevocationFlag.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509RevocationMode.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509RevocationMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509SignatureGenerator.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509SignatureGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509Store.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509Store.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509SubjectKeyIdentifierExtension.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509SubjectKeyIdentifierExtension.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509SubjectKeyIdentifierHashAlgorithm.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509SubjectKeyIdentifierHashAlgorithm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.X509Certificates\src\System\Security\Cryptography\X509Certificates\X509VerificationFlags.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.X509Certificates/src/System/Security/Cryptography/X509Certificates/X509VerificationFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

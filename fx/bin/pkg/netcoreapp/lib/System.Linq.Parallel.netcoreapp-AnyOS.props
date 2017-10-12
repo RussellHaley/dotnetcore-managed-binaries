@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Linq.Parallel\netcoreapp\System.Linq.Parallel.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Linq.Parallel\netcoreapp\System.Linq.Parallel.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Linq.Parallel\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Linq.Parallel/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Linq.Parallel\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Linq.Parallel/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\ParallelEnumerable.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/ParallelEnumerable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\ParallelExecutionMode.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/ParallelExecutionMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\ParallelMergeOptions.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/ParallelMergeOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Channels\AsynchronousChannel.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Channels/AsynchronousChannel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Channels\SynchronousChannel.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Channels/SynchronousChannel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Enumerables\AggregationMinMaxHelpers.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/AggregationMinMaxHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Enumerables\EmptyEnumerable.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/EmptyEnumerable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Enumerables\EnumerableWrapperWeakToStrong.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/EnumerableWrapperWeakToStrong.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Enumerables\IParallelPartitionable.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/IParallelPartitionable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Enumerables\OrderedParallelQuery.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/OrderedParallelQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Enumerables\ParallelEnumerableWrapper.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/ParallelEnumerableWrapper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Enumerables\ParallelQuery.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/ParallelQuery.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Enumerables\QueryAggregationOptions.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/QueryAggregationOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Enumerables\RangeEnumerable.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/RangeEnumerable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Enumerables\RepeatEnumerable.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Enumerables/RepeatEnumerable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Helpers.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Helpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Merging\ArrayMergeHelper.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/ArrayMergeHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Merging\AsynchronousChannelMergeEnumerator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/AsynchronousChannelMergeEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Merging\DefaultMergeHelper.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/DefaultMergeHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Merging\IMergeHelper.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/IMergeHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Merging\MergeEnumerator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/MergeEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Merging\MergeExecutor.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/MergeExecutor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Merging\OrderPreservingMergeHelper.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/OrderPreservingMergeHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Merging\OrderPreservingPipeliningMergeHelper.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/OrderPreservingPipeliningMergeHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Merging\SynchronousChannelMergeEnumerator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Merging/SynchronousChannelMergeEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Partitioning\HashRepartitionEnumerator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/HashRepartitionEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Partitioning\HashRepartitionStream.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/HashRepartitionStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Partitioning\IPartitionedStreamRecipient.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/IPartitionedStreamRecipient.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Partitioning\OrderedHashRepartitionEnumerator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/OrderedHashRepartitionEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Partitioning\OrderedHashRepartitionStream.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/OrderedHashRepartitionStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Partitioning\PartitionedDataSource.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/PartitionedDataSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Partitioning\PartitionedStream.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/PartitionedStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Partitioning\UnorderedHashRepartitionStream.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Partitioning/UnorderedHashRepartitionStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\AssociativeAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/AssociativeAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\BinaryQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/BinaryQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Binary\ConcatQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/ConcatQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Binary\ExceptQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/ExceptQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Binary\GroupJoinQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/GroupJoinQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Binary\HashJoinQueryOperatorEnumerator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/HashJoinQueryOperatorEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Binary\IntersectQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/IntersectQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Binary\JoinQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/JoinQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Binary\UnionQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/UnionQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Binary\ZipQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Binary/ZipQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\CountAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/CountAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\DecimalAverageAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DecimalAverageAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\DecimalMinMaxAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DecimalMinMaxAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\DecimalSumAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DecimalSumAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\DoubleAverageAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DoubleAverageAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\DoubleMinMaxAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DoubleMinMaxAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\DoubleSumAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/DoubleSumAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\FloatAverageAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/FloatAverageAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\FloatMinMaxAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/FloatMinMaxAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\FloatSumAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/FloatSumAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\InlinedAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/InlinedAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\InlinedAggregationOperatorEnumerator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/InlinedAggregationOperatorEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\IntAverageAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/IntAverageAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\IntMinMaxAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/IntMinMaxAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\IntSumAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/IntSumAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\LongAverageAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/LongAverageAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\LongCountAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/LongCountAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\LongMinMaxAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/LongMinMaxAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\LongSumAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/LongSumAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableDecimalAverageAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDecimalAverageAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableDecimalMinMaxAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDecimalMinMaxAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableDecimalSumAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDecimalSumAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableDoubleAverageAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDoubleAverageAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableDoubleMinMaxAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDoubleMinMaxAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableDoubleSumAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableDoubleSumAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableFloatAverageAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableFloatAverageAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableFloatMinMaxAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableFloatMinMaxAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableFloatSumAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableFloatSumAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableIntAverageAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableIntAverageAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableIntMinMaxAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableIntMinMaxAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableIntSumAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableIntSumAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableLongAverageAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableLongAverageAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableLongMinMaxAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableLongMinMaxAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Inlined\NullableLongSumAggregationOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Inlined/NullableLongSumAggregationOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\ListQueryResults.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/ListQueryResults.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Options\OrderingQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Options/OrderingQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Options\QueryExecutionOption.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Options/QueryExecutionOption.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\OrdinalIndexState.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/OrdinalIndexState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\PartitionedStreamMerger.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/PartitionedStreamMerger.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\PartitionerQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/PartitionerQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\QueryOpeningEnumerator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/QueryOpeningEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\QueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/QueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\QueryOperatorEnumerator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/QueryOperatorEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\QueryResults.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/QueryResults.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\QuerySettings.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/QuerySettings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\ScanQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/ScanQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\UnaryQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/UnaryQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\AnyAllSearchOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/AnyAllSearchOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\ContainsSearchOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/ContainsSearchOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\DefaultIfEmptyQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/DefaultIfEmptyQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\DistinctQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/DistinctQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\ElementAtQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/ElementAtQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\FirstQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/FirstQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\ForAllOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/ForAllOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\GroupByQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/GroupByQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\IndexedSelectQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/IndexedSelectQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\IndexedWhereQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/IndexedWhereQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\LastQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/LastQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\ReverseQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/ReverseQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\SelectManyQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/SelectManyQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\SelectQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/SelectQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\SingleQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/SingleQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\SortQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/SortQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\TakeOrSkipQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/TakeOrSkipQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\TakeOrSkipWhileQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/TakeOrSkipWhileQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\QueryOperators\Unary\WhereQueryOperator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/QueryOperators/Unary/WhereQueryOperator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Scheduling\CancellationState.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/CancellationState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Scheduling\OrderPreservingPipeliningSpoolingTask.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/OrderPreservingPipeliningSpoolingTask.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Scheduling\OrderPreservingSpoolingTask.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/OrderPreservingSpoolingTask.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Scheduling\QueryLifecycle.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/QueryLifecycle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Scheduling\QueryTask.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/QueryTask.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Scheduling\QueryTaskGroupState.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/QueryTaskGroupState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Scheduling\Scheduling.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/Scheduling.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Scheduling\SpoolingTask.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/SpoolingTask.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Scheduling\SpoolingTaskBase.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Scheduling/SpoolingTaskBase.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\CancellableEnumerable.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/CancellableEnumerable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\ExceptionAggregator.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/ExceptionAggregator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\ExchangeUtilities.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/ExchangeUtilities.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\FixedMaxHeap.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/FixedMaxHeap.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\GrowingArray.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/GrowingArray.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\HashLookup.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/HashLookup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\IntValueEvent.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/IntValueEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\ListChunk.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/ListChunk.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\Lookup.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Lookup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\Pair.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Pair.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\PairComparer.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/PairComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\PLINQETWProvider.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/PLINQETWProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\ReverseComparer.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/ReverseComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\Shared.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Shared.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\Sorting.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Sorting.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\TraceHelpers.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/TraceHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\Util.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Util.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\Wrapper.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/Wrapper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Parallel\src\System\Linq\Parallel\Utils\WrapperEqualityComparer.cs">
+      <TargetPath>sources/src/System.Linq.Parallel/src/System/Linq/Parallel/Utils/WrapperEqualityComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

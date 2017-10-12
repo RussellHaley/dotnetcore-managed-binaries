@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.12">
+    <id>Microsoft.NETCore.Runtime.CoreCLR</id>
+    <version>2.1.0-preview1-25810-0</version>
+    <title>Microsoft.NETCore.Runtime.CoreCLR</title>
+    <authors>Microsoft</authors>
+    <owners>microsoft,dotnetframework</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/dotnet/coreclr/blob/master/LICENSE.TXT</licenseUrl>
+    <projectUrl>https://dot.net/</projectUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
+    <description>The .NET Core runtime, called CoreCLR, and the base library, called System.Private.CoreLib. It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes. 
+faca87ae7fd06c520fc0458a81b5b4a99a1c5e72 
+When using NuGet 3.x this package requires at least version 3.4.</description>
+    <releaseNotes>https://go.microsoft.com/fwlink/?LinkID=799421</releaseNotes>
+    <copyright>© Microsoft Corporation.  All rights reserved.</copyright>
+    <serviceable>true</serviceable>
+    <dependencies>
+      <dependency id="Microsoft.NETCore.Jit" version="2.1.0-preview1-25810-0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="N:\Code\Git\coreclr\bin\Product\Windows_NT.x64.Debug\.nuget\pkg\specs\Microsoft.NETCore.Runtime.CoreCLR\runtime.json" target="" exclude="" />
+    <file src="N:\Code\Git\coreclr\LICENSE.TXT" target="" exclude="" />
+    <file src="N:\Code\Git\coreclr\THIRD-PARTY-NOTICES.TXT" target="" exclude="" />
+    <file src="N:\Code\Git\coreclr\bin\obj\version.txt" target="" exclude="" />
+    <file src="N:\Code\Git\coreclr\Tools\_._" target="ref\netstandard1.0" exclude="" />
+  </files>
+</package>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Runtime.Serialization.Primitives\netcoreapp\System.Runtime.Serialization.Primitives.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Runtime.Serialization.Primitives\netcoreapp\System.Runtime.Serialization.Primitives.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Runtime.Serialization.Primitives\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Runtime.Serialization.Primitives/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Runtime.Serialization.Primitives\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Runtime.Serialization.Primitives/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System.Runtime.Serialization.Primitives.TypeForwards.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System.Runtime.Serialization.Primitives.TypeForwards.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System\Runtime\Serialization\CollectionDataContractAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System/Runtime/Serialization/CollectionDataContractAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System\Runtime\Serialization\ContractNamespaceAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System/Runtime/Serialization/ContractNamespaceAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System\Runtime\Serialization\DataContractAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System/Runtime/Serialization/DataContractAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System\Runtime\Serialization\DataMemberAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System/Runtime/Serialization/DataMemberAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System\Runtime\Serialization\EnumMemberAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System/Runtime/Serialization/EnumMemberAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System\Runtime\Serialization\IgnoreDataMemberAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System/Runtime/Serialization/IgnoreDataMemberAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System\Runtime\Serialization\InvalidDataContractException.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System/Runtime/Serialization/InvalidDataContractException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System\Runtime\Serialization\InvalidDataContractException.Serialization.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System/Runtime/Serialization/InvalidDataContractException.Serialization.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System\Runtime\Serialization\ISerializationSurrogateProvider.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System/Runtime/Serialization/ISerializationSurrogateProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Primitives\src\System\Runtime\Serialization\KnownTypeAttribute.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Primitives/src/System/Runtime/Serialization/KnownTypeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

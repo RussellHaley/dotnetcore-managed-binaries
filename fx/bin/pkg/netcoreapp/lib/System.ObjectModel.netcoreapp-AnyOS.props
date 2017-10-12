@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.ObjectModel\netcoreapp\System.ObjectModel.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.ObjectModel\netcoreapp\System.ObjectModel.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.ObjectModel\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.ObjectModel/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.ObjectModel\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.ObjectModel/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\Collections\Generic\DebugView.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/Collections/Generic/DebugView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\Collections\ObjectModel\KeyedCollection.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/Collections/ObjectModel/KeyedCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\Collections\ObjectModel\ObservableCollection.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/Collections/ObjectModel/ObservableCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\Collections\ObjectModel\ReadOnlyDictionary.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/Collections/ObjectModel/ReadOnlyDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\Collections\ObjectModel\ReadOnlyObservableCollection.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/Collections/ObjectModel/ReadOnlyObservableCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\Collections\Specialized\INotifyCollectionChanged.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/Collections/Specialized/INotifyCollectionChanged.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\Collections\Specialized\NotifyCollectionChangedEventArgs.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/Collections/Specialized/NotifyCollectionChangedEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\ComponentModel\DataErrorsChangedEventArgs.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/ComponentModel/DataErrorsChangedEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\ComponentModel\INotifyDataErrorInfo.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/ComponentModel/INotifyDataErrorInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\ComponentModel\INotifyPropertyChanged.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/ComponentModel/INotifyPropertyChanged.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\ComponentModel\INotifyPropertyChanging.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/ComponentModel/INotifyPropertyChanging.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\ComponentModel\PropertyChangedEventArgs.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/ComponentModel/PropertyChangedEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\ComponentModel\PropertyChangedEventHandler.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/ComponentModel/PropertyChangedEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\ComponentModel\PropertyChangingEventArgs.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/ComponentModel/PropertyChangingEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\ComponentModel\PropertyChangingEventHandler.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/ComponentModel/PropertyChangingEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ObjectModel\src\System\Windows\Input\ICommand.cs">
+      <TargetPath>sources/src/System.ObjectModel/src/System/Windows/Input/ICommand.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Csp\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.Cryptography.Csp/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Csp\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Security.Cryptography.Csp/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Csp\netcoreapp\System.Security.Cryptography.Csp.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Security.Cryptography.Csp\netcoreapp\System.Security.Cryptography.Csp.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\BasicSymmetricCipher.cs">
+      <Link>Internal\Cryptography\BasicSymmetricCipher.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/BasicSymmetricCipher.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\UniversalCryptoDecryptor.cs">
+      <Link>Internal\Cryptography\UniversalCryptoDecryptor.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/UniversalCryptoDecryptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\UniversalCryptoEncryptor.cs">
+      <Link>Internal\Cryptography\UniversalCryptoEncryptor.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/UniversalCryptoEncryptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\UniversalCryptoTransform.cs">
+      <Link>Internal\Cryptography\UniversalCryptoTransform.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/UniversalCryptoTransform.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Internal\Cryptography\Windows\CryptoThrowHelper.cs">
+      <Link>Internal\Cryptography\Windows\CryptoThrowHelper.cs</Link>
+      <TargetPath>sources/src/Common/src/Internal/Cryptography/Windows/CryptoThrowHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Crypt32\Interop.FindOidInfo.cs">
+      <Link>Common\Interop\Windows\Crypt32\Interop.FindOidInfo.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Crypt32/Interop.FindOidInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FormatMessage.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.FormatMessage.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FormatMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Microsoft\Win32\SafeHandles\SafeHandleCache.cs">
+      <Link>Common\Microsoft\Win32\SafeHandles\SafeHandleCache.cs</Link>
+      <TargetPath>sources/src/Common/src/Microsoft/Win32/SafeHandles/SafeHandleCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\Internal\Cryptography\BasicSymmetricCipherCsp.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/Internal/Cryptography/BasicSymmetricCipherCsp.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\Internal\Cryptography\Helpers.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/Internal/Cryptography/Helpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\AesCryptoServiceProvider.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/AesCryptoServiceProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\CapiHelper.DSA.Shared.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/CapiHelper.DSA.Shared.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\CapiHelper.DSA.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/CapiHelper.DSA.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\CapiHelper.Shared.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/CapiHelper.Shared.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\CapiHelper.SymmetricKey.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/CapiHelper.SymmetricKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\CapiHelper.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/CapiHelper.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\CspKeyContainerInfo.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/CspKeyContainerInfo.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\CspParameters.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/CspParameters.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\CspProviderFlags.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/CspProviderFlags.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\DESCryptoServiceProvider.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/DESCryptoServiceProvider.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\DSACryptoServiceProvider.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/DSACryptoServiceProvider.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\ICspAsymmetricAlgorithm.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/ICspAsymmetricAlgorithm.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\KeyNumber.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/KeyNumber.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\MD5CryptoServiceProvider.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/MD5CryptoServiceProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\PasswordDeriveBytes.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/PasswordDeriveBytes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\PasswordDeriveBytes.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/PasswordDeriveBytes.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\RC2CryptoServiceProvider.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/RC2CryptoServiceProvider.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\RNGCryptoServiceProvider.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/RNGCryptoServiceProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\RSACryptoServiceProvider.Windows.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/RSACryptoServiceProvider.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\SafeCryptoHandles.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/SafeCryptoHandles.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\SHA1CryptoServiceProvider.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/SHA1CryptoServiceProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\SHA256CryptoServiceProvider.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/SHA256CryptoServiceProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\SHA384CryptoServiceProvider.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/SHA384CryptoServiceProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\SHA512CryptoServiceProvider.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/SHA512CryptoServiceProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\TripleDESCryptoServiceProvider.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/TripleDESCryptoServiceProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Security.Cryptography.Csp\src\System\Security\Cryptography\Utils.cs">
+      <TargetPath>sources/src/System.Security.Cryptography.Csp/src/System/Security/Cryptography/Utils.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

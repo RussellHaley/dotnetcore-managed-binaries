@@ -1,0 +1,3046 @@
+{
+  "Id": "runtime.win-x64.Microsoft.Private.CoreFx.NETCoreApp",
+  "Version": "4.5.0-preview1-25810-0",
+  "SupportedFrameworks": {
+    ".NETStandard,Version=v1.0": "unknown",
+    ".NETStandard,Version=v1.1": "unknown",
+    ".NETStandard,Version=v1.2": "unknown",
+    ".NETStandard,Version=v1.3": "unknown",
+    ".NETStandard,Version=v1.4": "unknown",
+    ".NETStandard,Version=v1.6": "unknown",
+    ".NETStandard,Version=v1.7": "unknown",
+    ".NETStandard,Version=v2.0": "unknown"
+  },
+  "Targets": {
+    ".NETCore,Version=v4.5": {
+      "Framework": ".NETCore,Version=v4.5",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCore,Version=v4.5.1": {
+      "Framework": ".NETCore,Version=v4.5.1",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCore,Version=v5.0": {
+      "Framework": ".NETCore,Version=v5.0",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCore,Version=v5.0/win10-x86": {
+      "Framework": ".NETCore,Version=v5.0",
+      "RuntimeID": "win10-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCore,Version=v5.0/win10-x86-aot": {
+      "Framework": ".NETCore,Version=v5.0",
+      "RuntimeID": "win10-x86-aot",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCore,Version=v5.0/win10-x64": {
+      "Framework": ".NETCore,Version=v5.0",
+      "RuntimeID": "win10-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETCore,Version=v5.0/win10-x64-aot": {
+      "Framework": ".NETCore,Version=v5.0",
+      "RuntimeID": "win10-x64-aot",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETCore,Version=v5.0/win10-arm": {
+      "Framework": ".NETCore,Version=v5.0",
+      "RuntimeID": "win10-arm",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCore,Version=v5.0/win10-arm-aot": {
+      "Framework": ".NETCore,Version=v5.0",
+      "RuntimeID": "win10-arm-aot",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0/win7-x86": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "RuntimeID": "win7-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0/win7-x64": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "RuntimeID": "win7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0/osx.10.11-x64": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "RuntimeID": "osx.10.11-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0/centos.7-x64": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "RuntimeID": "centos.7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0/debian.8-x64": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "RuntimeID": "debian.8-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0/linuxmint.17-x64": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "RuntimeID": "linuxmint.17-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0/opensuse.13.2-x64": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "RuntimeID": "opensuse.13.2-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0/rhel.7.2-x64": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "RuntimeID": "rhel.7.2-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0/ubuntu.14.04-x64": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "RuntimeID": "ubuntu.14.04-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.0/ubuntu.16.04-x64": {
+      "Framework": ".NETCoreApp,Version=v1.0",
+      "RuntimeID": "ubuntu.16.04-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/win7-x86": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "win7-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/win7-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "win7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/osx.10.10-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "osx.10.10-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/osx.10.11-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "osx.10.11-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/centos.7-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "centos.7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/debian.8-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "debian.8-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/fedora.23-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "fedora.23-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/fedora.24-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "fedora.24-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/linuxmint.17-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "linuxmint.17-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/opensuse.13.2-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "opensuse.13.2-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/opensuse.42.1-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "opensuse.42.1-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/rhel.7-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "rhel.7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/rhel.7.2-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "rhel.7.2-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/ubuntu.14.04-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "ubuntu.14.04-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/ubuntu.16.04-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "ubuntu.16.04-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v1.1/ubuntu.16.10-x64": {
+      "Framework": ".NETCoreApp,Version=v1.1",
+      "RuntimeID": "ubuntu.16.10-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/win7-x86": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "win7-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/win7-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "win7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/win10-arm64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "win10-arm64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/osx.10.10-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "osx.10.10-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/osx.10.11-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "osx.10.11-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/centos.7-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "centos.7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/debian.8-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "debian.8-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/fedora.23-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "fedora.23-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/fedora.24-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "fedora.24-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/linuxmint.17-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "linuxmint.17-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/opensuse.13.2-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "opensuse.13.2-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/opensuse.42.1-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "opensuse.42.1-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/rhel.7-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "rhel.7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/rhel.7.2-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "rhel.7.2-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/ubuntu.14.04-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "ubuntu.14.04-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/ubuntu.16.04-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "ubuntu.16.04-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.0/ubuntu.16.10-x64": {
+      "Framework": ".NETCoreApp,Version=v2.0",
+      "RuntimeID": "ubuntu.16.10-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/linux-arm": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "linux-arm",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/linux-arm64": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "linux-arm64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/linux-x64": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "linux-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/rhel.6-x64": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "rhel.6-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/alpine.3.6-x64": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "alpine.3.6-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/osx-x64": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "osx-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/win-arm": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "win-arm",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/win-arm64": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "win-arm64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/win-x86": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "win-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/tizen.4.0.0-armel": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "tizen.4.0.0-armel",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETCoreApp,Version=v2.1/win-x64": {
+      "Framework": ".NETCoreApp,Version=v2.1",
+      "RuntimeID": "win-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "RuntimeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\Microsoft.CSharp\\netstandard\\Microsoft.CSharp.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/Microsoft.CSharp.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.4.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\Microsoft.VisualBasic\\netstandard\\Microsoft.VisualBasic.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/Microsoft.VisualBasic.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "10.0.4.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\Microsoft.Win32.Primitives\\netcoreapp\\Microsoft.Win32.Primitives.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/Microsoft.Win32.Primitives.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\Microsoft.Win32.Registry\\netcoreapp2.0\\Microsoft.Win32.Registry.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/Microsoft.Win32.Registry.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\mscorlib\\netcoreapp\\mscorlib.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/mscorlib.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\netstandard.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/netstandard.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "2.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.ComponentModel.Composition.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.Composition.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.ComponentModel.DataAnnotations.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.DataAnnotations.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Configuration.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Configuration.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Core.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Core.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Data.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Data.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Drawing.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Drawing.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.IO.Compression.FileSystem.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.Compression.FileSystem.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Net.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Numerics.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Numerics.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Runtime.Serialization.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Serialization.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Security.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.ServiceModel.Web.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ServiceModel.Web.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.ServiceProcess.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ServiceProcess.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Transactions.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Transactions.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Web.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Web.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Windows.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Windows.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Xml.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Xml.Linq.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.Linq.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\System.Xml.Serialization.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.Serialization.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\obj\\shims\\netcoreapp\\facades\\WindowsBase.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/WindowsBase.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.AppContext\\netcoreapp\\System.AppContext.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.AppContext.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Buffers\\netcoreapp\\System.Buffers.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Buffers.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Collections.Concurrent\\netcoreapp\\System.Collections.Concurrent.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Collections.Concurrent.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.14.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Collections.Immutable\\netcoreapp\\System.Collections.Immutable.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Collections.Immutable.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "1.2.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Collections\\netcoreapp\\System.Collections.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Collections.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Collections.NonGeneric\\netcoreapp\\System.Collections.NonGeneric.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Collections.NonGeneric.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Collections.Specialized\\netcoreapp\\System.Collections.Specialized.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Collections.Specialized.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ComponentModel.Annotations\\netstandard\\System.ComponentModel.Annotations.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.Annotations.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ComponentModel.EventBasedAsync\\netcoreapp\\System.ComponentModel.EventBasedAsync.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.EventBasedAsync.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ComponentModel\\netcoreapp\\System.ComponentModel.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ComponentModel.Primitives\\netcoreapp\\System.ComponentModel.Primitives.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.Primitives.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ComponentModel.TypeConverter\\netcoreapp\\System.ComponentModel.TypeConverter.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.TypeConverter.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Console\\netcoreapp\\System.Console.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Console.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Data.Common\\netcoreapp\\System.Data.Common.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Data.Common.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.Contracts\\netcoreapp\\System.Diagnostics.Contracts.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.Contracts.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.Debug\\netcoreapp\\System.Diagnostics.Debug.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.Debug.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Diagnostics.DiagnosticSource\\netcoreapp\\System.Diagnostics.DiagnosticSource.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.DiagnosticSource.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.FileVersionInfo\\netcoreapp\\System.Diagnostics.FileVersionInfo.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.FileVersionInfo.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.Process\\netcoreapp\\System.Diagnostics.Process.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.Process.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.StackTrace\\netcoreapp\\System.Diagnostics.StackTrace.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.StackTrace.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Diagnostics.TextWriterTraceListener\\netcoreapp\\System.Diagnostics.TextWriterTraceListener.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.TextWriterTraceListener.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.Tools\\netcoreapp\\System.Diagnostics.Tools.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.Tools.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.TraceSource\\netcoreapp\\System.Diagnostics.TraceSource.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.TraceSource.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.Tracing\\netcoreapp\\System.Diagnostics.Tracing.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.Tracing.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Drawing.Primitives\\netcoreapp\\System.Drawing.Primitives.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Drawing.Primitives.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Dynamic.Runtime\\netcoreapp\\System.Dynamic.Runtime.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Dynamic.Runtime.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Globalization.Calendars\\netcoreapp\\System.Globalization.Calendars.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Globalization.Calendars.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Globalization.Extensions\\netcoreapp\\System.Globalization.Extensions.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Globalization.Extensions.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Globalization\\netcoreapp\\System.Globalization.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Globalization.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.Compression\\netcoreapp\\System.IO.Compression.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.Compression.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.IO.Compression.ZipFile\\netcoreapp\\System.IO.Compression.ZipFile.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.Compression.ZipFile.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.4.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.FileSystem.AccessControl\\netcoreapp2.0\\System.IO.FileSystem.AccessControl.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.FileSystem.AccessControl.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.FileSystem.DriveInfo\\netcoreapp\\System.IO.FileSystem.DriveInfo.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.FileSystem.DriveInfo.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.FileSystem\\netcoreapp\\System.IO.FileSystem.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.FileSystem.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.IO.FileSystem.Primitives\\netcoreapp\\System.IO.FileSystem.Primitives.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.FileSystem.Primitives.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.FileSystem.Watcher\\netcoreapp\\System.IO.FileSystem.Watcher.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.FileSystem.Watcher.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.IsolatedStorage\\netcoreapp\\System.IO.IsolatedStorage.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.IsolatedStorage.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.MemoryMappedFiles\\netcoreapp\\System.IO.MemoryMappedFiles.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.MemoryMappedFiles.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.IO\\netcoreapp\\System.IO.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.Pipes\\netcoreapp\\System.IO.Pipes.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.Pipes.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.UnmanagedMemoryStream\\netcoreapp\\System.IO.UnmanagedMemoryStream.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.UnmanagedMemoryStream.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Linq.Expressions\\netcoreapp\\System.Linq.Expressions.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Linq.Expressions.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Linq\\netcoreapp\\System.Linq.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Linq.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Linq.Parallel\\netcoreapp\\System.Linq.Parallel.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Linq.Parallel.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Linq.Queryable\\netcoreapp\\System.Linq.Queryable.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Linq.Queryable.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Memory\\netcoreapp\\System.Memory.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Memory.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Http\\netcoreapp\\System.Net.Http.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Http.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.HttpListener\\netcoreapp\\System.Net.HttpListener.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.HttpListener.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Mail\\netcoreapp\\System.Net.Mail.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Mail.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.NameResolution\\netcoreapp\\System.Net.NameResolution.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.NameResolution.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.NetworkInformation\\netcoreapp\\System.Net.NetworkInformation.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.NetworkInformation.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Ping\\netcoreapp\\System.Net.Ping.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Ping.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Primitives\\netcoreapp\\System.Net.Primitives.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Primitives.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Requests\\netcoreapp\\System.Net.Requests.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Requests.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Security\\netcoreapp\\System.Net.Security.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Security.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Net.ServicePoint\\netcoreapp\\System.Net.ServicePoint.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.ServicePoint.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Sockets\\netcoreapp\\System.Net.Sockets.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Sockets.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Net.WebClient\\netcoreapp\\System.Net.WebClient.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.WebClient.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Net.WebHeaderCollection\\netcoreapp\\System.Net.WebHeaderCollection.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.WebHeaderCollection.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Net.WebProxy\\netcoreapp\\System.Net.WebProxy.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.WebProxy.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.WebSockets.Client\\netcoreapp\\System.Net.WebSockets.Client.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.WebSockets.Client.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Net.WebSockets\\netcoreapp\\System.Net.WebSockets.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.WebSockets.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System\\netcoreapp\\System.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Numerics.Vectors\\netcoreapp\\System.Numerics.Vectors.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Numerics.Vectors.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.4.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ObjectModel\\netcoreapp\\System.ObjectModel.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ObjectModel.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Private.DataContractSerialization\\netcoreapp\\System.Private.DataContractSerialization.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Private.DataContractSerialization.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.4.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Private.Uri\\netcoreapp\\System.Private.Uri.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Private.Uri.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.5.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Private.Xml.Linq\\netcoreapp\\System.Private.Xml.Linq.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Private.Xml.Linq.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Private.Xml\\netcoreapp\\System.Private.Xml.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Private.Xml.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Reflection.DispatchProxy\\netcoreapp\\System.Reflection.DispatchProxy.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.DispatchProxy.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.4.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection.Emit.ILGeneration\\netcoreapp\\System.Reflection.Emit.ILGeneration.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Emit.ILGeneration.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection.Emit.Lightweight\\netcoreapp\\System.Reflection.Emit.Lightweight.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Emit.Lightweight.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection.Emit\\netcoreapp\\System.Reflection.Emit.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Emit.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Reflection.Extensions\\netcoreapp\\System.Reflection.Extensions.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Extensions.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Reflection.Metadata\\netcoreapp\\System.Reflection.Metadata.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Metadata.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "1.4.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection\\netcoreapp\\System.Reflection.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection.Primitives\\netcoreapp\\System.Reflection.Primitives.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Primitives.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection.TypeExtensions\\netcoreapp\\System.Reflection.TypeExtensions.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.TypeExtensions.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Resources.Reader\\netcoreapp\\System.Resources.Reader.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Resources.Reader.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Resources.ResourceManager\\netcoreapp\\System.Resources.ResourceManager.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Resources.ResourceManager.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Resources.Writer\\netcoreapp\\System.Resources.Writer.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Resources.Writer.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.CompilerServices.Unsafe\\netcoreapp\\System.Runtime.CompilerServices.Unsafe.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.CompilerServices.Unsafe.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.4.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.CompilerServices.VisualC\\netcoreapp\\System.Runtime.CompilerServices.VisualC.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.CompilerServices.VisualC.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.Extensions\\netcoreapp\\System.Runtime.Extensions.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Extensions.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Handles\\netcoreapp\\System.Runtime.Handles.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Handles.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.InteropServices\\netcoreapp\\System.Runtime.InteropServices.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.InteropServices.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.InteropServices.RuntimeInformation\\netcoreapp\\System.Runtime.InteropServices.RuntimeInformation.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.InteropServices.RuntimeInformation.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.InteropServices.WindowsRuntime\\netcoreapp\\System.Runtime.InteropServices.WindowsRuntime.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.InteropServices.WindowsRuntime.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.Intrinsics.X86\\netcoreapp\\System.Runtime.Intrinsics.X86.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Intrinsics.X86.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.0.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.Loader\\netcoreapp\\System.Runtime.Loader.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Loader.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime\\netcoreapp\\System.Runtime.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Numerics\\netcoreapp\\System.Runtime.Numerics.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Numerics.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Serialization.Formatters\\netcoreapp\\System.Runtime.Serialization.Formatters.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Serialization.Formatters.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Serialization.Json\\netcoreapp\\System.Runtime.Serialization.Json.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Serialization.Json.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.4.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Serialization.Primitives\\netcoreapp\\System.Runtime.Serialization.Primitives.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Serialization.Primitives.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Serialization.Xml\\netcoreapp\\System.Runtime.Serialization.Xml.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Serialization.Xml.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.4.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.AccessControl\\netcoreapp2.0\\System.Security.AccessControl.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.AccessControl.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Security.Claims\\netcoreapp\\System.Security.Claims.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Claims.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Cryptography.Algorithms\\netcoreapp\\System.Security.Cryptography.Algorithms.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.Algorithms.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.3.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Cryptography.Cng\\netcoreapp\\System.Security.Cryptography.Cng.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.Cng.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.3.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Cryptography.Csp\\netcoreapp\\System.Security.Cryptography.Csp.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.Csp.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Cryptography.Encoding\\netcoreapp\\System.Security.Cryptography.Encoding.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.Encoding.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Security.Cryptography.OpenSsl\\netstandard\\System.Security.Cryptography.OpenSsl.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.OpenSsl.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Security.Cryptography.Primitives\\netcoreapp\\System.Security.Cryptography.Primitives.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.Primitives.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Cryptography.X509Certificates\\netcoreapp\\System.Security.Cryptography.X509Certificates.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.X509Certificates.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Security.Principal\\netcoreapp\\System.Security.Principal.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Principal.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Principal.Windows\\netcoreapp2.0\\System.Security.Principal.Windows.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Principal.Windows.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Security.SecureString\\netcoreapp\\System.Security.SecureString.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.SecureString.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Text.Encoding.Extensions\\netcoreapp\\System.Text.Encoding.Extensions.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Text.Encoding.Extensions.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Text.Encoding\\netcoreapp\\System.Text.Encoding.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Text.Encoding.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Text.RegularExpressions\\netcoreapp\\System.Text.RegularExpressions.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Text.RegularExpressions.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading\\netcoreapp\\System.Threading.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.Overlapped\\netcoreapp\\System.Threading.Overlapped.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Overlapped.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Threading.Tasks.Dataflow\\netstandard\\System.Threading.Tasks.Dataflow.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Tasks.Dataflow.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.6.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.Tasks.Extensions\\netcoreapp\\System.Threading.Tasks.Extensions.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Tasks.Extensions.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.2.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.Tasks\\netcoreapp\\System.Threading.Tasks.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Tasks.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Threading.Tasks.Parallel\\netcoreapp\\System.Threading.Tasks.Parallel.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Tasks.Parallel.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.Thread\\netcoreapp\\System.Threading.Thread.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Thread.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.ThreadPool\\netcoreapp\\System.Threading.ThreadPool.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.ThreadPool.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.Timer\\netcoreapp\\System.Threading.Timer.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Timer.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Transactions.Local\\netcoreapp\\System.Transactions.Local.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Transactions.Local.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ValueTuple\\netcoreapp\\System.ValueTuple.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ValueTuple.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.3.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Web.HttpUtility\\netcoreapp\\System.Web.HttpUtility.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Web.HttpUtility.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.0.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.ReaderWriter\\netcoreapp\\System.Xml.ReaderWriter.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.ReaderWriter.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.2.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.XDocument\\netcoreapp\\System.Xml.XDocument.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.XDocument.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.XmlDocument\\netcoreapp\\System.Xml.XmlDocument.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.XmlDocument.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.XmlSerializer\\netcoreapp\\System.Xml.XmlSerializer.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.XmlSerializer.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.XPath\\netcoreapp\\System.Xml.XPath.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.XPath.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.XPath.XDocument\\netcoreapp\\System.Xml.XPath.XDocument.dll",
+          "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.XPath.XDocument.dll",
+          "TargetFramework": ".NETCoreApp,Version=v2.1",
+          "Version": "4.1.1.0"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.5": {
+      "Framework": ".NETFramework,Version=v4.5",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.5/win-x86": {
+      "Framework": ".NETFramework,Version=v4.5",
+      "RuntimeID": "win-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.5/win-x64": {
+      "Framework": ".NETFramework,Version=v4.5",
+      "RuntimeID": "win-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.5.1": {
+      "Framework": ".NETFramework,Version=v4.5.1",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.5.1/win-x86": {
+      "Framework": ".NETFramework,Version=v4.5.1",
+      "RuntimeID": "win-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.5.1/win-x64": {
+      "Framework": ".NETFramework,Version=v4.5.1",
+      "RuntimeID": "win-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6": {
+      "Framework": ".NETFramework,Version=v4.6",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6/win-x86": {
+      "Framework": ".NETFramework,Version=v4.6",
+      "RuntimeID": "win-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6/win-x64": {
+      "Framework": ".NETFramework,Version=v4.6",
+      "RuntimeID": "win-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6/win7-x86": {
+      "Framework": ".NETFramework,Version=v4.6",
+      "RuntimeID": "win7-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6/win7-x64": {
+      "Framework": ".NETFramework,Version=v4.6",
+      "RuntimeID": "win7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.1": {
+      "Framework": ".NETFramework,Version=v4.6.1",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Framework": ".NETFramework,Version=v4.6.1",
+      "RuntimeID": "win-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Framework": ".NETFramework,Version=v4.6.1",
+      "RuntimeID": "win-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.1/win7-x86": {
+      "Framework": ".NETFramework,Version=v4.6.1",
+      "RuntimeID": "win7-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.1/win7-x64": {
+      "Framework": ".NETFramework,Version=v4.6.1",
+      "RuntimeID": "win7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.2": {
+      "Framework": ".NETFramework,Version=v4.6.2",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.2/win-x86": {
+      "Framework": ".NETFramework,Version=v4.6.2",
+      "RuntimeID": "win-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.2/win-x64": {
+      "Framework": ".NETFramework,Version=v4.6.2",
+      "RuntimeID": "win-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.2/win7-x86": {
+      "Framework": ".NETFramework,Version=v4.6.2",
+      "RuntimeID": "win7-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.2/win7-x64": {
+      "Framework": ".NETFramework,Version=v4.6.2",
+      "RuntimeID": "win7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.3": {
+      "Framework": ".NETFramework,Version=v4.6.3",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.3/win-x86": {
+      "Framework": ".NETFramework,Version=v4.6.3",
+      "RuntimeID": "win-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.3/win-x64": {
+      "Framework": ".NETFramework,Version=v4.6.3",
+      "RuntimeID": "win-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.3/win7-x86": {
+      "Framework": ".NETFramework,Version=v4.6.3",
+      "RuntimeID": "win7-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETFramework,Version=v4.6.3/win7-x64": {
+      "Framework": ".NETFramework,Version=v4.6.3",
+      "RuntimeID": "win7-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    ".NETStandard,Version=v1.0": {
+      "Framework": ".NETStandard,Version=v1.0",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETStandard,Version=v1.1": {
+      "Framework": ".NETStandard,Version=v1.1",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETStandard,Version=v1.2": {
+      "Framework": ".NETStandard,Version=v1.2",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETStandard,Version=v1.3": {
+      "Framework": ".NETStandard,Version=v1.3",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETStandard,Version=v1.4": {
+      "Framework": ".NETStandard,Version=v1.4",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETStandard,Version=v1.6": {
+      "Framework": ".NETStandard,Version=v1.6",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETStandard,Version=v1.7": {
+      "Framework": ".NETStandard,Version=v1.7",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    ".NETStandard,Version=v2.0": {
+      "Framework": ".NETStandard,Version=v2.0",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "MonoAndroid,Version=v1.0": {
+      "Framework": "MonoAndroid,Version=v1.0",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "MonoTouch,Version=v1.0": {
+      "Framework": "MonoTouch,Version=v1.0",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "UAP,Version=v10.0": {
+      "Framework": "UAP,Version=v10.0",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "UAP,Version=v10.0/win10-x86": {
+      "Framework": "UAP,Version=v10.0",
+      "RuntimeID": "win10-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "UAP,Version=v10.0/win10-x86-aot": {
+      "Framework": "UAP,Version=v10.0",
+      "RuntimeID": "win10-x86-aot",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "UAP,Version=v10.0/win10-x64": {
+      "Framework": "UAP,Version=v10.0",
+      "RuntimeID": "win10-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    "UAP,Version=v10.0/win10-x64-aot": {
+      "Framework": "UAP,Version=v10.0",
+      "RuntimeID": "win10-x64-aot",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    "UAP,Version=v10.0/win10-arm": {
+      "Framework": "UAP,Version=v10.0",
+      "RuntimeID": "win10-arm",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "UAP,Version=v10.0/win10-arm-aot": {
+      "Framework": "UAP,Version=v10.0",
+      "RuntimeID": "win10-arm-aot",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "UAP,Version=v10.0.15138": {
+      "Framework": "UAP,Version=v10.0.15138",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "UAP,Version=v10.0.15138/win10-x86": {
+      "Framework": "UAP,Version=v10.0.15138",
+      "RuntimeID": "win10-x86",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "UAP,Version=v10.0.15138/win10-x86-aot": {
+      "Framework": "UAP,Version=v10.0.15138",
+      "RuntimeID": "win10-x86-aot",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "UAP,Version=v10.0.15138/win10-x64": {
+      "Framework": "UAP,Version=v10.0.15138",
+      "RuntimeID": "win10-x64",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    "UAP,Version=v10.0.15138/win10-x64-aot": {
+      "Framework": "UAP,Version=v10.0.15138",
+      "RuntimeID": "win10-x64-aot",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ],
+      "NativeAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.dll",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.dll"
+        },
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.x64.Debug\\native\\clrcompression.pdb",
+          "PackagePath": "runtimes/win-x64/native/clrcompression.pdb"
+        }
+      ]
+    },
+    "UAP,Version=v10.0.15138/win10-arm": {
+      "Framework": "UAP,Version=v10.0.15138",
+      "RuntimeID": "win10-arm",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "UAP,Version=v10.0.15138/win10-arm-aot": {
+      "Framework": "UAP,Version=v10.0.15138",
+      "RuntimeID": "win10-arm-aot",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "WindowsPhone,Version=v7.0": {
+      "Framework": "WindowsPhone,Version=v7.0",
+      "RuntimeID": ""
+    },
+    "WindowsPhone,Version=v7.1": {
+      "Framework": "WindowsPhone,Version=v7.1",
+      "RuntimeID": ""
+    },
+    "WindowsPhone,Version=v8.0": {
+      "Framework": "WindowsPhone,Version=v8.0",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "WindowsPhoneApp,Version=v8.1": {
+      "Framework": "WindowsPhoneApp,Version=v8.1",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "Xamarin.iOS,Version=v1.0": {
+      "Framework": "Xamarin.iOS,Version=v1.0",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "Xamarin.Mac,Version=v2.0": {
+      "Framework": "Xamarin.Mac,Version=v2.0",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "Xamarin.TVOS,Version=v1.0": {
+      "Framework": "Xamarin.TVOS,Version=v1.0",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    },
+    "Xamarin.WatchOS,Version=v1.0": {
+      "Framework": "Xamarin.WatchOS,Version=v1.0",
+      "RuntimeID": "",
+      "CompileAssets": [
+        {
+          "LocalPath": "N:\\Code\\Git\\corefx\\Tools\\_._",
+          "PackagePath": "ref/netstandard/_._"
+        }
+      ]
+    }
+  },
+  "UnusedAssets": [
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\Microsoft.CSharp\\netstandard\\Microsoft.CSharp.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/Microsoft.CSharp.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\Microsoft.VisualBasic\\netstandard\\Microsoft.VisualBasic.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/Microsoft.VisualBasic.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\Microsoft.Win32.Primitives\\netcoreapp\\Microsoft.Win32.Primitives.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/Microsoft.Win32.Primitives.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\Microsoft.Win32.Registry\\netcoreapp2.0\\Microsoft.Win32.Registry.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/Microsoft.Win32.Registry.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\mscorlib\\netcoreapp\\mscorlib.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/mscorlib.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.AppContext\\netcoreapp\\System.AppContext.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.AppContext.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Buffers\\netcoreapp\\System.Buffers.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Buffers.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Collections.Concurrent\\netcoreapp\\System.Collections.Concurrent.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Collections.Concurrent.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Collections.Immutable\\netcoreapp\\System.Collections.Immutable.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Collections.Immutable.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Collections\\netcoreapp\\System.Collections.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Collections.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Collections.NonGeneric\\netcoreapp\\System.Collections.NonGeneric.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Collections.NonGeneric.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Collections.Specialized\\netcoreapp\\System.Collections.Specialized.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Collections.Specialized.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ComponentModel.Annotations\\netstandard\\System.ComponentModel.Annotations.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.Annotations.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ComponentModel.EventBasedAsync\\netcoreapp\\System.ComponentModel.EventBasedAsync.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.EventBasedAsync.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ComponentModel\\netcoreapp\\System.ComponentModel.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ComponentModel.Primitives\\netcoreapp\\System.ComponentModel.Primitives.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.Primitives.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ComponentModel.TypeConverter\\netcoreapp\\System.ComponentModel.TypeConverter.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ComponentModel.TypeConverter.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Console\\netcoreapp\\System.Console.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Console.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Data.Common\\netcoreapp\\System.Data.Common.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Data.Common.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.Contracts\\netcoreapp\\System.Diagnostics.Contracts.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.Contracts.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.Debug\\netcoreapp\\System.Diagnostics.Debug.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.Debug.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Diagnostics.DiagnosticSource\\netcoreapp\\System.Diagnostics.DiagnosticSource.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.DiagnosticSource.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.FileVersionInfo\\netcoreapp\\System.Diagnostics.FileVersionInfo.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.FileVersionInfo.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.Process\\netcoreapp\\System.Diagnostics.Process.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.Process.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.StackTrace\\netcoreapp\\System.Diagnostics.StackTrace.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.StackTrace.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Diagnostics.TextWriterTraceListener\\netcoreapp\\System.Diagnostics.TextWriterTraceListener.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.TextWriterTraceListener.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.Tools\\netcoreapp\\System.Diagnostics.Tools.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.Tools.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.TraceSource\\netcoreapp\\System.Diagnostics.TraceSource.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.TraceSource.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Diagnostics.Tracing\\netcoreapp\\System.Diagnostics.Tracing.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Diagnostics.Tracing.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Drawing.Primitives\\netcoreapp\\System.Drawing.Primitives.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Drawing.Primitives.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Dynamic.Runtime\\netcoreapp\\System.Dynamic.Runtime.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Dynamic.Runtime.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Globalization.Calendars\\netcoreapp\\System.Globalization.Calendars.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Globalization.Calendars.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Globalization.Extensions\\netcoreapp\\System.Globalization.Extensions.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Globalization.Extensions.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Globalization\\netcoreapp\\System.Globalization.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Globalization.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.Compression\\netcoreapp\\System.IO.Compression.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.Compression.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.IO.Compression.ZipFile\\netcoreapp\\System.IO.Compression.ZipFile.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.Compression.ZipFile.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.FileSystem.AccessControl\\netcoreapp2.0\\System.IO.FileSystem.AccessControl.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.FileSystem.AccessControl.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.FileSystem.DriveInfo\\netcoreapp\\System.IO.FileSystem.DriveInfo.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.FileSystem.DriveInfo.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.FileSystem\\netcoreapp\\System.IO.FileSystem.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.FileSystem.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.IO.FileSystem.Primitives\\netcoreapp\\System.IO.FileSystem.Primitives.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.FileSystem.Primitives.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.FileSystem.Watcher\\netcoreapp\\System.IO.FileSystem.Watcher.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.FileSystem.Watcher.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.IsolatedStorage\\netcoreapp\\System.IO.IsolatedStorage.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.IsolatedStorage.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.MemoryMappedFiles\\netcoreapp\\System.IO.MemoryMappedFiles.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.MemoryMappedFiles.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.IO\\netcoreapp\\System.IO.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.Pipes\\netcoreapp\\System.IO.Pipes.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.Pipes.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.IO.UnmanagedMemoryStream\\netcoreapp\\System.IO.UnmanagedMemoryStream.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.IO.UnmanagedMemoryStream.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Linq.Expressions\\netcoreapp\\System.Linq.Expressions.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Linq.Expressions.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Linq\\netcoreapp\\System.Linq.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Linq.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Linq.Parallel\\netcoreapp\\System.Linq.Parallel.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Linq.Parallel.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Linq.Queryable\\netcoreapp\\System.Linq.Queryable.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Linq.Queryable.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Memory\\netcoreapp\\System.Memory.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Memory.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Http\\netcoreapp\\System.Net.Http.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Http.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.HttpListener\\netcoreapp\\System.Net.HttpListener.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.HttpListener.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Mail\\netcoreapp\\System.Net.Mail.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Mail.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.NameResolution\\netcoreapp\\System.Net.NameResolution.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.NameResolution.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.NetworkInformation\\netcoreapp\\System.Net.NetworkInformation.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.NetworkInformation.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Ping\\netcoreapp\\System.Net.Ping.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Ping.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Primitives\\netcoreapp\\System.Net.Primitives.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Primitives.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Requests\\netcoreapp\\System.Net.Requests.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Requests.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Security\\netcoreapp\\System.Net.Security.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Security.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Net.ServicePoint\\netcoreapp\\System.Net.ServicePoint.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.ServicePoint.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.Sockets\\netcoreapp\\System.Net.Sockets.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.Sockets.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Net.WebClient\\netcoreapp\\System.Net.WebClient.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.WebClient.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Net.WebHeaderCollection\\netcoreapp\\System.Net.WebHeaderCollection.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.WebHeaderCollection.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Net.WebProxy\\netcoreapp\\System.Net.WebProxy.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.WebProxy.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Net.WebSockets.Client\\netcoreapp\\System.Net.WebSockets.Client.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.WebSockets.Client.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Net.WebSockets\\netcoreapp\\System.Net.WebSockets.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Net.WebSockets.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System\\netcoreapp\\System.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Numerics.Vectors\\netcoreapp\\System.Numerics.Vectors.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Numerics.Vectors.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ObjectModel\\netcoreapp\\System.ObjectModel.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ObjectModel.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Private.DataContractSerialization\\netcoreapp\\System.Private.DataContractSerialization.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Private.DataContractSerialization.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Private.Uri\\netcoreapp\\System.Private.Uri.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Private.Uri.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Private.Xml.Linq\\netcoreapp\\System.Private.Xml.Linq.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Private.Xml.Linq.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Private.Xml\\netcoreapp\\System.Private.Xml.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Private.Xml.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Reflection.DispatchProxy\\netcoreapp\\System.Reflection.DispatchProxy.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.DispatchProxy.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection.Emit.ILGeneration\\netcoreapp\\System.Reflection.Emit.ILGeneration.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Emit.ILGeneration.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection.Emit.Lightweight\\netcoreapp\\System.Reflection.Emit.Lightweight.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Emit.Lightweight.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection.Emit\\netcoreapp\\System.Reflection.Emit.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Emit.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Reflection.Extensions\\netcoreapp\\System.Reflection.Extensions.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Extensions.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Reflection.Metadata\\netcoreapp\\System.Reflection.Metadata.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Metadata.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection\\netcoreapp\\System.Reflection.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection.Primitives\\netcoreapp\\System.Reflection.Primitives.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.Primitives.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Reflection.TypeExtensions\\netcoreapp\\System.Reflection.TypeExtensions.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Reflection.TypeExtensions.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Resources.Reader\\netcoreapp\\System.Resources.Reader.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Resources.Reader.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Resources.ResourceManager\\netcoreapp\\System.Resources.ResourceManager.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Resources.ResourceManager.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Resources.Writer\\netcoreapp\\System.Resources.Writer.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Resources.Writer.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.CompilerServices.VisualC\\netcoreapp\\System.Runtime.CompilerServices.VisualC.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.CompilerServices.VisualC.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.Extensions\\netcoreapp\\System.Runtime.Extensions.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Extensions.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Handles\\netcoreapp\\System.Runtime.Handles.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Handles.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.InteropServices\\netcoreapp\\System.Runtime.InteropServices.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.InteropServices.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.InteropServices.RuntimeInformation\\netcoreapp\\System.Runtime.InteropServices.RuntimeInformation.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.InteropServices.RuntimeInformation.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.InteropServices.WindowsRuntime\\netcoreapp\\System.Runtime.InteropServices.WindowsRuntime.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.InteropServices.WindowsRuntime.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.Intrinsics.X86\\netcoreapp\\System.Runtime.Intrinsics.X86.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Intrinsics.X86.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime.Loader\\netcoreapp\\System.Runtime.Loader.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Loader.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Runtime\\netcoreapp\\System.Runtime.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Numerics\\netcoreapp\\System.Runtime.Numerics.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Numerics.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Serialization.Formatters\\netcoreapp\\System.Runtime.Serialization.Formatters.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Serialization.Formatters.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Serialization.Json\\netcoreapp\\System.Runtime.Serialization.Json.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Serialization.Json.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Serialization.Primitives\\netcoreapp\\System.Runtime.Serialization.Primitives.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Serialization.Primitives.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Runtime.Serialization.Xml\\netcoreapp\\System.Runtime.Serialization.Xml.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Runtime.Serialization.Xml.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.AccessControl\\netcoreapp2.0\\System.Security.AccessControl.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.AccessControl.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Security.Claims\\netcoreapp\\System.Security.Claims.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Claims.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Cryptography.Algorithms\\netcoreapp\\System.Security.Cryptography.Algorithms.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.Algorithms.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Cryptography.Cng\\netcoreapp\\System.Security.Cryptography.Cng.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.Cng.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Cryptography.Csp\\netcoreapp\\System.Security.Cryptography.Csp.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.Csp.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Cryptography.Encoding\\netcoreapp\\System.Security.Cryptography.Encoding.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.Encoding.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Security.Cryptography.OpenSsl\\netstandard\\System.Security.Cryptography.OpenSsl.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.OpenSsl.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Security.Cryptography.Primitives\\netcoreapp\\System.Security.Cryptography.Primitives.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.Primitives.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Cryptography.X509Certificates\\netcoreapp\\System.Security.Cryptography.X509Certificates.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Cryptography.X509Certificates.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Security.Principal\\netcoreapp\\System.Security.Principal.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Principal.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Security.Principal.Windows\\netcoreapp2.0\\System.Security.Principal.Windows.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.Principal.Windows.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Security.SecureString\\netcoreapp\\System.Security.SecureString.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Security.SecureString.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Text.Encoding.Extensions\\netcoreapp\\System.Text.Encoding.Extensions.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Text.Encoding.Extensions.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Text.Encoding\\netcoreapp\\System.Text.Encoding.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Text.Encoding.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Text.RegularExpressions\\netcoreapp\\System.Text.RegularExpressions.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Text.RegularExpressions.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading\\netcoreapp\\System.Threading.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.Overlapped\\netcoreapp\\System.Threading.Overlapped.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Overlapped.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Threading.Tasks.Dataflow\\netstandard\\System.Threading.Tasks.Dataflow.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Tasks.Dataflow.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.Tasks.Extensions\\netcoreapp\\System.Threading.Tasks.Extensions.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Tasks.Extensions.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.Tasks\\netcoreapp\\System.Threading.Tasks.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Tasks.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Threading.Tasks.Parallel\\netcoreapp\\System.Threading.Tasks.Parallel.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Tasks.Parallel.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.Thread\\netcoreapp\\System.Threading.Thread.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Thread.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.ThreadPool\\netcoreapp\\System.Threading.ThreadPool.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.ThreadPool.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Threading.Timer\\netcoreapp\\System.Threading.Timer.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Threading.Timer.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Transactions.Local\\netcoreapp\\System.Transactions.Local.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Transactions.Local.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.ValueTuple\\netcoreapp\\System.ValueTuple.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.ValueTuple.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\AnyOS.AnyCPU.Debug\\System.Web.HttpUtility\\netcoreapp\\System.Web.HttpUtility.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Web.HttpUtility.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.ReaderWriter\\netcoreapp\\System.Xml.ReaderWriter.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.ReaderWriter.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.XDocument\\netcoreapp\\System.Xml.XDocument.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.XDocument.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.XmlDocument\\netcoreapp\\System.Xml.XmlDocument.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.XmlDocument.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.XmlSerializer\\netcoreapp\\System.Xml.XmlSerializer.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.XmlSerializer.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.XPath\\netcoreapp\\System.Xml.XPath.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.XPath.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    },
+    {
+      "LocalPath": "N:\\Code\\Git\\corefx\\bin\\Windows_NT.AnyCPU.Debug\\System.Xml.XPath.XDocument\\netcoreapp\\System.Xml.XPath.XDocument.pdb",
+      "PackagePath": "runtimes/win-x64/lib/netcoreapp2.1/System.Xml.XPath.XDocument.pdb",
+      "TargetFramework": ".NETCoreApp,Version=v2.1"
+    }
+  ]
+}

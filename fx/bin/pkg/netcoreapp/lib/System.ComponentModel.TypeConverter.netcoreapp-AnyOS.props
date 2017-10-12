@@ -1,0 +1,935 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.ComponentModel.TypeConverter\netcoreapp\System.ComponentModel.TypeConverter.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.ComponentModel.TypeConverter\netcoreapp\System.ComponentModel.TypeConverter.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.ComponentModel.TypeConverter\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.ComponentModel.TypeConverter/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.ComponentModel.TypeConverter\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.ComponentModel.TypeConverter/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Drawing\ColorConverterCommon.cs">
+      <Link>System\Drawing\ColorConverterCommon.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Drawing/ColorConverterCommon.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Drawing\ColorTable.cs">
+      <Link>System\Drawing\ColorTable.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Drawing/ColorTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\AddingNewEventArgs.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/AddingNewEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\AddingNewEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/AddingNewEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\AmbientValueAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/AmbientValueAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ArrayConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ArrayConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\AttributeCollection.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/AttributeCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\AttributeProviderAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/AttributeProviderAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\BaseComponentEditor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/BaseComponentEditor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\BaseNumberConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/BaseNumberConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\BindableAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/BindableAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\BindableSupport.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/BindableSupport.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\BindingDirection.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/BindingDirection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\BindingList.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/BindingList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\BooleanConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/BooleanConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ByteConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ByteConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\CancelEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/CancelEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\CharConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/CharConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\CollectionChangeAction.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/CollectionChangeAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\CollectionChangeEventArgs.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/CollectionChangeEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\CollectionChangeEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/CollectionChangeEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\CollectionConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/CollectionConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ComplexBindingPropertiesAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ComplexBindingPropertiesAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ComponentConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ComponentConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ComponentResourceManager.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ComponentResourceManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Container.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Container.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ContainerFilterService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ContainerFilterService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\CultureInfoConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/CultureInfoConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\CustomTypeDescriptor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/CustomTypeDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DataObjectAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DataObjectAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DataObjectFieldAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DataObjectFieldAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DataObjectMethodAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DataObjectMethodAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DataObjectMethodType.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DataObjectMethodType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DateTimeConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DateTimeConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DateTimeOffsetConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DateTimeOffsetConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DecimalConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DecimalConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DefaultBindingPropertyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DefaultBindingPropertyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DefaultEventAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DefaultEventAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DefaultPropertyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DefaultPropertyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DelegatingTypeDescriptionProvider.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DelegatingTypeDescriptionProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DesignerAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DesignerAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DesignTimeVisibleAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DesignTimeVisibleAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ActiveDocumentEvent.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ActiveDocumentEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ActiveDocumentEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ActiveDocumentEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\CheckoutException.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/CheckoutException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\CommandID.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/CommandID.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ComponentChangedEvent.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ComponentChangedEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ComponentChangedEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ComponentChangedEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ComponentChangingEvent.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ComponentChangingEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ComponentChangingEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ComponentChangingEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ComponentEvent.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ComponentEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ComponentEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ComponentEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ComponentRenameEvent.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ComponentRenameEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ComponentRenameEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ComponentRenameEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DesignerOptionService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DesignerOptionService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DesignerTransaction.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DesignerTransaction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DesignerTransactionCloseEvent.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DesignerTransactionCloseEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DesignerTransactionCloseEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DesignerTransactionCloseEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DesignerVerb.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DesignerVerb.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DesignerVerbCollection.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DesignerVerbCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DesigntimeLicenseContext.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DesigntimeLicenseContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DesigntimeLicenseContextSerializer.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DesigntimeLicenseContextSerializer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DocumentCollection.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DocumentCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DocumentEventArgs.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DocumentEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\DocumentEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/DocumentEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\HelpContextType.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/HelpContextType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\HelpKeywordAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/HelpKeywordAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\HelpKeywordType.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/HelpKeywordType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IComponentChangeService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IComponentChangeService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IComponentDiscoveryService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IComponentDiscoveryService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IComponentInitializer.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IComponentInitializer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IDesigner.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IDesigner.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IDesignerEventService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IDesignerEventService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IDesignerFilter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IDesignerFilter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IDesignerHost.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IDesignerHost.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IDesignerHostTransactionState.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IDesignerHostTransactionState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IDesignerOptionService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IDesignerOptionService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IDictionaryService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IDictionaryService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IEventPropertyService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IEventPropertyService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IExtenderListService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IExtenderListService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IExtenderProviderService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IExtenderProviderService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IHelpService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IHelpService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IInheritanceService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IInheritanceService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IMenuCommandService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IMenuCommandService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\InheritanceAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/InheritanceAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\InheritanceLevel.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/InheritanceLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IReferenceService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IReferenceService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IResourceService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IResourceService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IRootDesigner.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IRootDesigner.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ISelectionService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ISelectionService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\IServiceObjectContainer.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/IServiceObjectContainer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ITreeDesigner.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ITreeDesigner.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ITypeDescriptorFilterService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ITypeDescriptorFilterService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ITypeDiscoveryService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ITypeDiscoveryService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ITypeResolutionService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ITypeResolutionService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\MenuCommand.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/MenuCommand.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\PropertyTabAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/PropertyTabAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\PropertyTabScope.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/PropertyTabScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\SelectionTypes.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/SelectionTypes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\ComponentSerializationService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/ComponentSerializationService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\ContextStack.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/ContextStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\DefaultSerializationProviderAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/DefaultSerializationProviderAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\DesignerLoader.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/DesignerLoader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\DesignerSerializerAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/DesignerSerializerAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\IDesignerLoaderHost.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/IDesignerLoaderHost.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\IDesignerLoaderService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/IDesignerLoaderService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\IDesignerSerializationManager.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/IDesignerSerializationManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\IDesignerSerializationProvider.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/IDesignerSerializationProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\IDesignerSerializationService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/IDesignerSerializationService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\INameCreationService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/INameCreationService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\InstanceDescriptor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/InstanceDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\MemberRelationshipService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/MemberRelationshipService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\ResolveNameEventArgs.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/ResolveNameEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\ResolveNameEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/ResolveNameEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\RootDesignerSerializerAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/RootDesignerSerializerAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\Serialization\SerializationStore.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/Serialization/SerializationStore.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ServiceCreatorCallback.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ServiceCreatorCallback.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ServiceObjectContainer.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ServiceObjectContainer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\StandardCommands.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/StandardCommands.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\StandardToolWindows.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/StandardToolWindows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ToolboxItemAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ToolboxItemAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Design\ViewTechnology.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Design/ViewTechnology.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\DoubleConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/DoubleConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\EditorAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/EditorAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\EnumConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/EnumConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\EventDescriptor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/EventDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\EventDescriptorCollection.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/EventDescriptorCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ExpandableObjectConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ExpandableObjectConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ExtendedPropertyDescriptor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ExtendedPropertyDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ExtenderProvidedPropertyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ExtenderProvidedPropertyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\GuidConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/GuidConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\HandledEventArgs.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/HandledEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\HandledEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/HandledEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\IBindingList.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/IBindingList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\IBindingListView.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/IBindingListView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ICancelAddNew.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ICancelAddNew.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\IComNativeDescriptorHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/IComNativeDescriptorHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ICustomTypeDescriptor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ICustomTypeDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\IDataErrorInfo.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/IDataErrorInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\IExtenderProvider.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/IExtenderProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\IIntellisenseBuilder.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/IIntellisenseBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\IListSource.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/IListSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\INestedContainer.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/INestedContainer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\INestedSite.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/INestedSite.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\InstallerTypeAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/InstallerTypeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\InstanceCreationEditor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/InstanceCreationEditor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Int16Converter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Int16Converter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Int32Converter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Int32Converter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\Int64Converter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/Int64Converter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\InterlockedBitVector32.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/InterlockedBitVector32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\InvalidAsynchronousStateException.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/InvalidAsynchronousStateException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\IRaiseItemChangedEvents.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/IRaiseItemChangedEvents.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ISupportInitializeNotification.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ISupportInitializeNotification.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ITypeDescriptorContext.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ITypeDescriptorContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ITypedList.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ITypedList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\License.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/License.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\LicenseContext.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/LicenseContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\LicenseException.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/LicenseException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\LicenseManager.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/LicenseManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\LicenseProvider.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/LicenseProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\LicenseProviderAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/LicenseProviderAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\LicenseUsageMode.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/LicenseUsageMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\LicFileLicenseProvider.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/LicFileLicenseProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ListBindableAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ListBindableAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ListChangedEventArgs.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ListChangedEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ListChangedEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ListChangedEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ListChangedType.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ListChangedType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ListSortDescription.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ListSortDescription.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ListSortDescriptionCollection.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ListSortDescriptionCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ListSortDirection.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ListSortDirection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\LookupBindingPropertiesAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/LookupBindingPropertiesAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\MarshalByValueComponent.cs">
+      <SubType>Component</SubType>
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/MarshalByValueComponent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\MaskedTextProvider.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/MaskedTextProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\MaskedTextResultHint.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/MaskedTextResultHint.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\MemberDescriptor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/MemberDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\MultilineStringConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/MultilineStringConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\NestedContainer.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/NestedContainer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\NullableConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/NullableConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\PasswordPropertyTextAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/PasswordPropertyTextAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\PropertyDescriptor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/PropertyDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\PropertyDescriptorCollection.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/PropertyDescriptorCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ProvidePropertyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ProvidePropertyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\RecommendedAsConfigurableAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/RecommendedAsConfigurableAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ReferenceConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ReferenceConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ReflectEventDescriptor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ReflectEventDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ReflectPropertyDescriptor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ReflectPropertyDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ReflectTypeDescriptionProvider.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ReflectTypeDescriptionProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ReflectTypeDescriptionProvider.ReflectedTypeData.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ReflectTypeDescriptionProvider.ReflectedTypeData.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\RefreshEventArgs.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/RefreshEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\RefreshEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/RefreshEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\RunInstallerAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/RunInstallerAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\SByteConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/SByteConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\SettingsBindableAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/SettingsBindableAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\SingleConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/SingleConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\StringConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/StringConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\SyntaxCheck.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/SyntaxCheck.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\TimeSpanConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/TimeSpanConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ToolboxItemFilterAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ToolboxItemFilterAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\ToolboxItemFilterType.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/ToolboxItemFilterType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\TypeConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/TypeConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\TypeConverterAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/TypeConverterAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\TypeDescriptionProvider.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/TypeDescriptionProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\TypeDescriptionProviderAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/TypeDescriptionProviderAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\TypeDescriptionProviderService.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/TypeDescriptionProviderService.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\TypeDescriptor.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/TypeDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\TypeListConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/TypeListConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\UInt16Converter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/UInt16Converter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\UInt32Converter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/UInt32Converter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\UInt64Converter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/UInt64Converter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\UriTypeConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/UriTypeConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\WarningException.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/WarningException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\ComponentModel\WeakHashtable.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/ComponentModel/WeakHashtable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\Drawing\ColorConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/Drawing/ColorConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\Drawing\PointConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/Drawing/PointConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\Drawing\RectangleConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/Drawing/RectangleConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\Drawing\SizeConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/Drawing/SizeConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\Drawing\SizeFConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/Drawing/SizeFConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\InvariantComparer.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/InvariantComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\misc.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/misc.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\Security\Authentication\ExtendedProtection\ExtendedProtectionPolicyTypeConverter.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/Security/Authentication/ExtendedProtection/ExtendedProtectionPolicyTypeConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\Timers\ElapsedEventArgs.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/Timers/ElapsedEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\Timers\ElapsedEventHandler.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/Timers/ElapsedEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\Timers\Timer.cs">
+      <SubType>Component</SubType>
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/Timers/Timer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.TypeConverter\src\System\Timers\TimersDescriptionAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.TypeConverter/src/System/Timers/TimersDescriptionAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

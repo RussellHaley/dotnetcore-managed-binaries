@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Diagnostics.Process\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Diagnostics.Process/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Diagnostics.Process\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Diagnostics.Process/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.Process\netcoreapp\System.Diagnostics.Process.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Diagnostics.Process\netcoreapp\System.Diagnostics.Process.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.AdjustTokenPrivileges.cs">
+      <Link>Common\Interop\Windows\advapi32\Interop.AdjustTokenPrivileges.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.AdjustTokenPrivileges.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.CreateProcessWithLogon.cs">
+      <Link>Common\Interop\Windows\advapi32\Interop.CreateProcessWithLogon.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.CreateProcessWithLogon.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LookupPrivilegeValue.cs">
+      <Link>Common\Interop\Windows\advapi32\Interop.LookupPrivilegeValue.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LookupPrivilegeValue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.LUID.cs">
+      <Link>Common\Interop\Windows\advapi32\Interop.LUID.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.LUID.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.OpenProcessToken.cs">
+      <Link>Common\Interop\Windows\advapi32\Interop.OpenProcessToken.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.OpenProcessToken.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.PERF_INFO.cs">
+      <Link>Common\Interop\Windows\advapi32\Interop.PERF_INFO.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.PERF_INFO.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\advapi32\Interop.ProcessOptions.cs">
+      <Link>Common\Interop\Windows\advapi32\Interop.ProcessOptions.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/advapi32/Interop.ProcessOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.BOOL.cs">
+      <Link>Common\Interop\Windows\Interop.BOOL.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.BOOL.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Errors.cs">
+      <Link>Common\Interop\Windows\Interop.Errors.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Errors.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.UNICODE_STRING.cs">
+      <Link>Common\Interop\Interop.UNICODE_STRING.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.UNICODE_STRING.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CloseHandle.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.CloseHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CloseHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CreatePipe_SafeFileHandle.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.CreatePipe.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CreatePipe_SafeFileHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CreateProcess.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.CreateProcess.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CreateProcess.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.DuplicateHandle_SafeProcessHandle.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.DuplicateHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.DuplicateHandle_SafeProcessHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.Encoding.Constants.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.Encoding.Constants.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.Encoding.Constants.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.EnumProcesses.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.EnumProcesses.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.EnumProcesses.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.EnumProcessModules.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.EnumProcessModules.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.EnumProcessModules.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetComputerName.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetComputerName.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetComputerName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetConsoleCP.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetConsoleCP.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetConsoleCP.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetConsoleOutputCP.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetConsoleOutputCP.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetConsoleOutputCP.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCPInfoEx.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetCPInfoEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCPInfoEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentProcessId.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetCurrentProcessId.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentProcessId.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetCurrentProcess_SafeProcessHandle.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetCurrentProcess.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetCurrentProcess_SafeProcessHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetExitCodeProcess.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetExitCodeProcess.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetExitCodeProcess.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetModuleBaseName.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetModuleBaseName.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetModuleBaseName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetModuleFileNameEx.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetModuleFileNameEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetModuleFileNameEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetModuleInformation.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetModuleInformation.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetModuleInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetPriorityClass.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetPriorityClass.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetPriorityClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetProcessAffinityMask.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetProcessAffinityMask.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetProcessAffinityMask.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetProcessId.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetProcessId.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetProcessId.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetProcessPriorityBoost.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetProcessPriorityBoost.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetProcessPriorityBoost.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetProcessTimes.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetProcessTimes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetProcessTimes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetProcessWorkingSetSizeEx.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetProcessWorkingSetSizeEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetProcessWorkingSetSizeEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetStdHandle.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetStdHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetStdHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetThreadPriority.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetThreadPriority.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetThreadPriority.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetThreadPriorityBoost.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetThreadPriorityBoost.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetThreadPriorityBoost.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.GetThreadTimes.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.GetThreadTimes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.GetThreadTimes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.HandleOptions.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.ProcessOptions.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.HandleOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.HandleTypes.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.HandleTypes.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.HandleTypes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.IsWow64Process_SafeProcessHandle.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.IsWow64Process_SafeProcessHandle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.IsWow64Process_SafeProcessHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.MultiByteToWideChar.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.MultiByteToWideChar.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.MultiByteToWideChar.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.OpenProcess.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.OpenProcess.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.OpenProcess.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.OpenThread.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.OpenThread.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.OpenThread.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SECURITY_ATTRIBUTES.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SECURITY_ATTRIBUTES.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SECURITY_ATTRIBUTES.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetPriorityClass.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SetPriorityClass.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetPriorityClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetProcessAffinityMask.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SetProcessAffinityMask.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetProcessAffinityMask.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetProcessPriorityBoost.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SetProcessPriorityBoost.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetProcessPriorityBoost.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetProcessWorkingSetSizeEx.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SetProcessWorkingSetSizeEx.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetProcessWorkingSetSizeEx.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetThreadAffinityMask.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SetThreadAffinityMask.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetThreadAffinityMask.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetThreadIdealProcessor.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SetThreadIdealProcessor.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetThreadIdealProcessor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetThreadPriority.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SetThreadPriority.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetThreadPriority.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SetThreadPriorityBoost.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.SetThreadPriorityBoost.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SetThreadPriorityBoost.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.TerminateProcess.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.TerminateProcess.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.TerminateProcess.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.ThreadOptions.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.ThreadOptions.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.ThreadOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.WideCharToMultiByte.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.WideCharToMultiByte.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.WideCharToMultiByte.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\NtDll\Interop.NtQuerySystemInformation.cs">
+      <Link>Common\Interop\Windows\NtDll\Interop.NtQuerySystemInformation.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/NtDll/Interop.NtQuerySystemInformation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\shell32\Interop.ShellExecuteExW.cs">
+      <Link>Common\Interop\Windows\shell32\Interop.ShellExecuteExW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/shell32/Interop.ShellExecuteExW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.EnumWindows.cs">
+      <Link>Common\Interop\Windows\user32\Interop.EnumWindows.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.EnumWindows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.GetWindow.cs">
+      <Link>Common\Interop\Windows\user32\Interop.GetWindow.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.GetWindow.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.GetWindowLong.cs">
+      <Link>Common\Interop\Windows\user32\Interop.GetWindowLong.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.GetWindowLong.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.GetWindowTextLengthW.cs">
+      <Link>Common\Interop\Windows\user32\Interop.GetWindowTextLengthW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.GetWindowTextLengthW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.GetWindowTextW.cs">
+      <Link>Common\Interop\Windows\user32\Interop.GetWindowTextW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.GetWindowTextW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.GetWindowThreadProcessId.cs">
+      <Link>Common\Interop\Windows\user32\Interop.GetWindowThreadProcessId.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.GetWindowThreadProcessId.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.IsWindowVisible.cs">
+      <Link>Common\Interop\Windows\user32\Interop.IsWindowVisible.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.IsWindowVisible.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.PostMessage.cs">
+      <Link>Common\Interop\Windows\user32\Interop.PostMessage.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.PostMessage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.SendMessageTimeout.cs">
+      <Link>Common\Interop\Windows\user32\Interop.SendMessageTimeout.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.SendMessageTimeout.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\user32\Interop.WaitForInputIdle.cs">
+      <Link>Common\Interop\Windows\user32\Interop.WaitForInputIdle.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/user32/Interop.WaitForInputIdle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Text\ConsoleEncoding.cs">
+      <Link>Common\System\Text\ConsoleEncoding.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Text/ConsoleEncoding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Text\DBCSDecoder.cs">
+      <Link>Common\System\Text\DBCSDecoder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Text/DBCSDecoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Text\EncodingHelper.Windows.cs">
+      <Link>Common\System\Text\EncodingHelper.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Text/EncodingHelper.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Text\OSEncoder.cs">
+      <Link>Common\System\Text\OSEncoder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Text/OSEncoder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Text\OSEncoding.Windows.cs">
+      <Link>Common\System\Text\OSEncoding.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Text/OSEncoding.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\FxCopBaseline.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/FxCopBaseline.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\Microsoft\Win32\SafeHandles\SafeProcessHandle.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/Microsoft/Win32/SafeHandles/SafeProcessHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\Microsoft\Win32\SafeHandles\SafeProcessHandle.Windows.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/Microsoft/Win32/SafeHandles/SafeProcessHandle.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\Microsoft\Win32\SafeHandles\SafeThreadHandle.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/Microsoft/Win32/SafeHandles/SafeThreadHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\Microsoft\Win32\SafeHandles\SafeTokenHandle.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/Microsoft/Win32/SafeHandles/SafeTokenHandle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Collections\Specialized\DictionaryWrapper.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Collections/Specialized/DictionaryWrapper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Collections\Specialized\StringDictionaryWrapper.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Collections/Specialized/StringDictionaryWrapper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\AsyncStreamReader.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/AsyncStreamReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\DataReceivedEventArgs.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/DataReceivedEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\MonitoringDescriptionAttribute.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/MonitoringDescriptionAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\PerformanceCounterLib.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/PerformanceCounterLib.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\Process.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/Process.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\Process.Win32.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/Process.Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\Process.Windows.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/Process.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessInfo.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessManager.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessManager.Win32.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessManager.Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessManager.Windows.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessManager.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessModule.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessModule.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessModuleCollection.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessModuleCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessPriorityClass.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessPriorityClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessStartInfo.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessStartInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessStartInfo.Win32.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessStartInfo.Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessStartInfo.Windows.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessStartInfo.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessThread.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThread.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessThread.Windows.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThread.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessThreadCollection.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThreadCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessThreadTimes.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessThreadTimes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessWaitHandle.Windows.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessWaitHandle.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ProcessWindowStyle.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ProcessWindowStyle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ThreadInfo.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ThreadInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ThreadPriorityLevel.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ThreadPriorityLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ThreadState.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ThreadState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Diagnostics.Process\src\System\Diagnostics\ThreadWaitReason.cs">
+      <TargetPath>sources/src/System.Diagnostics.Process/src/System/Diagnostics/ThreadWaitReason.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

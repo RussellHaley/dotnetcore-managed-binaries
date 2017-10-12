@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Threading.Tasks.Dataflow\netstandard\System.Threading.Tasks.Dataflow.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Threading.Tasks.Dataflow\netstandard\System.Threading.Tasks.Dataflow.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Threading.Tasks.Dataflow\netstandard\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Threading.Tasks.Dataflow/netstandard/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Threading.Tasks.Dataflow\netstandard\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Threading.Tasks.Dataflow/netstandard/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Base\DataflowBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Base/DataflowBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Base\DataflowBlockOptions.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Base/DataflowBlockOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Base\DataflowLinkOptions.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Base/DataflowLinkOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Base\DataflowMessageHeader.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Base/DataflowMessageHeader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Base\DataflowMessageStatus.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Base/DataflowMessageStatus.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Base\IDataflowBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Base/IDataflowBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Base\IPropagatorBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Base/IPropagatorBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Base\IReceivableSourceBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Base/IReceivableSourceBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Base\ISourceBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Base/ISourceBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Base\ITargetBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Base/ITargetBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Blocks\ActionBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Blocks/ActionBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Blocks\BatchBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Blocks/BatchBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Blocks\BatchedJoinBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Blocks/BatchedJoinBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Blocks\BroadcastBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Blocks/BroadcastBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Blocks\BufferBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Blocks/BufferBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Blocks\JoinBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Blocks/JoinBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Blocks\TransformBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Blocks/TransformBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Blocks\TransformManyBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Blocks/TransformManyBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Blocks\WriteOnceBlock.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Blocks/WriteOnceBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\ActionOnDispose.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/ActionOnDispose.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\Common.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\DataflowEtwProvider.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/DataflowEtwProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\EnumerableDebugView.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/EnumerableDebugView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\IDebuggerDisplay.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/IDebuggerDisplay.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\ImmutableArray.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/ImmutableArray.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\Padding.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/Padding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\ProducerConsumerQueues.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/ProducerConsumerQueues.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\QueuedMap.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/QueuedMap.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\ReorderingBuffer.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/ReorderingBuffer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\SourceCore.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/SourceCore.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\SpscTargetCore.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/SpscTargetCore.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\TargetCore.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/TargetCore.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Threading.Tasks.Dataflow\src\Internal\TargetRegistry.cs">
+      <TargetPath>sources/src/System.Threading.Tasks.Dataflow/src/Internal/TargetRegistry.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

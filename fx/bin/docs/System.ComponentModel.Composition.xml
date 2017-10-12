@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><span>
+<doc>
+  <assembly>
+    <name>System.ComponentModel.Composition</name>
+  </assembly>
+  <members>
+    <member name="T:System.Lazy`2">
+      <summary>Provides a lazy indirect reference to an object and its associated metadata for use by the Managed Extensibility Framework.</summary>
+      <typeparam name="T">The type of the object referenced.</typeparam>
+      <typeparam name="TMetadata">The type of the metadata.</typeparam>
+    </member>
+    <member name="M:System.Lazy`2.#ctor(`1)">
+      <summary>Initializes a new instance of the <see cref="T:System.Lazy`2"></see> class with the specified metadata.</summary>
+      <param name="metadata">The metadata associated with the referenced object.</param>
+    </member>
+    <member name="M:System.Lazy`2.#ctor(System.Func{`0},`1)">
+      <summary>Initializes a new instance of the <see cref="T:System.Lazy`2"></see> class with the specified metadata that uses the specified function to get the referenced object.</summary>
+      <param name="valueFactory">A function that returns the referenced object.</param>
+      <param name="metadata">The metadata associated with the referenced object.</param>
+    </member>
+    <member name="M:System.Lazy`2.#ctor(`1,System.Boolean)">
+      <summary>Initializes a new instance of the <see cref="T:System.Lazy`2"></see> class with the specified metadata and thread safety value.</summary>
+      <param name="metadata">The metadata associated with the referenced object.</param>
+      <param name="isThreadSafe">Indicates whether the <see cref="T:System.Lazy`2"></see> object that is created will be thread-safe.</param>
+    </member>
+    <member name="M:System.Lazy`2.#ctor(`1,System.Threading.LazyThreadSafetyMode)">
+      <summary>Initializes a new instance of the <see cref="T:System.Lazy`2"></see> class with the specified metadata and thread synchronization mode.</summary>
+      <param name="metadata">The metadata associated with the referenced object.</param>
+      <param name="mode">The thread synchronization mode.</param>
+    </member>
+    <member name="M:System.Lazy`2.#ctor(System.Func{`0},`1,System.Boolean)">
+      <summary>Initializes a new instance of the <see cref="T:System.Lazy`2"></see> class with the specified metadata and thread safety value that uses the specified function to get the referenced object.</summary>
+      <param name="valueFactory">A function that returns the referenced object.</param>
+      <param name="metadata">The metadata associated with the referenced object.</param>
+      <param name="isThreadSafe">Indicates whether the <see cref="T:System.Lazy`2"></see> object that is created will be thread-safe.</param>
+    </member>
+    <member name="M:System.Lazy`2.#ctor(System.Func{`0},`1,System.Threading.LazyThreadSafetyMode)">
+      <summary>Initializes a new instance of the <see cref="T:System.Lazy`2"></see> class with the specified metadata and thread synchronization mode that uses the specified function to get the referenced object.</summary>
+      <param name="valueFactory">A function that returns the referenced object</param>
+      <param name="metadata">The metadata associated with the referenced object.</param>
+      <param name="mode">The thread synchronization mode</param>
+    </member>
+    <member name="P:System.Lazy`2.Metadata">
+      <summary>Gets the metadata associated with the referenced object.</summary>
+      <returns>The metadata associated with the referenced object.</returns>
+    </member>
+  </members>
+</doc></span>

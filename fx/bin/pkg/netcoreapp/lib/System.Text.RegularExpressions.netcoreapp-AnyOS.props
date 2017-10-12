@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Text.RegularExpressions\netcoreapp\System.Text.RegularExpressions.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Text.RegularExpressions\netcoreapp\System.Text.RegularExpressions.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Text.RegularExpressions\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Text.RegularExpressions/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Text.RegularExpressions\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Text.RegularExpressions/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\StringBuilderCache.cs">
+      <Link>Common\System\IO\StringBuilderCache.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/StringBuilderCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\NotImplemented.cs">
+      <Link>Common\System\NotImplemented.cs</Link>
+      <TargetPath>sources/src/Common/src/System/NotImplemented.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\CompiledRegexRunner.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/CompiledRegexRunner.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\CompiledRegexRunnerFactory.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/CompiledRegexRunnerFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\HashtableExtensions.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/HashtableExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\Regex.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/Regex.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexBoyerMoore.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexBoyerMoore.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexCapture.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexCapture.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexCaptureCollection.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexCaptureCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexCharClass.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexCharClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexCode.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexCode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexCollectionDebuggerProxy.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexCollectionDebuggerProxy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexCompilationInfo.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexCompilationInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexCompiler.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexCompiler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexFCD.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexFCD.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexGroup.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexGroup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexGroupCollection.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexGroupCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexInterpreter.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexInterpreter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexLWCGCompiler.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexLWCGCompiler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexMatch.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexMatch.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexMatchCollection.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexMatchCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexMatchTimeoutException.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexMatchTimeoutException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexNode.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexOptions.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexParser.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexReplacement.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexReplacement.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexRunner.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexRunner.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexRunnerFactory.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexRunnerFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexTree.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexTree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Text.RegularExpressions\src\System\Text\RegularExpressions\RegexWriter.cs">
+      <TargetPath>sources/src/System.Text.RegularExpressions/src/System/Text/RegularExpressions/RegexWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

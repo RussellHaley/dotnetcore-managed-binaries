@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <RefFile Include="N:\Code\Git\corefx\bin/docs/Microsoft.Win32.Primitives.xml">
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin\obj\ref\Microsoft.Win32.Primitives\4.1.1.0\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/ref/Microsoft.Win32.Primitives/4.1.1.0/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin\ref\Microsoft.Win32.Primitives\4.1.1.0\netcoreapp\Microsoft.Win32.Primitives.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\bin\ref\Microsoft.Win32.Primitives\4.1.1.0\netcoreapp\Microsoft.Win32.Primitives.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </RefFile>
+    <RefFile Include="N:\Code\Git\corefx\src\Microsoft.Win32.Primitives\ref\Microsoft.Win32.Primitives.cs">
+      <TargetPath>sources/src/Microsoft.Win32.Primitives/ref/Microsoft.Win32.Primitives.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </RefFile>
+  </ItemGroup>
+</Project>

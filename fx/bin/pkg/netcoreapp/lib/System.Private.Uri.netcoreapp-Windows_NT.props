@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Private.Uri\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Private.Uri/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Private.Uri\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Private.Uri/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Private.Uri\netcoreapp\System.Private.Uri.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Private.Uri\netcoreapp\System.Private.Uri.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\ArrayBuilder.cs">
+      <Link>Common\System\Collections\Generic\ArrayBuilder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/ArrayBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\LowLevelDictionary.cs">
+      <Link>Common\System\Collections\Generic\LowLevelDictionary.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/LowLevelDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\FxCopBaseline.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/FxCopBaseline.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\DomainNameHelper.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/DomainNameHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\GenericUriParser.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/GenericUriParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\IPv4AddressHelper.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/IPv4AddressHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\IPv6AddressHelper.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/IPv6AddressHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\IriHelper.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/IriHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UncNameHelper.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UncNameHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\Uri.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/Uri.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\Uri.Windows.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/Uri.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UriBuilder.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UriBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UriEnumTypes.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UriEnumTypes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UriExt.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UriExt.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UriFormatException.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UriFormatException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UriHelper.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UriHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UriHostNameType.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UriHostNameType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UriParserTemplates.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UriParserTemplates.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UriPartial.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UriPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UriScheme.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UriScheme.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Uri\src\System\UriSyntax.cs">
+      <TargetPath>sources/src/System.Private.Uri/src/System/UriSyntax.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

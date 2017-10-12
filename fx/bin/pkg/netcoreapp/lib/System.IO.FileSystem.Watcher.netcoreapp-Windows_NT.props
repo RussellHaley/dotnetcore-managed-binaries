@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.IO.FileSystem.Watcher\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.IO.FileSystem.Watcher/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.IO.FileSystem.Watcher\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.IO.FileSystem.Watcher/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.IO.FileSystem.Watcher\netcoreapp\System.IO.FileSystem.Watcher.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.IO.FileSystem.Watcher\netcoreapp\System.IO.FileSystem.Watcher.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.BOOL.cs">
+      <Link>Common\Interop\Windows\Interop.BOOL.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.BOOL.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\Interop.Libraries.cs">
+      <Link>Common\Interop\Windows\Interop.Libraries.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/Interop.Libraries.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.CreateFile.cs">
+      <Link>Common\Interop\Windows\Interop.CreateFile.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.CreateFile.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.FileOperations.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.FileOperations.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.FileOperations.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.ReadDirectoryChangesW.cs">
+      <Link>Common\Interop\Windows\kernel32\Interop.ReadDirectoryChangesW.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.ReadDirectoryChangesW.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.SECURITY_ATTRIBUTES.cs">
+      <Link>Common\Interop\Windows\Interop.SECURITY_ATTRIBUTES.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.SECURITY_ATTRIBUTES.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\Interop\Windows\kernel32\Interop.UnsafeCreateFile.cs">
+      <Link>Common\Interop\Windows\Interop.UnsafeCreateFile.cs</Link>
+      <TargetPath>sources/src/Common/src/Interop/Windows/kernel32/Interop.UnsafeCreateFile.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\PathInternal.CaseSensitivity.cs">
+      <Link>Common\System\IO\PathInternal.CaseSensitivity.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/PathInternal.CaseSensitivity.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\PathInternal.cs">
+      <Link>Common\System\IO\PathInternal.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/PathInternal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\PathInternal.Windows.cs">
+      <Link>Common\System\IO\PathInternal.Windows.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/PathInternal.Windows.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\HResults.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/HResults.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\ErrorEventArgs.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/ErrorEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\ErrorEventHandler.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/ErrorEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\FileSystemEventArgs.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/FileSystemEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\FileSystemEventHandler.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/FileSystemEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\FileSystemWatcher.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/FileSystemWatcher.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\FileSystemWatcher.Win32.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/FileSystemWatcher.Win32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\InternalBufferOverflowException.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/InternalBufferOverflowException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\NotifyFilters.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/NotifyFilters.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\PatternMatcher.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/PatternMatcher.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\RenamedEventArgs.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/RenamedEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\RenamedEventHandler.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/RenamedEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\WaitForChangedResult.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/WaitForChangedResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.IO.FileSystem.Watcher\src\System\IO\WatcherChangeTypes.cs">
+      <TargetPath>sources/src/System.IO.FileSystem.Watcher/src/System/IO/WatcherChangeTypes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Private.Xml.Linq\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Private.Xml.Linq/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Private.Xml.Linq\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Private.Xml.Linq/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Private.Xml.Linq\netcoreapp\System.Private.Xml.Linq.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Private.Xml.Linq\netcoreapp\System.Private.Xml.Linq.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\ArrayBuilder.cs">
+      <Link>System\Collections\Generic\ArrayBuilder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/ArrayBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\EnumerableHelpers.cs">
+      <Link>System\Collections\Generic\EnumerableHelpers.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/EnumerableHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\LargeArrayBuilder.cs">
+      <Link>System\Collections\Generic\LargeArrayBuilder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/LargeArrayBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\IO\StringBuilderCache.cs">
+      <Link>System\StringBuilderCache.cs</Link>
+      <TargetPath>sources/src/Common/src/System/IO/StringBuilderCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\BaseUriAnnotation.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/BaseUriAnnotation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\Extensions.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/Extensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\LineInfoAnnotation.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/LineInfoAnnotation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\LineInfoEndElementAnnotation.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/LineInfoEndElementAnnotation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XAttribute.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XCData.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XCData.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XComment.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XComment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XContainer.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XContainer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XDeclaration.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XDeclaration.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XDocument.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XDocument.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XDocumentType.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XDocumentType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XElement.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XElement.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XHashtable.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XHashtable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XHelper.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XLinq.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XLinq.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XName.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XName.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XNamespace.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XNamespace.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XNode.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XNodeBuilder.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XNodeBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XNodeDocumentOrderComparer.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XNodeDocumentOrderComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XNodeEqualityComparer.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XNodeEqualityComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XNodeReader.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XNodeReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XObject.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XObjectChangeAnnotation.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XObjectChangeAnnotation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XObjectChangeEventArgs.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XObjectChangeEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XProcessingInstruction.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XProcessingInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XStreamingElement.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XStreamingElement.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Linq\XText.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Linq/XText.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\Schema\XNodeValidator.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/Schema/XNodeValidator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\XPath\XAttributeExtensions.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/XPath/XAttributeExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\XPath\XNodeNavigator.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/XPath/XNodeNavigator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Private.Xml.Linq\src\System\Xml\XPath\XObjectExtensions.cs">
+      <TargetPath>sources/src/System.Private.Xml.Linq/src/System/Xml/XPath/XObjectExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

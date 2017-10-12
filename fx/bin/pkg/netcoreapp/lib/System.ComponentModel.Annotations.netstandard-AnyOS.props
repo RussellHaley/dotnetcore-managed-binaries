@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.ComponentModel.Annotations\netstandard\System.ComponentModel.Annotations.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.ComponentModel.Annotations\netstandard\System.ComponentModel.Annotations.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.ComponentModel.Annotations\netstandard\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.ComponentModel.Annotations/netstandard/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.ComponentModel.Annotations\netstandard\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.ComponentModel.Annotations/netstandard/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\NotImplemented.cs">
+      <Link>Common\System\NotImplemented.cs</Link>
+      <TargetPath>sources/src/Common/src/System/NotImplemented.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\AssociationAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/AssociationAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\CompareAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/CompareAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\ConcurrencyCheckAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ConcurrencyCheckAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\CreditCardAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/CreditCardAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\CustomValidationAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/CustomValidationAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\DataType.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/DataType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\DataTypeAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/DataTypeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\DisplayAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/DisplayAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\DisplayColumnAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/DisplayColumnAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\DisplayFormatAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/DisplayFormatAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\EditableAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/EditableAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\EmailAddressAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/EmailAddressAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\EnumDataTypeAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/EnumDataTypeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\FileExtensionsAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/FileExtensionsAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\FilterUIHintAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/FilterUIHintAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\IValidatableObject.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/IValidatableObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\KeyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/KeyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\LocalizableString.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/LocalizableString.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\MaxLengthAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/MaxLengthAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\MinLengthAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/MinLengthAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\PhoneAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/PhoneAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\RangeAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/RangeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\RegularExpressionAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/RegularExpressionAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\RequiredAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/RequiredAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\ScaffoldColumnAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ScaffoldColumnAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\Schema\ColumnAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/ColumnAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\Schema\ComplexTypeAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/ComplexTypeAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\Schema\DatabaseGeneratedAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/DatabaseGeneratedAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\Schema\DatabaseGeneratedOption.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/DatabaseGeneratedOption.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\Schema\ForeignKeyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/ForeignKeyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\Schema\InversePropertyAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/InversePropertyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\Schema\NotMappedAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/NotMappedAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\Schema\TableAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Schema/TableAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\StringLengthAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/StringLengthAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\TimestampAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/TimestampAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\UIHintAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/UIHintAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\UrlAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/UrlAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\ValidationAttribute.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ValidationAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\ValidationAttributeStore.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ValidationAttributeStore.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\ValidationContext.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ValidationContext.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\ValidationException.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ValidationException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\ValidationResult.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/ValidationResult.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.ComponentModel.Annotations\src\System\ComponentModel\DataAnnotations\Validator.cs">
+      <TargetPath>sources/src/System.ComponentModel.Annotations/src/System/ComponentModel/DataAnnotations/Validator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\BlockReflectionAttribute.cs">
+      <TargetPath>sources/Tools/BlockReflectionAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

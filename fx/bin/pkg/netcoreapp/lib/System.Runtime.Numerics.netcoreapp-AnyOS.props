@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Runtime.Numerics\netcoreapp\System.Runtime.Numerics.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Runtime.Numerics\netcoreapp\System.Runtime.Numerics.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Runtime.Numerics\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Runtime.Numerics/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Runtime.Numerics\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Runtime.Numerics/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Globalization\FormatProvider.Number.cs">
+      <Link>System\Globalization\FormatProvider.Number.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Globalization/FormatProvider.Number.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Globalization\FormatProvider.BigInteger.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Globalization/FormatProvider.BigInteger.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Globalization\FormatProvider.NumberBuffer.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Globalization/FormatProvider.NumberBuffer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\BigInteger.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/BigInteger.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\BigIntegerCalculator.AddSub.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/BigIntegerCalculator.AddSub.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\BigIntegerCalculator.BitsBuffer.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/BigIntegerCalculator.BitsBuffer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\BigIntegerCalculator.DivRem.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/BigIntegerCalculator.DivRem.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\BigIntegerCalculator.FastReducer.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/BigIntegerCalculator.FastReducer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\BigIntegerCalculator.GcdInv.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/BigIntegerCalculator.GcdInv.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\BigIntegerCalculator.PowMod.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/BigIntegerCalculator.PowMod.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\BigIntegerCalculator.SquMul.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/BigIntegerCalculator.SquMul.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\BigNumber.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/BigNumber.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\Complex.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/Complex.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Numerics\src\System\Numerics\NumericsHelpers.cs">
+      <TargetPath>sources/src/System.Runtime.Numerics/src/System/Numerics/NumericsHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

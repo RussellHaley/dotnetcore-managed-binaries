@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Linq\netcoreapp\System.Linq.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Linq\netcoreapp\System.Linq.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Linq\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Linq/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Linq\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Linq/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\ArrayBuilder.cs">
+      <Link>System\Collections\Generic\ArrayBuilder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/ArrayBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\EnumerableHelpers.cs">
+      <Link>System\Collections\Generic\EnumerableHelpers.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/EnumerableHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\EnumerableHelpers.Linq.cs">
+      <Link>System\Collections\Generic\EnumerableHelpers.Linq.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/EnumerableHelpers.Linq.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\LargeArrayBuilder.cs">
+      <Link>System\Collections\Generic\LargeArrayBuilder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/LargeArrayBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\SparseArrayBuilder.cs">
+      <Link>System\Collections\Generic\SparseArrayBuilder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/SparseArrayBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Aggregate.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Aggregate.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\AnyAll.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/AnyAll.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\AppendPrepend.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/AppendPrepend.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Average.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Average.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Buffer.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Buffer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Cast.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Cast.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Concat.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Concat.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Contains.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Contains.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Count.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Count.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\DebugView.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/DebugView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\DefaultIfEmpty.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/DefaultIfEmpty.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Distinct.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Distinct.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\ElementAt.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/ElementAt.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Enumerable.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Enumerable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Errors.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Errors.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Except.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Except.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\First.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/First.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Grouping.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Grouping.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\GroupJoin.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/GroupJoin.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Intersect.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Intersect.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Iterator.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Iterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Join.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Join.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Last.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Last.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Lookup.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Lookup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Max.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Max.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Min.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Min.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\OrderBy.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/OrderBy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\OrderedEnumerable.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/OrderedEnumerable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Partition.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Partition.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Range.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Range.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Repeat.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Repeat.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Reverse.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Reverse.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Select.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Select.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\SelectMany.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/SelectMany.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\SequenceEqual.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/SequenceEqual.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Set.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Set.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Single.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Single.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\SingleLinkedNode.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/SingleLinkedNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Skip.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Skip.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Sum.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Sum.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Take.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Take.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\ToCollection.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/ToCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Union.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Union.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Utilities.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Utilities.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Where.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Where.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq\src\System\Linq\Zip.cs">
+      <TargetPath>sources/src/System.Linq/src/System/Linq/Zip.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

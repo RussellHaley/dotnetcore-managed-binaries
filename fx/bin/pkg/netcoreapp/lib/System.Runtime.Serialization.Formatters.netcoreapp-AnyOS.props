@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Runtime.Serialization.Formatters\netcoreapp\System.Runtime.Serialization.Formatters.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Runtime.Serialization.Formatters\netcoreapp\System.Runtime.Serialization.Formatters.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Runtime.Serialization.Formatters\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Runtime.Serialization.Formatters/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Runtime.Serialization.Formatters\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Runtime.Serialization.Formatters/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System.Runtime.Serialization.Formatters.TypeForwards.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System.Runtime.Serialization.Formatters.TypeForwards.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\DeserializationEventHandler.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/DeserializationEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatter.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\FormatterConverter.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/FormatterConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\FormatterServices.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/FormatterServices.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryArray.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryArray.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryAssembly.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryAssembly.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryAssemblyInfo.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryAssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryCrossAppDomainAssembly.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryCrossAppDomainAssembly.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryCrossAppDomainMap.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryCrossAppDomainMap.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryCrossAppDomainString.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryCrossAppDomainString.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryEnums.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryEnums.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryFormatter.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryFormatter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryFormatterWriter.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryFormatterWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryObject.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryObjectInfo.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryObjectInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryObjectReader.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryObjectReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryObjectString.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryObjectString.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryObjectWithMap.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryObjectWithMap.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryObjectWithMapTyped.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryObjectWithMapTyped.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryObjectWriter.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryObjectWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryParser.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryTypeConverter.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryTypeConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\BinaryUtilClasses.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/BinaryUtilClasses.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\Converter.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/Converter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\IStreamable.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/IStreamable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\MemberPrimitiveTyped.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/MemberPrimitiveTyped.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\MemberPrimitiveUntyped.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/MemberPrimitiveUntyped.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\MemberReference.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/MemberReference.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\MessageEnd.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/MessageEnd.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\ObjectMap.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/ObjectMap.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\ObjectNull.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/ObjectNull.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\ObjectProgress.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/ObjectProgress.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\Binary\SerializationHeaderRecord.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/Binary/SerializationHeaderRecord.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\CommonEnums.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/CommonEnums.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\Formatters\IFieldInfo.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/Formatters/IFieldInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\IFormatter.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/IFormatter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\ISerializationSurrogate.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/ISerializationSurrogate.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\ISurrogateSelector.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/ISurrogateSelector.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\MemberHolder.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/MemberHolder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\ObjectIDGenerator.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/ObjectIDGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\ObjectManager.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/ObjectManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\SerializationBinder.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/SerializationBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\SerializationEventsCache.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/SerializationEventsCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\SerializationFieldInfo.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/SerializationFieldInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\SerializationObjectManager.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/SerializationObjectManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\SurrogateSelector.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/SurrogateSelector.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Runtime.Serialization.Formatters\src\System\Runtime\Serialization\ValueTypeFixupInfo.cs">
+      <TargetPath>sources/src/System.Runtime.Serialization.Formatters/src/System/Runtime/Serialization/ValueTypeFixupInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1037 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Data.Common\netcoreapp\System.Data.Common.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Data.Common\netcoreapp\System.Data.Common.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Data.Common\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Data.Common/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Data.Common\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Data.Common/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Data\Common\AdapterUtil.cs">
+      <Link>System\Data\Common\AdapterUtil.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Data/Common/AdapterUtil.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Data\Common\DbConnectionOptions.Common.cs">
+      <Link>System\Data\Common\DbConnectionOptions.Common.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Data/Common/DbConnectionOptions.Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Data\Common\DbConnectionPoolKey.cs">
+      <Link>System\Data\Common\DbConnectionPoolKey.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Data/Common/DbConnectionPoolKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Data\Common\MultipartIdentifier.cs">
+      <Link>System\Data\Common\MultipartIdentifier.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Data/Common/MultipartIdentifier.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Data\Common\NameValuePair.cs">
+      <Link>System\Data\Common\NameValuePair.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Data/Common/NameValuePair.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Data\Common\SQLResource.cs">
+      <Link>System\Data\SQLTypes\SQLResource.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Data/Common/SQLResource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System.Data.Common.TypeForwards.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System.Data.Common.TypeForwards.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\AcceptRejectRule.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/AcceptRejectRule.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\AggregateType.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/AggregateType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\BaseCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/BaseCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\CatalogLocation.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/CatalogLocation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ColumnTypeConverter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ColumnTypeConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\CommandBehavior.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/CommandBehavior.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\CommandType.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/CommandType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\AdapterSwitches.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/AdapterSwitches.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\AdapterUtil.Common.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/AdapterUtil.Common.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\BigIntegerStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/BigIntegerStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\BooleanStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/BooleanStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\ByteStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/ByteStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\CharStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/CharStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DataAdapter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DataAdapter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DataColumnMapping.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DataColumnMapping.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DataColumnMappingCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DataColumnMappingCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DataCommonEventSource.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DataCommonEventSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DataRecordInternal.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DataRecordInternal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DataStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DataStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DataTableMapping.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DataTableMapping.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DataTableMappingCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DataTableMappingCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DateTimeOffsetStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DateTimeOffsetStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DateTimeStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DateTimeStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbColumn.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbColumn.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbCommand.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbCommand.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DBCommandBuilder.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DBCommandBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbConnection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbConnection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbConnectionOptions.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbConnectionOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbConnectionStringBuilder.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbConnectionStringBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbConnectionStringBuilderDescriptor.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbConnectionStringBuilderDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbConnectionStringCommon.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbConnectionStringCommon.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbDataAdapter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbDataAdapter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbDataReader.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbDataReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbDataReaderExtensions.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbDataReaderExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbDataRecord.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbDataRecord.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbDataSourceEnumerator.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbDataSourceEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbEnumerator.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbException.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbMetaDataCollectionNames.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbMetaDataCollectionNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbMetaDataColumnNames.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbMetaDataColumnNames.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbParameter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbParameter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbParameterCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbParameterCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbProviderFactory.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbProviderFactory.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbProviderSpecificTypePropertyAttribute.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbProviderSpecificTypePropertyAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DBSchemaRow.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DBSchemaRow.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DBSchemaTable.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DBSchemaTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DbTransaction.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DbTransaction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DecimalStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DecimalStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\DoubleStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/DoubleStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\FieldNameLookup.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/FieldNameLookup.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\Groupbybehavior.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/Groupbybehavior.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\IDbColumnSchemaGenerator.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/IDbColumnSchemaGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\identifiercase.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/identifiercase.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\Int16Storage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/Int16Storage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\Int32Storage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/Int32Storage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\Int64Storage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/Int64Storage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\ObjectStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/ObjectStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\RowUpdatedEventArgs.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/RowUpdatedEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\RowUpdatingEventArgs.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/RowUpdatingEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SByteStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SByteStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SchemaTableColumn.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SchemaTableColumn.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SchemaTableOptionalColumn.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SchemaTableOptionalColumn.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SingleStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SingleStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLConvert.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLConvert.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLBinaryStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLBinaryStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQlBooleanStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQlBooleanStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLBytesStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLBytesStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLByteStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLByteStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLCharsStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLCharsStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLDateTimeStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLDateTimeStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLDecimalStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLDecimalStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLDoubleStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLDoubleStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLGuidStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLGuidStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLInt16Storage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLInt16Storage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLInt32Storage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLInt32Storage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLInt64Storage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLInt64Storage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLMoneyStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLMoneyStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLSingleStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLSingleStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SQLTypes\SQLStringStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SQLTypes/SQLStringStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SqlUDTStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SqlUDTStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\StringStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/StringStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\SupportedJoinOperators.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/SupportedJoinOperators.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\TimeSpanStorage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/TimeSpanStorage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\UInt16Storage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/UInt16Storage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\UInt32Storage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/UInt32Storage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Common\UInt64Storage.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Common/UInt64Storage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ConflictOptions.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ConflictOptions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ConnectionState.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ConnectionState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Constraint.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Constraint.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ConstraintCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ConstraintCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ConstraintConverter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ConstraintConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ConstraintEnumerator.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ConstraintEnumerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataColumn.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataColumn.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataColumnChangeEvent.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataColumnChangeEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataColumnChangeEventHandler.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataColumnChangeEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataColumnCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataColumnCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataColumnPropertyDescriptor.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataColumnPropertyDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataError.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataError.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataException.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataKey.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataKey.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRelation.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRelation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRelationCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRelationCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRelationPropertyDescriptor.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRelationPropertyDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRow.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRow.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRowAction.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRowAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRowChangeEvent.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRowChangeEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRowChangeEventHandler.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRowChangeEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRowCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRowCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRowCreatedEventHandler.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRowCreatedEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRowState.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRowState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRowVersion.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRowVersion.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataRowView.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataRowView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataSerializationFormat.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataSerializationFormat.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataSet.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataSet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataSetDateTime.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataSetDateTime.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataSysAttribute.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataSysAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataTable.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataTable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataTableClearEvent.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataTableClearEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataTableClearEventHandler.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataTableClearEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataTableCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataTableCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataTableNewRowEvent.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataTableNewRowEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataTableNewRowEventHandler.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataTableNewRowEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataTablePropertyDescriptor.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataTablePropertyDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataTableReader.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataTableReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataTableReaderListener.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataTableReaderListener.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataTableTypeConverter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataTableTypeConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataView.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataViewListener.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataViewListener.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataViewManager.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataViewManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataViewManagerListItemTypeDescriptor.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataViewManagerListItemTypeDescriptor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataViewRowState.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataViewRowState.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataViewSetting.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataViewSetting.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DataViewSettingCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DataViewSettingCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DBConcurrencyException.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DBConcurrencyException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DbType.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DbType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\DefaultValueTypeConverter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/DefaultValueTypeConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\FillErrorEventArgs.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/FillErrorEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\FillErrorEventHandler.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/FillErrorEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\AggregateNode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/AggregateNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\BinaryNode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/BinaryNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\ConstNode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/ConstNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\DataExpression.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/DataExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\ExpressionNode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/ExpressionNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\ExpressionParser.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/ExpressionParser.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\FilterException.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/FilterException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\FunctionNode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/FunctionNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\IFilter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/IFilter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\LookupNode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/LookupNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\NameNode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/NameNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\Operators.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/Operators.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\UnaryNode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/UnaryNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Filter\ZeroOpNode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Filter/ZeroOpNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ForeignKeyConstraint.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ForeignKeyConstraint.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IColumnMapping.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IColumnMapping.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IColumnMappingCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IColumnMappingCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IDataAdapter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IDataAdapter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IDataParameter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IDataParameter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IDataParameterCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IDataParameterCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IDataReader.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IDataReader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IDataRecord.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IDataRecord.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IDbCommand.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IDbCommand.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IDbConnection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IDbConnection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IDbDataAdapter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IDbDataAdapter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IDbDataParameter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IDbDataParameter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IDbTransaction.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IDbTransaction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\IsolationLevel.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/IsolationLevel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ITableMapping.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ITableMapping.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ITableMappingCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ITableMappingCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\KeyRestrictionBehavior.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/KeyRestrictionBehavior.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\LoadOption.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/LoadOption.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\MappingType.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/MappingType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\MergeFailedEvent.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/MergeFailedEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\MergeFailedEventHandler.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/MergeFailedEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Merger.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Merger.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\MissingMappingAction.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/MissingMappingAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\MissingSchemaAction.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/MissingSchemaAction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ParameterDirection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ParameterDirection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\PrimaryKeyTypeConverter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/PrimaryKeyTypeConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\PropertyCollection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/PropertyCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ProviderBase\DataReaderContainer.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ProviderBase/DataReaderContainer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\ProviderBase\SchemaMapping.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/ProviderBase/SchemaMapping.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Range.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Range.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\RbTree.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/RbTree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\RecordManager.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/RecordManager.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\RelatedView.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/RelatedView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\RelationshipConverter.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/RelationshipConverter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Rule.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Rule.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SchemaSerializationMode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SchemaSerializationMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SchemaType.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SchemaType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Select.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Select.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\Selection.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/Selection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SimpleType.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SimpleType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SqlDbType.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SqlDbType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\INullable.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/INullable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLBinary.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLBinary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLBoolean.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLBoolean.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLByte.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLByte.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLBytes.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLBytes.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLChars.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLChars.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SqlCharStream.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SqlCharStream.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLDateTime.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLDateTime.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLDecimal.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLDecimal.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLDouble.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLDouble.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLGuid.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLGuid.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLInt16.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLInt16.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLInt32.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLInt32.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLInt64.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLInt64.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLMoney.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLMoney.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLSingle.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLSingle.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLString.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLString.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SQLUtility.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SQLUtility.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\SQLTypes\SqlXml.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/SQLTypes/SqlXml.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\StateChangeEvent.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/StateChangeEvent.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\StateChangeEventHandler.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/StateChangeEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\StatementCompletedEventArgs.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/StatementCompletedEventArgs.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\StatementCompletedEventHandler.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/StatementCompletedEventHandler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\StatementType.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/StatementType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\StrongTypingException.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/StrongTypingException.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\UniqueConstraint.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/UniqueConstraint.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\UpdateRowSource.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/UpdateRowSource.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\updatestatus.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/updatestatus.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\XDRSchema.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/XDRSchema.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\XmlDataLoader.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/XmlDataLoader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\XMLDiffLoader.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/XMLDiffLoader.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\XmlKeywords.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/XmlKeywords.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\XmlReadMode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/XmlReadMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\xmlsaver.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/xmlsaver.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\XMLSchema.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/XMLSchema.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\XmlToDatasetMap.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/XmlToDatasetMap.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Data\XmlWriteMode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Data/XmlWriteMode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\HResults.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/HResults.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\BaseTreeIterator.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/BaseTreeIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\DataDocumentXPathNavigator.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/DataDocumentXPathNavigator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\DataPointer.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/DataPointer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\DataSetMappper.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/DataSetMappper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\IXmlDataVirtualNode.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/IXmlDataVirtualNode.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\RegionIterator.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/RegionIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\TreeIterator.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/TreeIterator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\XmlBoundElement.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/XmlBoundElement.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\XmlDataDocument.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/XmlDataDocument.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\XmlDataImplementation.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/XmlDataImplementation.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Data.Common\src\System\Xml\XPathNodePointer.cs">
+      <TargetPath>sources/src/System.Data.Common/src/System/Xml/XPathNodePointer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

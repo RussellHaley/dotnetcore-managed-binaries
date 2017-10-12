@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?><span>
+<doc>
+  <assembly>
+    <name>System.Composition.Runtime</name>
+  </assembly>
+  <members>
+    <member name="T:System.Composition.CompositionContext">
+      
+    </member>
+    <member name="M:System.Composition.CompositionContext.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.CompositionContext.GetExport(System.Composition.Hosting.Core.CompositionContract)">
+      <param name="contract"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.GetExport(System.Type)">
+      <param name="exportType"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.GetExport(System.Type,System.String)">
+      <param name="exportType"></param>
+      <param name="contractName"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.GetExport``1">
+      <typeparam name="TExport"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.GetExport``1(System.String)">
+      <param name="contractName"></param>
+      <typeparam name="TExport"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.GetExports(System.Type)">
+      <param name="exportType"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.GetExports(System.Type,System.String)">
+      <param name="exportType"></param>
+      <param name="contractName"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.GetExports``1">
+      <typeparam name="TExport"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.GetExports``1(System.String)">
+      <param name="contractName"></param>
+      <typeparam name="TExport"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.TryGetExport(System.Composition.Hosting.Core.CompositionContract,System.Object@)">
+      <param name="contract"></param>
+      <param name="export"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.TryGetExport(System.Type,System.Object@)">
+      <param name="exportType"></param>
+      <param name="export"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.TryGetExport(System.Type,System.String,System.Object@)">
+      <param name="exportType"></param>
+      <param name="contractName"></param>
+      <param name="export"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.TryGetExport``1(``0@)">
+      <param name="export"></param>
+      <typeparam name="TExport"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.CompositionContext.TryGetExport``1(System.String,``0@)">
+      <param name="contractName"></param>
+      <param name="export"></param>
+      <typeparam name="TExport"></typeparam>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Export`1">
+      <typeparam name="T"></typeparam>
+    </member>
+    <member name="M:System.Composition.Export`1.#ctor(`0,System.Action)">
+      <param name="value"></param>
+      <param name="disposeAction"></param>
+    </member>
+    <member name="M:System.Composition.Export`1.Dispose">
+      
+    </member>
+    <member name="P:System.Composition.Export`1.Value">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.ExportFactory`1">
+      <typeparam name="T"></typeparam>
+    </member>
+    <member name="M:System.Composition.ExportFactory`1.#ctor(System.Func{System.Tuple{`0,System.Action}})">
+      <param name="exportCreator"></param>
+    </member>
+    <member name="M:System.Composition.ExportFactory`1.CreateExport">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.ExportFactory`2">
+      <typeparam name="T"></typeparam>
+      <typeparam name="TMetadata"></typeparam>
+    </member>
+    <member name="M:System.Composition.ExportFactory`2.#ctor(System.Func{System.Tuple{`0,System.Action}},`1)">
+      <param name="exportCreator"></param>
+      <param name="metadata"></param>
+    </member>
+    <member name="P:System.Composition.ExportFactory`2.Metadata">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.Hosting.CompositionFailedException">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.CompositionFailedException.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.CompositionFailedException.#ctor(System.String)">
+      <param name="message"></param>
+    </member>
+    <member name="M:System.Composition.Hosting.CompositionFailedException.#ctor(System.String,System.Exception)">
+      <param name="message"></param>
+      <param name="innerException"></param>
+    </member>
+    <member name="T:System.Composition.Hosting.Core.CompositionContract">
+      
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionContract.#ctor(System.Type)">
+      <param name="contractType"></param>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionContract.#ctor(System.Type,System.String)">
+      <param name="contractType"></param>
+      <param name="contractName"></param>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionContract.#ctor(System.Type,System.String,System.Collections.Generic.IDictionary{System.String,System.Object})">
+      <param name="contractType"></param>
+      <param name="contractName"></param>
+      <param name="metadataConstraints"></param>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionContract.ChangeType(System.Type)">
+      <param name="newContractType"></param>
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.CompositionContract.ContractName">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.CompositionContract.ContractType">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionContract.Equals(System.Object)">
+      <param name="obj"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionContract.GetHashCode">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.Hosting.Core.CompositionContract.MetadataConstraints">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionContract.ToString">
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Hosting.Core.CompositionContract.TryUnwrapMetadataConstraint``1(System.String,``0@,System.Composition.Hosting.Core.CompositionContract@)">
+      <param name="constraintName"></param>
+      <param name="constraintValue"></param>
+      <param name="remainingContract"></param>
+      <typeparam name="T"></typeparam>
+      <returns></returns>
+    </member>
+  </members>
+</doc></span>

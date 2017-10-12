@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Collections.Concurrent\netcoreapp\System.Collections.Concurrent.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Collections.Concurrent\netcoreapp\System.Collections.Concurrent.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Collections.Concurrent\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Collections.Concurrent/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Collections.Concurrent\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Collections.Concurrent/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\BlockingCollection.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/BlockingCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\CDSCollectionETWBCLProvider.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/CDSCollectionETWBCLProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\ConcurrentBag.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/ConcurrentBag.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\ConcurrentDictionary.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/ConcurrentDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\ConcurrentQueue.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/ConcurrentQueue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\ConcurrentStack.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/ConcurrentStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\IProducerConsumerCollection.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/IProducerConsumerCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\OrderablePartitioner.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/OrderablePartitioner.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\Partitioner.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/Partitioner.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\PartitionerStatic.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/PartitionerStatic.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections.Concurrent\src\System\Collections\Concurrent\PlatformHelper.cs">
+      <TargetPath>sources/src/System.Collections.Concurrent/src/System/Collections/Concurrent/PlatformHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

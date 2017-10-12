@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?><span>
+<doc>
+  <assembly>
+    <name>System.Composition.AttributedModel</name>
+  </assembly>
+  <members>
+    <member name="T:System.Composition.Convention.AttributedModelProvider">
+      
+    </member>
+    <member name="M:System.Composition.Convention.AttributedModelProvider.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.Convention.AttributedModelProvider.GetCustomAttributes(System.Type,System.Reflection.MemberInfo)">
+      <param name="reflectedType"></param>
+      <param name="member"></param>
+      <returns></returns>
+    </member>
+    <member name="M:System.Composition.Convention.AttributedModelProvider.GetCustomAttributes(System.Type,System.Reflection.ParameterInfo)">
+      <param name="reflectedType"></param>
+      <param name="parameter"></param>
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.ExportAttribute">
+      
+    </member>
+    <member name="M:System.Composition.ExportAttribute.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.ExportAttribute.#ctor(System.String)">
+      <param name="contractName"></param>
+    </member>
+    <member name="M:System.Composition.ExportAttribute.#ctor(System.Type)">
+      <param name="contractType"></param>
+    </member>
+    <member name="M:System.Composition.ExportAttribute.#ctor(System.String,System.Type)">
+      <param name="contractName"></param>
+      <param name="contractType"></param>
+    </member>
+    <member name="P:System.Composition.ExportAttribute.ContractName">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.ExportAttribute.ContractType">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.ExportMetadataAttribute">
+      
+    </member>
+    <member name="M:System.Composition.ExportMetadataAttribute.#ctor(System.String,System.Object)">
+      <param name="name"></param>
+      <param name="value"></param>
+    </member>
+    <member name="P:System.Composition.ExportMetadataAttribute.Name">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.ExportMetadataAttribute.Value">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.ImportAttribute">
+      
+    </member>
+    <member name="M:System.Composition.ImportAttribute.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.ImportAttribute.#ctor(System.String)">
+      <param name="contractName"></param>
+    </member>
+    <member name="P:System.Composition.ImportAttribute.AllowDefault">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.ImportAttribute.ContractName">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.ImportingConstructorAttribute">
+      
+    </member>
+    <member name="M:System.Composition.ImportingConstructorAttribute.#ctor">
+      
+    </member>
+    <member name="T:System.Composition.ImportManyAttribute">
+      
+    </member>
+    <member name="M:System.Composition.ImportManyAttribute.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.ImportManyAttribute.#ctor(System.String)">
+      <param name="contractName"></param>
+    </member>
+    <member name="P:System.Composition.ImportManyAttribute.ContractName">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.ImportMetadataConstraintAttribute">
+      
+    </member>
+    <member name="M:System.Composition.ImportMetadataConstraintAttribute.#ctor(System.String,System.Object)">
+      <param name="name"></param>
+      <param name="value"></param>
+    </member>
+    <member name="P:System.Composition.ImportMetadataConstraintAttribute.Name">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.ImportMetadataConstraintAttribute.Value">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.MetadataAttributeAttribute">
+      
+    </member>
+    <member name="M:System.Composition.MetadataAttributeAttribute.#ctor">
+      
+    </member>
+    <member name="T:System.Composition.OnImportsSatisfiedAttribute">
+      
+    </member>
+    <member name="M:System.Composition.OnImportsSatisfiedAttribute.#ctor">
+      
+    </member>
+    <member name="T:System.Composition.PartMetadataAttribute">
+      
+    </member>
+    <member name="M:System.Composition.PartMetadataAttribute.#ctor(System.String,System.Object)">
+      <param name="name"></param>
+      <param name="value"></param>
+    </member>
+    <member name="P:System.Composition.PartMetadataAttribute.Name">
+      <returns></returns>
+    </member>
+    <member name="P:System.Composition.PartMetadataAttribute.Value">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.PartNotDiscoverableAttribute">
+      
+    </member>
+    <member name="M:System.Composition.PartNotDiscoverableAttribute.#ctor">
+      
+    </member>
+    <member name="T:System.Composition.SharedAttribute">
+      
+    </member>
+    <member name="M:System.Composition.SharedAttribute.#ctor">
+      
+    </member>
+    <member name="M:System.Composition.SharedAttribute.#ctor(System.String)">
+      <param name="sharingBoundaryName"></param>
+    </member>
+    <member name="P:System.Composition.SharedAttribute.SharingBoundary">
+      <returns></returns>
+    </member>
+    <member name="T:System.Composition.SharingBoundaryAttribute">
+      
+    </member>
+    <member name="M:System.Composition.SharingBoundaryAttribute.#ctor(System.String[])">
+      <param name="sharingBoundaryNames"></param>
+    </member>
+    <member name="P:System.Composition.SharingBoundaryAttribute.SharingBoundaryNames">
+      <returns></returns>
+    </member>
+  </members>
+</doc></span>

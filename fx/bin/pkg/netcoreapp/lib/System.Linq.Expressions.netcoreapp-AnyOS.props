@@ -1,0 +1,762 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Linq.Expressions\netcoreapp\System.Linq.Expressions.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\AnyOS.AnyCPU.Debug\System.Linq.Expressions\netcoreapp\System.Linq.Expressions.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Linq.Expressions\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Linq.Expressions/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\AnyOS.AnyCPU.Debug\System.Linq.Expressions\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/AnyOS.AnyCPU.Debug/System.Linq.Expressions/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\ArrayBuilder.cs">
+      <Link>Common\System\Collections\Generic\ArrayBuilder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/ArrayBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\EnumerableHelpers.cs">
+      <Link>Common\System\Collections\Generic\EnumerableHelpers.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/EnumerableHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\LargeArrayBuilder.cs">
+      <Link>Common\System\Collections\Generic\LargeArrayBuilder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/LargeArrayBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\ReferenceEqualityComparer.cs">
+      <Link>Common\System\Collections\Generic\ReferenceEqualityComparer.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/ReferenceEqualityComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\BinaryOperationBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/BinaryOperationBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\BindingRestrictions.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/BindingRestrictions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\CallInfo.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/CallInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\ConvertBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/ConvertBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\CreateInstanceBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/CreateInstanceBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\DeleteIndexBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/DeleteIndexBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\DeleteMemberBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/DeleteMemberBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\DynamicMetaObject.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/DynamicMetaObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\DynamicMetaObjectBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/DynamicMetaObjectBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\DynamicObject.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/DynamicObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\ExpandoClass.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/ExpandoClass.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\ExpandoObject.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/ExpandoObject.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\GetIndexBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/GetIndexBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\GetMemberBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/GetMemberBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\IDynamicMetaObjectProvider.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/IDynamicMetaObjectProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\IInvokeOnGetBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/IInvokeOnGetBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\InvokeBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/InvokeBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\InvokeMemberBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/InvokeMemberBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\SetIndexBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/SetIndexBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\SetMemberBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/SetMemberBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\UnaryOperationBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/UnaryOperationBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\UpdateDelegates.Generated.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UpdateDelegates.Generated.tt</DependentUpon>
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/UpdateDelegates.Generated.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\CacheDict.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/CacheDict.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\CachedReflectionInfo.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/CachedReflectionInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\CollectionExtensions.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/CollectionExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\ContractUtils.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/ContractUtils.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\DelegateHelpers.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/DelegateHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\EmptyReadOnlyCollection.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/EmptyReadOnlyCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\ExpressionUtils.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/ExpressionUtils.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\ExpressionVisitorUtils.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/ExpressionVisitorUtils.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\Helpers.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/Helpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\ListArgumentProvider.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/ListArgumentProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\ListParameterProvider.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/ListParameterProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\TypeExtensions.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/TypeExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Dynamic\Utils\TypeUtils.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Dynamic/Utils/TypeUtils.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\BinaryExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/BinaryExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\BlockExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/BlockExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\CatchBlock.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/CatchBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Common\ArrayBuilderExtensions.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Common/ArrayBuilderExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Common\CachedReflectionInfo.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Common/CachedReflectionInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Common\ConstantCheck.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Common/ConstantCheck.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\AnalyzedTree.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/AnalyzedTree.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\AssemblyGen.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/AssemblyGen.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\BoundConstants.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/BoundConstants.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\CompilerScope.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/CompilerScope.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\CompilerScope.Storage.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/CompilerScope.Storage.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\DelegateHelpers.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/DelegateHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\DelegateHelpers.Generated.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/DelegateHelpers.Generated.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\HoistedLocals.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/HoistedLocals.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\ILGen.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/ILGen.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\KeyedStack.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/KeyedStack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LabelInfo.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LabelInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LambdaCompiler.Address.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LambdaCompiler.Address.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LambdaCompiler.Binary.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LambdaCompiler.Binary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LambdaCompiler.ControlFlow.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LambdaCompiler.ControlFlow.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LambdaCompiler.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LambdaCompiler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LambdaCompiler.Expressions.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LambdaCompiler.Expressions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LambdaCompiler.Generated.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LambdaCompiler.Generated.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LambdaCompiler.Lambda.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LambdaCompiler.Lambda.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LambdaCompiler.Logical.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LambdaCompiler.Logical.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LambdaCompiler.Statements.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LambdaCompiler.Statements.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\LambdaCompiler.Unary.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/LambdaCompiler.Unary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\StackSpiller.Bindings.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/StackSpiller.Bindings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\StackSpiller.ChildRewriter.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/StackSpiller.ChildRewriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\StackSpiller.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/StackSpiller.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\StackSpiller.Generated.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/StackSpiller.Generated.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\StackSpiller.SpilledExpressionBlock.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/StackSpiller.SpilledExpressionBlock.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\StackSpiller.Temps.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/StackSpiller.Temps.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\TypeInfoExtensions.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/TypeInfoExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Compiler\VariableBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Compiler/VariableBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\ConditionalExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/ConditionalExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\ConstantExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/ConstantExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\DebugInfoExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/DebugInfoExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\DebugViewWriter.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/DebugViewWriter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\DefaultExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/DefaultExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\DynamicExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/DynamicExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\DynamicExpressionVisitor.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/DynamicExpressionVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\ElementInit.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/ElementInit.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Error.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Error.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Expression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Expression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Expression.DebuggerProxy.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Expression.DebuggerProxy.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\ExpressionStringBuilder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/ExpressionStringBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\ExpressionType.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/ExpressionType.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\ExpressionVisitor.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/ExpressionVisitor.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\GotoExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/GotoExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\IArgumentProvider.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/IArgumentProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\IDynamicExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/IDynamicExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\IndexExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/IndexExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\AddInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/AddInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\AndInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/AndInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\ArrayOperations.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/ArrayOperations.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\BranchLabel.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/BranchLabel.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\CallInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/CallInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\CallInstruction.Generated.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/CallInstruction.Generated.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\ControlFlowInstructions.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/ControlFlowInstructions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\DecrementInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/DecrementInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\DefaultValueInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/DefaultValueInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\DivInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/DivInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\EqualInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/EqualInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\ExclusiveOrInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/ExclusiveOrInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\FieldOperations.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/FieldOperations.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\GreaterThanInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/GreaterThanInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\GreaterThanOrEqualInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/GreaterThanOrEqualInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\IncrementInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/IncrementInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\Instruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/Instruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\InstructionList.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/InstructionList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\InterpretedFrame.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/InterpretedFrame.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\Interpreter.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/Interpreter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\LabelInfo.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/LabelInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\LeftShiftInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/LeftShiftInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\LessThanInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/LessThanInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\LessThanOrEqualInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/LessThanOrEqualInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\LightCompiler.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/LightCompiler.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\LightDelegateCreator.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/LightDelegateCreator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\LightLambda.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/LightLambda.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\LightLambda.Generated.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/LightLambda.Generated.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\LocalAccess.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/LocalAccess.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\LocalVariables.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/LocalVariables.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\ModuloInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/ModuloInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\MulInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/MulInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\NegateInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/NegateInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\NewInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/NewInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\NotEqualInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/NotEqualInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\NotInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/NotInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\NullCheckInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/NullCheckInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\NumericConvertInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/NumericConvertInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\OrInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/OrInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\RightShiftInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/RightShiftInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\RuntimeVariables.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/RuntimeVariables.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\StackOperations.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/StackOperations.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\SubInstruction.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/SubInstruction.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\TypeOperations.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/TypeOperations.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Interpreter\Utilities.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Interpreter/Utilities.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\InvocationExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/InvocationExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\IParameterProvider.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/IParameterProvider.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\LabelExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/LabelExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\LabelTarget.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/LabelTarget.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\LambdaExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/LambdaExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\ListInitExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/ListInitExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\LoopExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/LoopExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\MemberAssignment.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/MemberAssignment.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\MemberBinding.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/MemberBinding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\MemberExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/MemberExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\MemberInitExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/MemberInitExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\MemberListBinding.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/MemberListBinding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\MemberMemberBinding.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/MemberMemberBinding.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\MethodCallExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/MethodCallExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\NewArrayExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/NewArrayExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\NewExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/NewExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\ParameterExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/ParameterExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\RuntimeVariablesExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/RuntimeVariablesExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\StackGuard.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/StackGuard.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Strings.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Strings.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\SwitchCase.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/SwitchCase.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\SwitchExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/SwitchExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\SymbolDocumentInfo.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/SymbolDocumentInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\TryExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/TryExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\TypeBinaryExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/TypeBinaryExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\UnaryExpression.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/UnaryExpression.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\Expressions\Utils.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/Expressions/Utils.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Linq\IQueryable.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Linq/IQueryable.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\CallSite.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/CallSite.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\CallSiteBinder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/CallSiteBinder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\CallSiteHelpers.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/CallSiteHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\CallSiteOps.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/CallSiteOps.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\Closure.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/Closure.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\DebugInfoGenerator.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/DebugInfoGenerator.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\DynamicAttribute.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/DynamicAttribute.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\IRuntimeVariables.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/IRuntimeVariables.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\ReadOnlyCollectionBuilder.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/ReadOnlyCollectionBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\RuleCache.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/RuleCache.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\RuntimeOps.ExpressionQuoter.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/RuntimeOps.ExpressionQuoter.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\RuntimeOps.MergedRuntimeVariables.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/RuntimeOps.MergedRuntimeVariables.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\RuntimeOps.RuntimeVariableList.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/RuntimeOps.RuntimeVariableList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\RuntimeOps.RuntimeVariables.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/RuntimeOps.RuntimeVariables.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Linq.Expressions\src\System\Runtime\CompilerServices\TrueReadOnlyCollection.cs">
+      <TargetPath>sources/src/System.Linq.Expressions/src/System/Runtime/CompilerServices/TrueReadOnlyCollection.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>

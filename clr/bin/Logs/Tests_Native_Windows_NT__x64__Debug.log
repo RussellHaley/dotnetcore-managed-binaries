@@ -1,0 +1,1373 @@
+Build started 2017-10-10 11:25:45 PM.
+     1>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\install.vcxproj" on node 1 (default targets).
+     1>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\install.vcxproj" (1) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ZERO_CHECK.vcxproj" (2) on node 1 (default targets).
+     2>PrepareForBuild:
+         Creating directory "x64\Debug\ZERO_CHECK\".
+         Creating directory "x64\Debug\ZERO_CHECK\ZERO_CHECK.tlog\".
+       InitializeBuildStatus:
+         Creating "x64\Debug\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Exceptions/ForeignThread/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/NativeCallable/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/Bool/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/UIntPtr/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/BoolArray/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/ByValArray/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/EnumMarshalling/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/FuncPtrAsDelegateParam/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SimpleStruct/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StructMarshalling/PInvoke/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/BestFitMapping/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefInt/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefCharArray/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPSTR/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPTSTR/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/UTF8/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/FunctionPointer/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/IUnknown/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SizeConst/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/StructABI/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/pinning/object-pin/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Methodical/structs/systemvbringup/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Regression/VS-ia64-JIT/V1.2-M02/b108129/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/SIMD/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Loader/NativeLibs/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/Dev11/147911/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/V1/SEH/VJ/CMakeFiles/generate.stamp is up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\ZERO_CHECK\ZERO_CHECK.tlog\ZERO_CHECK.lastbuildstate".
+     2>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ZERO_CHECK.vcxproj" (default targets).
+     1>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\install.vcxproj" (1) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) on node 2 (default targets).
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\Bool\BoolNative.vcxproj" (4) on node 1 (default targets).
+     4>PrepareForBuild:
+         Creating directory "BoolNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\Bool\Debug\".
+         Creating directory "BoolNative.dir\Debug\BoolNative.tlog\".
+       InitializeBuildStatus:
+         Creating "BoolNative.dir\Debug\BoolNative.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/PrimitiveMarshalling/Bool/CMakeLists.txt
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\BestFitMapping\BestFitMappingNative.vcxproj" (5) on node 2 (default targets).
+     5>PrepareForBuild:
+         Creating directory "BestFitMappingNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\BestFitMapping\Debug\".
+         Creating directory "BestFitMappingNative.dir\Debug\BestFitM.14CC98ED.tlog\".
+     4>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/Bool/CMakeFiles/generate.stamp is up-to-date.
+     5>InitializeBuildStatus:
+         Creating "BestFitMappingNative.dir\Debug\BestFitM.14CC98ED.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/BestFitMapping/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/BestFitMapping/CMakeFiles/generate.stamp is up-to-date.
+     4>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D BoolNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"BoolNative.dir\Debug\\" /Fd"BoolNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\PrimitiveMarshalling\Bool\BoolNative.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\LPTSTR\LPTSTRTestNative.vcxproj" (8) on node 1 (default targets).
+     8>PrepareForBuild:
+         Creating directory "LPTSTRTestNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\LPTSTR\Debug\".
+         Creating directory "LPTSTRTestNative.dir\Debug\LPTSTRTestNative.tlog\".
+       InitializeBuildStatus:
+         Creating "LPTSTRTestNative.dir\Debug\LPTSTRTestNative.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     5>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D BestFitMappingNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"BestFitMappingNative.dir\Debug\\" /Fd"BestFitMappingNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\BestFitMapping\BestFitMappingNative.cpp
+     4>ClCompile:
+         BoolNative.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\ArrayMarshalling\ByValArray\MarshalArrayByValNative.vcxproj" (11) on node 2 (default targets).
+    11>PrepareForBuild:
+         Creating directory "MarshalArrayByValNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\ArrayMarshalling\ByValArray\Debug\".
+         Creating directory "MarshalArrayByValNative.dir\Debug\MarshalA.FBBC3113.tlog\".
+     5>ClCompile:
+         BestFitMappingNative.cpp
+    11>InitializeBuildStatus:
+         Creating "MarshalArrayByValNative.dir\Debug\MarshalA.FBBC3113.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     8>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/StringMarshalling/LPTSTR/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPTSTR/CMakeFiles/generate.stamp is up-to-date.
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\MarshalAPI\IUnknown\IUnknownNative.vcxproj" (9) on node 7 (default targets).
+     9>PrepareForBuild:
+         Creating directory "IUnknownNative.dir\Debug\".
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\FuncPtrAsDelegateParam\FuncPtrAsDelegateParamNative.vcxproj" (7) on node 5 (default targets).
+     7>PrepareForBuild:
+         Creating directory "FuncPtrAsDelegateParamNative.dir\Debug\".
+     9>PrepareForBuild:
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\MarshalAPI\IUnknown\Debug\".
+         Creating directory "IUnknownNative.dir\Debug\IUnknownNative.tlog\".
+     7>PrepareForBuild:
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\FuncPtrAsDelegateParam\Debug\".
+         Creating directory "FuncPtrAsDelegateParamNative.dir\Debug\FuncPtrA.F2E900E0.tlog\".
+    11>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/ArrayMarshalling/ByValArray/CMakeLists.txt
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj" (12) on node 3 (default targets).
+    12>PrepareForBuild:
+         Creating directory "ForeignThreadExceptionsNative.dir\Debug\".
+     7>InitializeBuildStatus:
+         Creating "FuncPtrAsDelegateParamNative.dir\Debug\FuncPtrA.F2E900E0.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     9>InitializeBuildStatus:
+         Creating "IUnknownNative.dir\Debug\IUnknownNative.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    12>PrepareForBuild:
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\Debug\".
+         Creating directory "ForeignThreadExceptionsNative.dir\Debug\ForeignT.2FB23C71.tlog\".
+       InitializeBuildStatus:
+         Creating "ForeignThreadExceptionsNative.dir\Debug\ForeignT.2FB23C71.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Loader\NativeLibs\FromNativePaths_lib.vcxproj" (6) on node 4 (default targets).
+     6>PrepareForBuild:
+         Creating directory "FromNativePaths_lib.dir\Debug\".
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\MarshalAPI\FunctionPointer\FunctionPointerNative.vcxproj" (10) on node 6 (default targets).
+    10>PrepareForBuild:
+         Creating directory "FunctionPointerNative.dir\Debug\".
+     6>PrepareForBuild:
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Loader\NativeLibs\Debug\".
+    10>PrepareForBuild:
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\MarshalAPI\FunctionPointer\Debug\".
+     6>PrepareForBuild:
+         Creating directory "FromNativePaths_lib.dir\Debug\FromNati.8664532C.tlog\".
+    10>PrepareForBuild:
+         Creating directory "FunctionPointerNative.dir\Debug\Function.C0E4B08B.tlog\".
+     8>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D LPTSTRTestNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"LPTSTRTestNative.dir\Debug\\" /Fd"LPTSTRTestNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\StringMarshalling\LPTSTR\LPTSTRTestNative.cpp
+     6>InitializeBuildStatus:
+         Creating "FromNativePaths_lib.dir\Debug\FromNati.8664532C.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    10>InitializeBuildStatus:
+         Creating "FunctionPointerNative.dir\Debug\Function.C0E4B08B.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     9>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/MarshalAPI/IUnknown/CMakeLists.txt
+     8>ClCompile:
+         LPTSTRTestNative.cpp
+    11>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/ByValArray/CMakeFiles/generate.stamp is up-to-date.
+     6>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Loader/NativeLibs/CMakeLists.txt
+     9>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/IUnknown/CMakeFiles/generate.stamp is up-to-date.
+     7>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/FuncPtrAsDelegateParam/CMakeLists.txt
+     6>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Loader/NativeLibs/CMakeFiles/generate.stamp is up-to-date.
+    10>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/MarshalAPI/FunctionPointer/CMakeLists.txt
+     7>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/FuncPtrAsDelegateParam/CMakeFiles/generate.stamp is up-to-date.
+    10>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/FunctionPointer/CMakeFiles/generate.stamp is up-to-date.
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\LPSTR\LPSTRTestNative.vcxproj" (13) on node 8 (default targets).
+    13>PrepareForBuild:
+         Creating directory "LPSTRTestNative.dir\Debug\".
+    12>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Exceptions/ForeignThread/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Exceptions/ForeignThread/CMakeFiles/generate.stamp is up-to-date.
+     6>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D FromNativePaths_lib_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"FromNativePaths_lib.dir\Debug\\" /Fd"FromNativePaths_lib.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Loader\NativeLibs\FromNativePaths_lib.cpp
+    13>PrepareForBuild:
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\LPSTR\Debug\".
+         Creating directory "LPSTRTestNative.dir\Debug\LPSTRTestNative.tlog\".
+       InitializeBuildStatus:
+         Creating "LPSTRTestNative.dir\Debug\LPSTRTestNative.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     7>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D FuncPtrAsDelegateParamNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"FuncPtrAsDelegateParamNative.dir\Debug\\" /Fd"FuncPtrAsDelegateParamNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\FuncPtrAsDelegateParam\FuncPtrAsDelegateParamNative.cpp
+    11>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D MarshalArrayByValNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"MarshalArrayByValNative.dir\Debug\\" /Fd"MarshalArrayByValNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\ArrayMarshalling\ByValArray\MarshalArrayByValNative.cpp
+    13>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/StringMarshalling/LPSTR/CMakeLists.txt
+     4>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\Bool\Debug\BoolNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/Bool/Debug/BoolNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/Bool/Debug/BoolNative.lib" /MACHINE:X64  /machine:x64 /DLL BoolNative.dir\Debug\BoolNative.obj
+    10>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D FunctionPointerNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"FunctionPointerNative.dir\Debug\\" /Fd"FunctionPointerNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\MarshalAPI\FunctionPointer\FunctionPointerNative.cpp
+    12>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D ForeignThreadExceptionsNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"ForeignThreadExceptionsNative.dir\Debug\\" /Fd"ForeignThreadExceptionsNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.cpp
+    10>ClCompile:
+         FunctionPointerNative.cpp
+    13>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPSTR/CMakeFiles/generate.stamp is up-to-date.
+    11>ClCompile:
+         MarshalArrayByValNative.cpp
+     6>ClCompile:
+         FromNativePaths_lib.cpp
+     5>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\BestFitMapping\Debug\BestFitMappingNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/BestFitMapping/Debug/BestFitMappingNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/BestFitMapping/Debug/BestFitMappingNative.lib" /MACHINE:X64  /machine:x64 /DLL BestFitMappingNative.dir\Debug\BestFitMappingNative.obj
+     7>ClCompile:
+         FuncPtrAsDelegateParamNative.cpp
+     4>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/Bool/Debug/BoolNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/Bool/Debug/BoolNative.exp
+    12>ClCompile:
+         ForeignThreadExceptionsNative.cpp
+     5>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/BestFitMapping/Debug/BestFitMappingNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/BestFitMapping/Debug/BestFitMappingNative.exp
+     6>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Loader\NativeLibs\Debug\FromNativePaths_lib.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /DEF:"N:/Code/Git/coreclr/tests/src/Loader/NativeLibs/FromNativePaths_lib.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Loader/NativeLibs/Debug/FromNativePaths_lib.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Loader/NativeLibs/Debug/FromNativePaths_lib.lib" /MACHINE:X64  /machine:x64 /DLL FromNativePaths_lib.dir\Debug\FromNativePaths_lib.obj
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\eh.h(31): warning C4987: nonstandard extension used: 'throw (...)' [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\iosfwd(356): warning C4365: 'return': conversion from 'int' to 'std::char_traits<wchar_t>::int_type', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\iosfwd(452): warning C4365: 'return': conversion from 'int' to 'std::char_traits<unsigned short>::int_type', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+       Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Loader/NativeLibs/Debug/FromNativePaths_lib.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Loader/NativeLibs/Debug/FromNativePaths_lib.exp
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\vcruntime_typeinfo.h(41): warning C4623: '__std_type_info_data': default constructor was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\vcruntime_typeinfo.h(41): warning C4626: '__std_type_info_data': assignment operator was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\vcruntime_typeinfo.h(41): warning C5027: '__std_type_info_data': move assignment operator was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\memory(507): warning C4365: 'argument': conversion from 'std::_Atomic_integral_t' to 'long', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\memory(550): warning C4365: 'return': conversion from 'std::_Atomic_integral_t' to 'long', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+     9>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D IUnknownNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"IUnknownNative.dir\Debug\\" /Fd"IUnknownNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\MarshalAPI\IUnknown\IUnknownNative.cpp
+    13>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D LPSTRTestNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"LPSTRTestNative.dir\Debug\\" /Fd"LPSTRTestNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\StringMarshalling\LPSTR\LPSTRTestNative.cpp
+     9>ClCompile:
+         IUnknownNative.cpp
+    13>ClCompile:
+         LPSTRTestNative.cpp
+     5>Link:
+         BestFitMappingNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\BestFitMapping\Debug\BestFitMappingNative.dll
+         BestFitMappingNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/BestFitMapping/Debug/BestFitMappingNative.pdb (Full PDB)
+     4>Link:
+         BoolNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\Bool\Debug\BoolNative.dll
+         BoolNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/Bool/Debug/BoolNative.pdb (Full PDB)
+     8>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\LPTSTR\Debug\LPTSTRTestNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPTSTR/Debug/LPTSTRTestNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPTSTR/Debug/LPTSTRTestNative.lib" /MACHINE:X64  /machine:x64 /DLL LPTSTRTestNative.dir\Debug\LPTSTRTestNative.obj
+    10>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\MarshalAPI\FunctionPointer\Debug\FunctionPointerNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/FunctionPointer/Debug/FunctionPointerNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/FunctionPointer/Debug/FunctionPointerNative.lib" /MACHINE:X64  /machine:x64 /DLL FunctionPointerNative.dir\Debug\FunctionPointerNative.obj
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/FunctionPointer/Debug/FunctionPointerNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/FunctionPointer/Debug/FunctionPointerNative.exp
+     8>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPTSTR/Debug/LPTSTRTestNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPTSTR/Debug/LPTSTRTestNative.exp
+     6>Link:
+         FromNativePaths_lib.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Loader\NativeLibs\Debug\FromNativePaths_lib.dll
+         FromNativePaths_lib.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Loader/NativeLibs/Debug/FromNativePaths_lib.pdb (Full PDB)
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\ArrayMarshalling\BoolArray\MarshalBoolArrayNative.vcxproj" (14) on node 3 (default targets).
+    14>PrepareForBuild:
+         Creating directory "MarshalBoolArrayNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\ArrayMarshalling\BoolArray\Debug\".
+         Creating directory "MarshalBoolArrayNative.dir\Debug\MarshalB.982D9A2F.tlog\".
+    11>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\ArrayMarshalling\ByValArray\Debug\MarshalArrayByValNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/ByValArray/Debug/MarshalArrayByValNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/ByValArray/Debug/MarshalArrayByValNative.lib" /MACHINE:X64  /machine:x64 /DLL MarshalArrayByValNative.dir\Debug\MarshalArrayByValNative.obj
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StructMarshalling\PInvoke\MarshalStructAsParam.vcxproj" (15) on node 4 (default targets).
+    15>PrepareForBuild:
+         Creating directory "MarshalStructAsParam.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StructMarshalling\PInvoke\Debug\".
+         Creating directory "MarshalStructAsParam.dir\Debug\MarshalS.BDE4928E.tlog\".
+     7>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\FuncPtrAsDelegateParam\Debug\FuncPtrAsDelegateParamNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/FuncPtrAsDelegateParam/Debug/FuncPtrAsDelegateParamNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/FuncPtrAsDelegateParam/Debug/FuncPtrAsDelegateParamNative.lib" /MACHINE:X64  /machine:x64 /DLL FuncPtrAsDelegateParamNative.dir\Debug\FuncPtrAsDelegateParamNative.obj
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/FuncPtrAsDelegateParam/Debug/FuncPtrAsDelegateParamNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/FuncPtrAsDelegateParam/Debug/FuncPtrAsDelegateParamNative.exp
+    15>InitializeBuildStatus:
+         Creating "MarshalStructAsParam.dir\Debug\MarshalS.BDE4928E.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    14>InitializeBuildStatus:
+         Creating "MarshalBoolArrayNative.dir\Debug\MarshalB.982D9A2F.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/ArrayMarshalling/BoolArray/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/BoolArray/CMakeFiles/generate.stamp is up-to-date.
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\thr\xthread(253): warning C4625: 'std::_LaunchPad<_Target>': copy constructor was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+                 with
+                 [
+                     _Target=std::unique_ptr<std::tuple<void (__cdecl *)(PFNACTION1),void (__cdecl *)(void)>,std::default_delete<std::tuple<void (__cdecl *)(PFNACTION1),void (__cdecl *)(void)>>>
+                 ]
+         n:\program files\vc\tools\msvc\14.10.25017\include\thr\xthread(259): note: see reference to class template instantiation 'std::_LaunchPad<_Target>' being compiled
+                 with
+    15>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/StructMarshalling/PInvoke/CMakeLists.txt
+    12>ClCompile:
+                 [
+                     _Target=std::unique_ptr<std::tuple<void (__cdecl *)(PFNACTION1),void (__cdecl *)(void)>,std::default_delete<std::tuple<void (__cdecl *)(PFNACTION1),void (__cdecl *)(void)>>>
+                 ]
+         n:\program files\vc\tools\msvc\14.10.25017\include\thread(49): note: see reference to function template instantiation 'void std::_Launch<std::unique_ptr<std::tuple<void (__cdecl *)(PFNACTION1),void (__cdecl *)(void)>,std::default_delete<_Ty>>>(_Thrd_t *,_Target &&)' being compiled
+                 with
+                 [
+                     _Ty=std::tuple<void (__cdecl *)(PFNACTION1),void (__cdecl *)(void)>,
+                     _Target=std::unique_ptr<std::tuple<void (__cdecl *)(PFNACTION1),void (__cdecl *)(void)>,std::default_delete<std::tuple<void (__cdecl *)(PFNACTION1),void (__cdecl *)(void)>>>
+                 ]
+         n:\code\git\coreclr\tests\src\exceptions\foreignthread\foreignthreadexceptionsnative.cpp(27): note: see reference to function template instantiation 'std::thread::thread<void(__cdecl &)(PFNACTION1),void(__cdecl *&)(void),void>(_Fn,void (__cdecl *&)(void))' being compiled
+                 with
+                 [
+                     _Fn=void (__cdecl &)(PFNACTION1)
+                 ]
+    12>n:\program files\vc\tools\msvc\14.10.25017\include\thr\xthread(253): warning C4626: 'std::_LaunchPad<_Target>': assignment operator was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+                 with
+                 [
+                     _Target=std::unique_ptr<std::tuple<void (__cdecl *)(PFNACTION1),void (__cdecl *)(void)>,std::default_delete<std::tuple<void (__cdecl *)(PFNACTION1),void (__cdecl *)(void)>>>
+                 ]
+    15>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StructMarshalling/PInvoke/CMakeFiles/generate.stamp is up-to-date.
+    11>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/ByValArray/Debug/MarshalArrayByValNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/ByValArray/Debug/MarshalArrayByValNative.exp
+    14>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D MarshalBoolArrayNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"MarshalBoolArrayNative.dir\Debug\\" /Fd"MarshalBoolArrayNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\ArrayMarshalling\BoolArray\MarshalBoolArrayNative.cpp
+         MarshalBoolArrayNative.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\NativeCallable\NativeCallableDll.vcxproj" (17) on node 8 (default targets).
+    17>PrepareForBuild:
+         Creating directory "NativeCallableDll.dir\Debug\".
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\EnumMarshalling\MarshalEnumNative.vcxproj" (16) on node 7 (default targets).
+    16>PrepareForBuild:
+         Creating directory "MarshalEnumNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\EnumMarshalling\Debug\".
+         Creating directory "MarshalEnumNative.dir\Debug\MarshalE.A9A9A8F2.tlog\".
+       InitializeBuildStatus:
+         Creating "MarshalEnumNative.dir\Debug\MarshalE.A9A9A8F2.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    17>PrepareForBuild:
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\NativeCallable\Debug\".
+         Creating directory "NativeCallableDll.dir\Debug\NativeCa.9ED2C2F0.tlog\".
+       InitializeBuildStatus:
+         Creating "NativeCallableDll.dir\Debug\NativeCa.9ED2C2F0.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/NativeCallable/CMakeLists.txt
+    16>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/PrimitiveMarshalling/EnumMarshalling/CMakeLists.txt
+    17>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/NativeCallable/CMakeFiles/generate.stamp is up-to-date.
+    15>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D MarshalStructAsParam_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"MarshalStructAsParam.dir\Debug\\" /Fd"MarshalStructAsParam.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\StructMarshalling\PInvoke\MarshalStructAsParamDLL.cpp
+    16>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/EnumMarshalling/CMakeFiles/generate.stamp is up-to-date.
+    15>ClCompile:
+         MarshalStructAsParamDLL.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\RefCharArray\RefCharArrayNative.vcxproj" (18) on node 3 (default targets).
+    18>PrepareForBuild:
+         Creating directory "RefCharArrayNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\RefCharArray\Debug\".
+         Creating directory "RefCharArrayNative.dir\Debug\RefCharA.AE28C81B.tlog\".
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\RefInt\RefIntNative.vcxproj" (19) on node 4 (default targets).
+    19>PrepareForBuild:
+         Creating directory "RefIntNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\RefInt\Debug\".
+         Creating directory "RefIntNative.dir\Debug\RefIntNative.tlog\".
+     8>Link:
+         LPTSTRTestNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\LPTSTR\Debug\LPTSTRTestNative.dll
+         LPTSTRTestNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPTSTR/Debug/LPTSTRTestNative.pdb (Full PDB)
+    19>InitializeBuildStatus:
+         Creating "RefIntNative.dir\Debug\RefIntNative.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    18>InitializeBuildStatus:
+         Creating "RefCharArrayNative.dir\Debug\RefCharA.AE28C81B.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     7>Link:
+         FuncPtrAsDelegateParamNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\FuncPtrAsDelegateParam\Debug\FuncPtrAsDelegateParamNative.dll
+         FuncPtrAsDelegateParamNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/FuncPtrAsDelegateParam/Debug/FuncPtrAsDelegateParamNative.pdb (Full PDB)
+    17>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D NativeCallableDll_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"NativeCallableDll.dir\Debug\\" /Fd"NativeCallableDll.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\NativeCallable\NativeCallableDll.cpp
+         NativeCallableDll.cpp
+     8>FinalizeBuildStatus:
+         Deleting file "LPTSTRTestNative.dir\Debug\LPTSTRTestNative.tlog\unsuccessfulbuild".
+         Touching "LPTSTRTestNative.dir\Debug\LPTSTRTestNative.tlog\LPTSTRTestNative.lastbuildstate".
+     8>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\LPTSTR\LPTSTRTestNative.vcxproj" (default targets).
+    18>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/RefCharArray/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefCharArray/CMakeFiles/generate.stamp is up-to-date.
+     4>FinalizeBuildStatus:
+         Deleting file "BoolNative.dir\Debug\BoolNative.tlog\unsuccessfulbuild".
+         Touching "BoolNative.dir\Debug\BoolNative.tlog\BoolNative.lastbuildstate".
+     4>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\Bool\BoolNative.vcxproj" (default targets).
+    10>Link:
+         FunctionPointerNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\MarshalAPI\FunctionPointer\Debug\FunctionPointerNative.dll
+    19>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/RefInt/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefInt/CMakeFiles/generate.stamp is up-to-date.
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\SimpleStruct\SimpleStructNative.vcxproj" (20) on node 5 (default targets).
+    20>PrepareForBuild:
+         Creating directory "SimpleStructNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\SimpleStruct\Debug\".
+         Creating directory "SimpleStructNative.dir\Debug\SimpleSt.2A28CA74.tlog\".
+    13>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\LPSTR\Debug\LPSTRTestNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPSTR/Debug/LPSTRTestNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPSTR/Debug/LPSTRTestNative.lib" /MACHINE:X64  /machine:x64 /DLL LPSTRTestNative.dir\Debug\LPSTRTestNative.obj
+    10>Link:
+         FunctionPointerNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/FunctionPointer/Debug/FunctionPointerNative.pdb (Full PDB)
+       FinalizeBuildStatus:
+         Deleting file "FunctionPointerNative.dir\Debug\Function.C0E4B08B.tlog\unsuccessfulbuild".
+         Touching "FunctionPointerNative.dir\Debug\Function.C0E4B08B.tlog\FunctionPointerNative.lastbuildstate".
+    10>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\MarshalAPI\FunctionPointer\FunctionPointerNative.vcxproj" (default targets).
+    13>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPSTR/Debug/LPSTRTestNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPSTR/Debug/LPSTRTestNative.exp
+    16>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D MarshalEnumNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"MarshalEnumNative.dir\Debug\\" /Fd"MarshalEnumNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\PrimitiveMarshalling\EnumMarshalling\MarshalEnumNative.cpp
+         MarshalEnumNative.cpp
+    11>Link:
+         MarshalArrayByValNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\ArrayMarshalling\ByValArray\Debug\MarshalArrayByValNative.dll
+    20>InitializeBuildStatus:
+         Creating "SimpleStructNative.dir\Debug\SimpleSt.2A28CA74.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    19>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D RefIntNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"RefIntNative.dir\Debug\\" /Fd"RefIntNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\RefInt\RefIntNative.cpp
+         RefIntNative.cpp
+    11>Link:
+         MarshalArrayByValNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/ByValArray/Debug/MarshalArrayByValNative.pdb (Full PDB)
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\SizeConst\SizeConstNative.vcxproj" (21) on node 6 (default targets).
+    21>PrepareForBuild:
+         Creating directory "SizeConstNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\SizeConst\Debug\".
+         Creating directory "SizeConstNative.dir\Debug\SizeConstNative.tlog\".
+       InitializeBuildStatus:
+         Creating "SizeConstNative.dir\Debug\SizeConstNative.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/SizeConst/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SizeConst/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D SizeConstNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"SizeConstNative.dir\Debug\\" /Fd"SizeConstNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\SizeConst\SizeConstNative.cpp
+     6>FinalizeBuildStatus:
+         Deleting file "FromNativePaths_lib.dir\Debug\FromNati.8664532C.tlog\unsuccessfulbuild".
+         Touching "FromNativePaths_lib.dir\Debug\FromNati.8664532C.tlog\FromNativePaths_lib.lastbuildstate".
+     6>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Loader\NativeLibs\FromNativePaths_lib.vcxproj" (default targets).
+    21>ClCompile:
+         SizeConstNative.cpp
+    15>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StructMarshalling\PInvoke\Debug\MarshalStructAsParam.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StructMarshalling/PInvoke/Debug/MarshalStructAsParam.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StructMarshalling/PInvoke/Debug/MarshalStructAsParam.lib" /MACHINE:X64  /machine:x64 /DLL MarshalStructAsParam.dir\Debug\MarshalStructAsParamDLL.obj
+    20>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/SimpleStruct/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SimpleStruct/CMakeFiles/generate.stamp is up-to-date.
+    15>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StructMarshalling/PInvoke/Debug/MarshalStructAsParam.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StructMarshalling/PInvoke/Debug/MarshalStructAsParam.exp
+     9>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\MarshalAPI\IUnknown\Debug\IUnknownNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/IUnknown/Debug/IUnknownNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/IUnknown/Debug/IUnknownNative.lib" /MACHINE:X64  /machine:x64 /DLL IUnknownNative.dir\Debug\IUnknownNative.obj
+    18>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D RefCharArrayNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"RefCharArrayNative.dir\Debug\\" /Fd"RefCharArrayNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\RefCharArray\RefCharArrayNative.cpp
+         RefCharArrayNative.cpp
+     9>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/IUnknown/Debug/IUnknownNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/IUnknown/Debug/IUnknownNative.exp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Directed\StructABI\StructABILib.vcxproj" (22) on node 6 (default targets).
+    22>PrepareForBuild:
+         Creating directory "StructABILib.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Directed\StructABI\Debug\".
+         Creating directory "StructABILib.dir\Debug\StructABILib.tlog\".
+       InitializeBuildStatus:
+         Creating "StructABILib.dir\Debug\StructABILib.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    11>FinalizeBuildStatus:
+         Deleting file "MarshalArrayByValNative.dir\Debug\MarshalA.FBBC3113.tlog\unsuccessfulbuild".
+         Touching "MarshalArrayByValNative.dir\Debug\MarshalA.FBBC3113.tlog\MarshalArrayByValNative.lastbuildstate".
+    22>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/Directed/StructABI/CMakeLists.txt
+    11>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\ArrayMarshalling\ByValArray\MarshalArrayByValNative.vcxproj" (default targets).
+    22>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/StructABI/CMakeFiles/generate.stamp is up-to-date.
+    13>Link:
+         LPSTRTestNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\LPSTR\Debug\LPSTRTestNative.dll
+         LPSTRTestNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/LPSTR/Debug/LPSTRTestNative.pdb (Full PDB)
+    20>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D SimpleStructNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"SimpleStructNative.dir\Debug\\" /Fd"SimpleStructNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\SimpleStruct\SimpleStructNative.cpp
+     5>FinalizeBuildStatus:
+         Deleting file "BestFitMappingNative.dir\Debug\BestFitM.14CC98ED.tlog\unsuccessfulbuild".
+         Touching "BestFitMappingNative.dir\Debug\BestFitM.14CC98ED.tlog\BestFitMappingNative.lastbuildstate".
+    20>ClCompile:
+         SimpleStructNative.cpp
+     5>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\BestFitMapping\BestFitMappingNative.vcxproj" (default targets).
+    13>FinalizeBuildStatus:
+         Deleting file "LPSTRTestNative.dir\Debug\LPSTRTestNative.tlog\unsuccessfulbuild".
+         Touching "LPSTRTestNative.dir\Debug\LPSTRTestNative.tlog\LPSTRTestNative.lastbuildstate".
+    13>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\LPSTR\LPSTRTestNative.vcxproj" (default targets).
+    12>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\Debug\ForeignThreadExceptionsNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Exceptions/ForeignThread/Debug/ForeignThreadExceptionsNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Exceptions/ForeignThread/Debug/ForeignThreadExceptionsNative.lib" /MACHINE:X64  /machine:x64 /DLL ForeignThreadExceptionsNative.dir\Debug\ForeignThreadExceptionsNative.obj
+    17>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\NativeCallable\Debug\NativeCallableDll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/NativeCallable/Debug/NativeCallableDll.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/NativeCallable/Debug/NativeCallableDll.lib" /MACHINE:X64  /machine:x64 /DLL NativeCallableDll.dir\Debug\NativeCallableDll.obj
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\UTF8\UTF8TestNative.vcxproj" (24) on node 1 (default targets).
+    24>PrepareForBuild:
+         Creating directory "UTF8TestNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\UTF8\Debug\".
+         Creating directory "UTF8TestNative.dir\Debug\UTF8TestNative.tlog\".
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\UIntPtr\UIntPtrNative.vcxproj" (23) on node 2 (default targets).
+    23>PrepareForBuild:
+         Creating directory "UIntPtrNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\UIntPtr\Debug\".
+         Creating directory "UIntPtrNative.dir\Debug\UIntPtrNative.tlog\".
+    24>InitializeBuildStatus:
+         Creating "UTF8TestNative.dir\Debug\UTF8TestNative.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     7>FinalizeBuildStatus:
+         Deleting file "FuncPtrAsDelegateParamNative.dir\Debug\FuncPtrA.F2E900E0.tlog\unsuccessfulbuild".
+         Touching "FuncPtrAsDelegateParamNative.dir\Debug\FuncPtrA.F2E900E0.tlog\FuncPtrAsDelegateParamNative.lastbuildstate".
+    23>InitializeBuildStatus:
+         Creating "UIntPtrNative.dir\Debug\UIntPtrNative.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     7>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\FuncPtrAsDelegateParam\FuncPtrAsDelegateParamNative.vcxproj" (default targets).
+    22>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D StructABILib_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"StructABILib.dir\Debug\\" /Fd"StructABILib.dir\Debug\vc141.pdb" /Gd /TC /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\Directed\StructABI\StructABI.c
+         StructABI.c
+    24>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/StringMarshalling/UTF8/CMakeLists.txt
+    17>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/NativeCallable/Debug/NativeCallableDll.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/NativeCallable/Debug/NativeCallableDll.exp
+    23>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/Interop/PrimitiveMarshalling/UIntPtr/CMakeLists.txt
+    24>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/UTF8/CMakeFiles/generate.stamp is up-to-date.
+    12>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Exceptions/ForeignThread/Debug/ForeignThreadExceptionsNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Exceptions/ForeignThread/Debug/ForeignThreadExceptionsNative.exp
+    23>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/UIntPtr/CMakeFiles/generate.stamp is up-to-date.
+    24>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D UTF8TestNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"UTF8TestNative.dir\Debug\\" /Fd"UTF8TestNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\StringMarshalling\UTF8\UTF8TestNative.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\SIMD\Vector3TestNative.vcxproj" (25) on node 6 (default targets).
+    25>PrepareForBuild:
+         Creating directory "Vector3TestNative.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\SIMD\Debug\".
+         Creating directory "Vector3TestNative.dir\Debug\Vector3T.9C852C88.tlog\".
+       InitializeBuildStatus:
+         Creating "Vector3TestNative.dir\Debug\Vector3T.9C852C88.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/SIMD/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/SIMD/CMakeFiles/generate.stamp is up-to-date.
+    24>ClCompile:
+         UTF8TestNative.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\baseservices\exceptions\regressions\Dev11\147911\fpcw.vcxproj" (27) on node 1 (default targets).
+    27>PrepareForBuild:
+         Creating directory "fpcw.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\baseservices\exceptions\regressions\Dev11\147911\Debug\".
+         Creating directory "fpcw.dir\Debug\fpcw.tlog\".
+       InitializeBuildStatus:
+         Creating "fpcw.dir\Debug\fpcw.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    25>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D Vector3TestNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Vector3TestNative.dir\Debug\\" /Fd"Vector3TestNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\SIMD\Vector3TestNative.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\baseservices\exceptions\regressions\V1\SEH\VJ\Unmanaged.vcxproj" (26) on node 5 (default targets).
+    26>PrepareForBuild:
+         Creating directory "Unmanaged.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\baseservices\exceptions\regressions\V1\SEH\VJ\Debug\".
+         Creating directory "Unmanaged.dir\Debug\Unmanaged.tlog\".
+    23>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Interop\common /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D UIntPtrNative_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"UIntPtrNative.dir\Debug\\" /Fd"UIntPtrNative.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\Interop\PrimitiveMarshalling\UIntPtr\UIntPtrNative.cpp
+         UIntPtrNative.cpp
+    27>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/baseservices/exceptions/regressions/Dev11/147911/CMakeLists.txt
+    26>InitializeBuildStatus:
+         Creating "Unmanaged.dir\Debug\Unmanaged.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    27>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/Dev11/147911/CMakeFiles/generate.stamp is up-to-date.
+    22>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Directed\StructABI\Debug\StructABILib.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/StructABI/Debug/StructABILib.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/StructABI/Debug/StructABILib.lib" /MACHINE:X64  /machine:x64 /DLL StructABILib.dir\Debug\StructABI.obj
+    25>ClCompile:
+         Vector3TestNative.cpp
+     9>Link:
+         IUnknownNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\MarshalAPI\IUnknown\Debug\IUnknownNative.dll
+         IUnknownNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/MarshalAPI/IUnknown/Debug/IUnknownNative.pdb (Full PDB)
+    26>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/baseservices/exceptions/regressions/V1/SEH/VJ/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/V1/SEH/VJ/CMakeFiles/generate.stamp is up-to-date.
+    22>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/StructABI/Debug/StructABILib.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/StructABI/Debug/StructABILib.exp
+    26>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D Unmanaged_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Unmanaged.dir\Debug\\" /Fd"Unmanaged.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\baseservices\exceptions\regressions\V1\SEH\VJ\Unmanaged.cpp
+         Unmanaged.cpp
+     9>FinalizeBuildStatus:
+         Deleting file "IUnknownNative.dir\Debug\IUnknownNative.tlog\unsuccessfulbuild".
+         Touching "IUnknownNative.dir\Debug\IUnknownNative.tlog\IUnknownNative.lastbuildstate".
+     9>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\MarshalAPI\IUnknown\IUnknownNative.vcxproj" (default targets).
+    15>Link:
+         MarshalStructAsParam.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StructMarshalling\PInvoke\Debug\MarshalStructAsParam.dll
+         MarshalStructAsParam.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StructMarshalling/PInvoke/Debug/MarshalStructAsParam.pdb (Full PDB)
+    27>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D fpcw_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"fpcw.dir\Debug\\" /Fd"fpcw.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\baseservices\exceptions\regressions\Dev11\147911\fpcw.cpp
+    15>FinalizeBuildStatus:
+         Deleting file "MarshalStructAsParam.dir\Debug\MarshalS.BDE4928E.tlog\unsuccessfulbuild".
+         Touching "MarshalStructAsParam.dir\Debug\MarshalS.BDE4928E.tlog\MarshalStructAsParam.lastbuildstate".
+    15>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StructMarshalling\PInvoke\MarshalStructAsParam.vcxproj" (default targets).
+    20>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\SimpleStruct\Debug\SimpleStructNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SimpleStruct/Debug/SimpleStructNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SimpleStruct/Debug/SimpleStructNative.lib" /MACHINE:X64  /machine:x64 /DLL SimpleStructNative.dir\Debug\SimpleStructNative.obj
+    27>ClCompile:
+         fpcw.cpp
+    16>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\EnumMarshalling\Debug\MarshalEnumNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/EnumMarshalling/Debug/MarshalEnumNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/EnumMarshalling/Debug/MarshalEnumNative.lib" /MACHINE:X64  /machine:x64 /DLL MarshalEnumNative.dir\Debug\MarshalEnumNative.obj
+    19>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\RefInt\Debug\RefIntNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefInt/Debug/RefIntNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefInt/Debug/RefIntNative.lib" /MACHINE:X64  /machine:x64 /DLL RefIntNative.dir\Debug\RefIntNative.obj
+    20>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SimpleStruct/Debug/SimpleStructNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SimpleStruct/Debug/SimpleStructNative.exp
+    17>Link:
+         NativeCallableDll.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\NativeCallable\Debug\NativeCallableDll.dll
+    16>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/EnumMarshalling/Debug/MarshalEnumNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/EnumMarshalling/Debug/MarshalEnumNative.exp
+    19>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefInt/Debug/RefIntNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefInt/Debug/RefIntNative.exp
+    17>Link:
+         NativeCallableDll.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/NativeCallable/Debug/NativeCallableDll.pdb (Full PDB)
+    12>Link:
+         ForeignThreadExceptionsNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\Debug\ForeignThreadExceptionsNative.dll
+    17>FinalizeBuildStatus:
+         Deleting file "NativeCallableDll.dir\Debug\NativeCa.9ED2C2F0.tlog\unsuccessfulbuild".
+         Touching "NativeCallableDll.dir\Debug\NativeCa.9ED2C2F0.tlog\NativeCallableDll.lastbuildstate".
+    17>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\NativeCallable\NativeCallableDll.vcxproj" (default targets).
+    22>Link:
+         StructABILib.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Directed\StructABI\Debug\StructABILib.dll
+         StructABILib.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/StructABI/Debug/StructABILib.pdb (Full PDB)
+       FinalizeBuildStatus:
+         Deleting file "StructABILib.dir\Debug\StructABILib.tlog\unsuccessfulbuild".
+         Touching "StructABILib.dir\Debug\StructABILib.tlog\StructABILib.lastbuildstate".
+    22>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Directed\StructABI\StructABILib.vcxproj" (default targets).
+    12>Link:
+         ForeignThreadExceptionsNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Exceptions/ForeignThread/Debug/ForeignThreadExceptionsNative.pdb (Full PDB)
+    25>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\SIMD\Debug\Vector3TestNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/SIMD/Debug/Vector3TestNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/SIMD/Debug/Vector3TestNative.lib" /MACHINE:X64  /machine:x64 /DLL Vector3TestNative.dir\Debug\Vector3TestNative.obj
+    24>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\UTF8\Debug\UTF8TestNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/UTF8/Debug/UTF8TestNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/UTF8/Debug/UTF8TestNative.lib" /MACHINE:X64  /machine:x64 /DLL UTF8TestNative.dir\Debug\UTF8TestNative.obj
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\hfa_nested_f32_native_cpp.vcxproj" (28) on node 8 (default targets).
+    28>PrepareForBuild:
+         Creating directory "hfa_nested_f32_native_cpp.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\Debug\".
+         Creating directory "hfa_nested_f32_native_cpp.dir\Debug\hfa_nest.0D325213.tlog\".
+       InitializeBuildStatus:
+         Creating "hfa_nested_f32_native_cpp.dir\Debug\hfa_nest.0D325213.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    23>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\UIntPtr\Debug\UIntPtrNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/UIntPtr/Debug/UIntPtrNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/UIntPtr/Debug/UIntPtrNative.lib" /MACHINE:X64  /machine:x64 /DLL UIntPtrNative.dir\Debug\UIntPtrNative.obj
+    28>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/hfa/main/dll/CMakeLists.txt
+    25>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/SIMD/Debug/Vector3TestNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/SIMD/Debug/Vector3TestNative.exp
+    12>FinalizeBuildStatus:
+         Deleting file "ForeignThreadExceptionsNative.dir\Debug\ForeignT.2FB23C71.tlog\unsuccessfulbuild".
+         Touching "ForeignThreadExceptionsNative.dir\Debug\ForeignT.2FB23C71.tlog\ForeignThreadExceptionsNative.lastbuildstate".
+    12>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj" (default targets).
+    24>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/UTF8/Debug/UTF8TestNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/UTF8/Debug/UTF8TestNative.exp
+    23>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/UIntPtr/Debug/UIntPtrNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/UIntPtr/Debug/UIntPtrNative.exp
+    28>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/CMakeFiles/generate.stamp is up-to-date.
+    18>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\RefCharArray\Debug\RefCharArrayNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefCharArray/Debug/RefCharArrayNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefCharArray/Debug/RefCharArrayNative.lib" /MACHINE:X64  /machine:x64 /DLL RefCharArrayNative.dir\Debug\RefCharArrayNative.obj
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefCharArray/Debug/RefCharArrayNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefCharArray/Debug/RefCharArrayNative.exp
+    28>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D NESTED_HFA /D FLOAT32 /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D hfa_nested_f32_native_cpp_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"hfa_nested_f32_native_cpp.dir\Debug\\" /Fd"hfa_nested_f32_native_cpp.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue  -c N:\Code\Git\coreclr\tests\src\JIT\jit64\hfa\main\dll\hfa_native.cpp
+         hfa_native.cpp
+    20>Link:
+         SimpleStructNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\SimpleStruct\Debug\SimpleStructNative.dll
+         SimpleStructNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SimpleStruct/Debug/SimpleStructNative.pdb (Full PDB)
+    16>Link:
+         MarshalEnumNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\EnumMarshalling\Debug\MarshalEnumNative.dll
+         MarshalEnumNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/EnumMarshalling/Debug/MarshalEnumNative.pdb (Full PDB)
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\hfa_nested_f64_native_cpp.vcxproj" (29) on node 8 (default targets).
+    29>PrepareForBuild:
+         Creating directory "hfa_nested_f64_native_cpp.dir\Debug\".
+         Creating directory "hfa_nested_f64_native_cpp.dir\Debug\hfa_nest.350EE073.tlog\".
+    19>Link:
+         RefIntNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\RefInt\Debug\RefIntNative.dll
+    29>InitializeBuildStatus:
+         Creating "hfa_nested_f64_native_cpp.dir\Debug\hfa_nest.350EE073.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    19>Link:
+         RefIntNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefInt/Debug/RefIntNative.pdb (Full PDB)
+    20>FinalizeBuildStatus:
+         Deleting file "SimpleStructNative.dir\Debug\SimpleSt.2A28CA74.tlog\unsuccessfulbuild".
+         Touching "SimpleStructNative.dir\Debug\SimpleSt.2A28CA74.tlog\SimpleStructNative.lastbuildstate".
+    20>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\SimpleStruct\SimpleStructNative.vcxproj" (default targets).
+    29>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/hfa/main/dll/CMakeLists.txt
+    16>FinalizeBuildStatus:
+         Deleting file "MarshalEnumNative.dir\Debug\MarshalE.A9A9A8F2.tlog\unsuccessfulbuild".
+    19>FinalizeBuildStatus:
+         Deleting file "RefIntNative.dir\Debug\RefIntNative.tlog\unsuccessfulbuild".
+         Touching "RefIntNative.dir\Debug\RefIntNative.tlog\RefIntNative.lastbuildstate".
+    16>FinalizeBuildStatus:
+         Touching "MarshalEnumNative.dir\Debug\MarshalE.A9A9A8F2.tlog\MarshalEnumNative.lastbuildstate".
+    19>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\RefInt\RefIntNative.vcxproj" (default targets).
+    16>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\EnumMarshalling\MarshalEnumNative.vcxproj" (default targets).
+    26>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\baseservices\exceptions\regressions\V1\SEH\VJ\Debug\Unmanaged.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/V1/SEH/VJ/Debug/Unmanaged.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/V1/SEH/VJ/Debug/Unmanaged.lib" /MACHINE:X64  /machine:x64 /DLL Unmanaged.dir\Debug\Unmanaged.obj
+    29>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D NESTED_HFA /D FLOAT64 /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D hfa_nested_f64_native_cpp_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"hfa_nested_f64_native_cpp.dir\Debug\\" /Fd"hfa_nested_f64_native_cpp.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue  -c N:\Code\Git\coreclr\tests\src\JIT\jit64\hfa\main\dll\hfa_native.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\hfa_simple_f64_native_cpp.vcxproj" (30) on node 4 (default targets).
+    30>PrepareForBuild:
+         Creating directory "hfa_simple_f64_native_cpp.dir\Debug\".
+         Creating directory "hfa_simple_f64_native_cpp.dir\Debug\hfa_simp.6A14B204.tlog\".
+       InitializeBuildStatus:
+         Creating "hfa_simple_f64_native_cpp.dir\Debug\hfa_simp.6A14B204.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    26>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/V1/SEH/VJ/Debug/Unmanaged.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/V1/SEH/VJ/Debug/Unmanaged.exp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\hfa_simple_f32_native_cpp.vcxproj" (31) on node 7 (default targets).
+    31>PrepareForBuild:
+         Creating directory "hfa_simple_f32_native_cpp.dir\Debug\".
+         Creating directory "hfa_simple_f32_native_cpp.dir\Debug\hfa_simp.6821A932.tlog\".
+       InitializeBuildStatus:
+         Creating "hfa_simple_f32_native_cpp.dir\Debug\hfa_simp.6821A932.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    30>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/hfa/main/dll/CMakeLists.txt
+    31>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/hfa/main/dll/CMakeLists.txt
+    29>ClCompile:
+         hfa_native.cpp
+    30>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/CMakeFiles/generate.stamp is up-to-date.
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Methodical\structs\systemvbringup\jitstructtests_lib.vcxproj" (32) on node 8 (default targets).
+    32>PrepareForBuild:
+         Creating directory "jitstructtests_lib.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Methodical\structs\systemvbringup\Debug\".
+         Creating directory "jitstructtests_lib.dir\Debug\jitstruc.8349117B.tlog\".
+    31>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/CMakeFiles/generate.stamp is up-to-date.
+    32>InitializeBuildStatus:
+         Creating "jitstructtests_lib.dir\Debug\jitstruc.8349117B.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    30>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D SIMPLE_HFA /D FLOAT64 /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D hfa_simple_f64_native_cpp_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"hfa_simple_f64_native_cpp.dir\Debug\\" /Fd"hfa_simple_f64_native_cpp.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue  -c N:\Code\Git\coreclr\tests\src\JIT\jit64\hfa\main\dll\hfa_native.cpp
+    31>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D SIMPLE_HFA /D FLOAT32 /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D hfa_simple_f32_native_cpp_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"hfa_simple_f32_native_cpp.dir\Debug\\" /Fd"hfa_simple_f32_native_cpp.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue  -c N:\Code\Git\coreclr\tests\src\JIT\jit64\hfa\main\dll\hfa_native.cpp
+    32>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/Methodical/structs/systemvbringup/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Methodical/structs/systemvbringup/CMakeFiles/generate.stamp is up-to-date.
+    31>ClCompile:
+         hfa_native.cpp
+    30>ClCompile:
+         hfa_native.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Directed\pinning\object-pin\mirror.vcxproj" (33) on node 4 (default targets).
+    33>PrepareForBuild:
+         Creating directory "mirror.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Directed\pinning\object-pin\Debug\".
+         Creating directory "mirror.dir\Debug\mirror.tlog\".
+       InitializeBuildStatus:
+         Creating "mirror.dir\Debug\mirror.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    32>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D jitstructtests_lib_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"jitstructtests_lib.dir\Debug\\" /Fd"jitstructtests_lib.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\Methodical\structs\systemvbringup\structinregs.cpp
+    33>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/Directed/pinning/object-pin/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/pinning/object-pin/CMakeFiles/generate.stamp is up-to-date.
+    32>ClCompile:
+         structinregs.cpp
+    28>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\Debug\hfa_nested_f32_native_cpp.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_nested_f32_native_cpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_nested_f32_native_cpp.lib" /MACHINE:X64  /machine:x64 /DLL hfa_nested_f32_native_cpp.dir\Debug\hfa_native.obj
+    33>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D mirror_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"mirror.dir\Debug\\" /Fd"mirror.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue  -c "N:\Code\Git\coreclr\tests\src\JIT\Directed\pinning\object-pin\mirror.cpp"
+    28>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_nested_f32_native_cpp.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_nested_f32_native_cpp.exp
+    33>ClCompile:
+         mirror.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i0c.vcxproj" (34) on node 7 (default targets).
+    34>PrepareForBuild:
+         Creating directory "native_i0c.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\".
+         Creating directory "native_i0c.dir\Debug\native_i0c.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i0c.dir\Debug\native_i0c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    30>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\Debug\hfa_simple_f64_native_cpp.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_simple_f64_native_cpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_simple_f64_native_cpp.lib" /MACHINE:X64  /machine:x64 /DLL hfa_simple_f64_native_cpp.dir\Debug\hfa_native.obj
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_simple_f64_native_cpp.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_simple_f64_native_cpp.exp
+    34>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i0c_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i0c.dir\Debug\\" /Fd"native_i0c.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i0c.cpp
+    24>Link:
+         UTF8TestNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\UTF8\Debug\UTF8TestNative.dll
+         UTF8TestNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/StringMarshalling/UTF8/Debug/UTF8TestNative.pdb (Full PDB)
+    31>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\Debug\hfa_simple_f32_native_cpp.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_simple_f32_native_cpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_simple_f32_native_cpp.lib" /MACHINE:X64  /machine:x64 /DLL hfa_simple_f32_native_cpp.dir\Debug\hfa_native.obj
+    24>FinalizeBuildStatus:
+         Deleting file "UTF8TestNative.dir\Debug\UTF8TestNative.tlog\unsuccessfulbuild".
+         Touching "UTF8TestNative.dir\Debug\UTF8TestNative.tlog\UTF8TestNative.lastbuildstate".
+    24>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\StringMarshalling\UTF8\UTF8TestNative.vcxproj" (default targets).
+    23>Link:
+         UIntPtrNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\UIntPtr\Debug\UIntPtrNative.dll
+         UIntPtrNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/PrimitiveMarshalling/UIntPtr/Debug/UIntPtrNative.pdb (Full PDB)
+       FinalizeBuildStatus:
+         Deleting file "UIntPtrNative.dir\Debug\UIntPtrNative.tlog\unsuccessfulbuild".
+         Touching "UIntPtrNative.dir\Debug\UIntPtrNative.tlog\UIntPtrNative.lastbuildstate".
+    23>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\PrimitiveMarshalling\UIntPtr\UIntPtrNative.vcxproj" (default targets).
+    25>Link:
+         Vector3TestNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\SIMD\Debug\Vector3TestNative.dll
+    27>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\baseservices\exceptions\regressions\Dev11\147911\Debug\fpcw.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/Dev11/147911/Debug/fpcw.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/Dev11/147911/Debug/fpcw.lib" /MACHINE:X64  /machine:x64 /DLL fpcw.dir\Debug\fpcw.obj
+    26>Link:
+         Unmanaged.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\baseservices\exceptions\regressions\V1\SEH\VJ\Debug\Unmanaged.dll
+         Unmanaged.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/V1/SEH/VJ/Debug/Unmanaged.pdb (Full PDB)
+    34>ClCompile:
+         native_i0c.cpp
+    31>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_simple_f32_native_cpp.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_simple_f32_native_cpp.exp
+    18>Link:
+         RefCharArrayNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\RefCharArray\Debug\RefCharArrayNative.dll
+    26>FinalizeBuildStatus:
+         Deleting file "Unmanaged.dir\Debug\Unmanaged.tlog\unsuccessfulbuild".
+    25>Link:
+         Vector3TestNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/SIMD/Debug/Vector3TestNative.pdb (Full PDB)
+    26>FinalizeBuildStatus:
+         Touching "Unmanaged.dir\Debug\Unmanaged.tlog\Unmanaged.lastbuildstate".
+    26>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\baseservices\exceptions\regressions\V1\SEH\VJ\Unmanaged.vcxproj" (default targets).
+    18>Link:
+         RefCharArrayNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/RefCharArray/Debug/RefCharArrayNative.pdb (Full PDB)
+    27>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/Dev11/147911/Debug/fpcw.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/Dev11/147911/Debug/fpcw.exp
+    18>FinalizeBuildStatus:
+         Deleting file "RefCharArrayNative.dir\Debug\RefCharA.AE28C81B.tlog\unsuccessfulbuild".
+         Touching "RefCharArrayNative.dir\Debug\RefCharA.AE28C81B.tlog\RefCharArrayNative.lastbuildstate".
+    18>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\RefCharArray\RefCharArrayNative.vcxproj" (default targets).
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i0s.vcxproj" (35) on node 2 (default targets).
+    35>PrepareForBuild:
+         Creating directory "native_i0s.dir\Debug\".
+         Creating directory "native_i0s.dir\Debug\native_i0s.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i0s.dir\Debug\native_i0s.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    14>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\ArrayMarshalling\BoolArray\Debug\MarshalBoolArrayNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/BoolArray/Debug/MarshalBoolArrayNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/BoolArray/Debug/MarshalBoolArrayNative.lib" /MACHINE:X64  /machine:x64 /DLL MarshalBoolArrayNative.dir\Debug\MarshalBoolArrayNative.obj
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/BoolArray/Debug/MarshalBoolArrayNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/BoolArray/Debug/MarshalBoolArrayNative.exp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i1c.vcxproj" (36) on node 5 (default targets).
+    36>PrepareForBuild:
+         Creating directory "native_i1c.dir\Debug\".
+    35>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+    36>PrepareForBuild:
+         Creating directory "native_i1c.dir\Debug\native_i1c.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i1c.dir\Debug\native_i1c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+    28>Link:
+         hfa_nested_f32_native_cpp.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\Debug\hfa_nested_f32_native_cpp.dll
+         hfa_nested_f32_native_cpp.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_nested_f32_native_cpp.pdb (Full PDB)
+    35>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    25>FinalizeBuildStatus:
+         Deleting file "Vector3TestNative.dir\Debug\Vector3T.9C852C88.tlog\unsuccessfulbuild".
+         Touching "Vector3TestNative.dir\Debug\Vector3T.9C852C88.tlog\Vector3TestNative.lastbuildstate".
+    25>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\SIMD\Vector3TestNative.vcxproj" (default targets).
+    36>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    35>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i0s_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i0s.dir\Debug\\" /Fd"native_i0s.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i0s.cpp
+    28>FinalizeBuildStatus:
+         Deleting file "hfa_nested_f32_native_cpp.dir\Debug\hfa_nest.0D325213.tlog\unsuccessfulbuild".
+         Touching "hfa_nested_f32_native_cpp.dir\Debug\hfa_nest.0D325213.tlog\hfa_nested_f32_native_cpp.lastbuildstate".
+    28>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\hfa_nested_f32_native_cpp.vcxproj" (default targets).
+    30>Link:
+         hfa_simple_f64_native_cpp.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\Debug\hfa_simple_f64_native_cpp.dll
+         hfa_simple_f64_native_cpp.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_simple_f64_native_cpp.pdb (Full PDB)
+    21>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\SizeConst\Debug\SizeConstNative.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SizeConst/Debug/SizeConstNative.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SizeConst/Debug/SizeConstNative.lib" /MACHINE:X64  /machine:x64 /DLL SizeConstNative.dir\Debug\SizeConstNative.obj
+    36>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i1c_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i1c.dir\Debug\\" /Fd"native_i1c.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i1c.cpp
+    32>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Methodical\structs\systemvbringup\Debug\jitstructtests_lib.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /DEF:"N:/Code/Git/coreclr/tests/src/JIT/Methodical/structs/systemvbringup/structinregs.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Methodical/structs/systemvbringup/Debug/jitstructtests_lib.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Methodical/structs/systemvbringup/Debug/jitstructtests_lib.lib" /MACHINE:X64  /machine:x64 /DLL jitstructtests_lib.dir\Debug\structinregs.obj
+    35>ClCompile:
+         native_i0s.cpp
+    21>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SizeConst/Debug/SizeConstNative.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SizeConst/Debug/SizeConstNative.exp
+    36>ClCompile:
+         native_i1c.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i3c.vcxproj" (38) on node 5 (default targets).
+    38>PrepareForBuild:
+         Creating directory "native_i3c.dir\Debug\".
+         Creating directory "native_i3c.dir\Debug\native_i3c.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i3c.dir\Debug\native_i3c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i1s.vcxproj" (37) on node 2 (default targets).
+    37>PrepareForBuild:
+         Creating directory "native_i1s.dir\Debug\".
+         Creating directory "native_i1s.dir\Debug\native_i1s.tlog\".
+    32>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Methodical/structs/systemvbringup/Debug/jitstructtests_lib.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Methodical/structs/systemvbringup/Debug/jitstructtests_lib.exp
+    31>Link:
+         hfa_simple_f32_native_cpp.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\Debug\hfa_simple_f32_native_cpp.dll
+         hfa_simple_f32_native_cpp.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_simple_f32_native_cpp.pdb (Full PDB)
+    37>InitializeBuildStatus:
+         Creating "native_i1s.dir\Debug\native_i1s.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    27>Link:
+         fpcw.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\baseservices\exceptions\regressions\Dev11\147911\Debug\fpcw.dll
+         fpcw.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/baseservices/exceptions/regressions/Dev11/147911/Debug/fpcw.pdb (Full PDB)
+    38>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+    27>FinalizeBuildStatus:
+         Deleting file "fpcw.dir\Debug\fpcw.tlog\unsuccessfulbuild".
+         Touching "fpcw.dir\Debug\fpcw.tlog\fpcw.lastbuildstate".
+    27>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\baseservices\exceptions\regressions\Dev11\147911\fpcw.vcxproj" (default targets).
+    31>FinalizeBuildStatus:
+         Deleting file "hfa_simple_f32_native_cpp.dir\Debug\hfa_simp.6821A932.tlog\unsuccessfulbuild".
+         Touching "hfa_simple_f32_native_cpp.dir\Debug\hfa_simp.6821A932.tlog\hfa_simple_f32_native_cpp.lastbuildstate".
+    31>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\hfa_simple_f32_native_cpp.vcxproj" (default targets).
+    38>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    37>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i1s_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i1s.dir\Debug\\" /Fd"native_i1s.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i1s.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i3s.vcxproj" (39) on node 1 (default targets).
+    39>PrepareForBuild:
+         Creating directory "native_i3s.dir\Debug\".
+         Creating directory "native_i3s.dir\Debug\native_i3s.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i3s.dir\Debug\native_i3s.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    34>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i0c.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i0c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i0c.lib" /MACHINE:X64  /machine:x64 /DLL native_i0c.dir\Debug\native_i0c.obj
+    30>FinalizeBuildStatus:
+         Deleting file "hfa_simple_f64_native_cpp.dir\Debug\hfa_simp.6A14B204.tlog\unsuccessfulbuild".
+    35>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i0s.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i0s.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i0s.lib" /MACHINE:X64  /machine:x64 /DLL native_i0s.dir\Debug\native_i0s.obj
+    30>FinalizeBuildStatus:
+         Touching "hfa_simple_f64_native_cpp.dir\Debug\hfa_simp.6A14B204.tlog\hfa_simple_f64_native_cpp.lastbuildstate".
+    14>Link:
+         MarshalBoolArrayNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\ArrayMarshalling\BoolArray\Debug\MarshalBoolArrayNative.dll
+         MarshalBoolArrayNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/ArrayMarshalling/BoolArray/Debug/MarshalBoolArrayNative.pdb (Full PDB)
+    37>ClCompile:
+         native_i1s.cpp
+    38>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i3c_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i3c.dir\Debug\\" /Fd"native_i3c.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i3c.cpp
+    34>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i0c.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i0c.exp
+    39>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+    30>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\hfa_simple_f64_native_cpp.vcxproj" (default targets).
+    35>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i0s.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i0s.exp
+    39>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    14>FinalizeBuildStatus:
+         Deleting file "MarshalBoolArrayNative.dir\Debug\MarshalB.982D9A2F.tlog\unsuccessfulbuild".
+    39>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i3s_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i3s.dir\Debug\\" /Fd"native_i3s.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i3s.cpp
+    33>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Directed\pinning\object-pin\Debug\mirror.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/pinning/object-pin/Debug/mirror.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/pinning/object-pin/Debug/mirror.lib" /MACHINE:X64  /machine:x64 /DLL mirror.dir\Debug\mirror.obj
+    14>FinalizeBuildStatus:
+         Touching "MarshalBoolArrayNative.dir\Debug\MarshalB.982D9A2F.tlog\MarshalBoolArrayNative.lastbuildstate".
+    14>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\ArrayMarshalling\BoolArray\MarshalBoolArrayNative.vcxproj" (default targets).
+    38>ClCompile:
+         native_i3c.cpp
+    39>ClCompile:
+         native_i3s.cpp
+    33>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/pinning/object-pin/Debug/mirror.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/pinning/object-pin/Debug/mirror.exp
+    36>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i1c.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i1c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i1c.lib" /MACHINE:X64  /machine:x64 /DLL native_i1c.dir\Debug\native_i1c.obj
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i5s.vcxproj" (41) on node 1 (default targets).
+    41>PrepareForBuild:
+         Creating directory "native_i5s.dir\Debug\".
+    36>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i1c.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i1c.exp
+    41>PrepareForBuild:
+         Creating directory "native_i5s.dir\Debug\native_i5s.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i5s.dir\Debug\native_i5s.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i5c.vcxproj" (40) on node 3 (default targets).
+    40>PrepareForBuild:
+         Creating directory "native_i5c.dir\Debug\".
+         Creating directory "native_i5c.dir\Debug\native_i5c.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i5c.dir\Debug\native_i5c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    41>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+    40>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i5c_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i5c.dir\Debug\\" /Fd"native_i5c.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i5c.cpp
+    41>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i5s_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i5s.dir\Debug\\" /Fd"native_i5s.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i5s.cpp
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i6c.vcxproj" (42) on node 3 (default targets).
+    42>PrepareForBuild:
+         Creating directory "native_i6c.dir\Debug\".
+         Creating directory "native_i6c.dir\Debug\native_i6c.tlog\".
+    41>ClCompile:
+         native_i5s.cpp
+    39>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i3s.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i3s.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i3s.lib" /MACHINE:X64  /machine:x64 /DLL native_i3s.dir\Debug\native_i3s.obj
+    42>InitializeBuildStatus:
+         Creating "native_i6c.dir\Debug\native_i6c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    40>ClCompile:
+         native_i5c.cpp
+    42>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i6c_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i6c.dir\Debug\\" /Fd"native_i6c.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i6c.cpp
+    39>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i3s.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i3s.exp
+    42>ClCompile:
+         native_i6c.cpp
+    21>Link:
+         SizeConstNative.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\SizeConst\Debug\SizeConstNative.dll
+         SizeConstNative.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/Interop/SizeConst/Debug/SizeConstNative.pdb (Full PDB)
+    40>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i5c.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i5c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i5c.lib" /MACHINE:X64  /machine:x64 /DLL native_i5c.dir\Debug\native_i5c.obj
+    21>FinalizeBuildStatus:
+         Deleting file "SizeConstNative.dir\Debug\SizeConstNative.tlog\unsuccessfulbuild".
+         Touching "SizeConstNative.dir\Debug\SizeConstNative.tlog\SizeConstNative.lastbuildstate".
+    21>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Interop\SizeConst\SizeConstNative.vcxproj" (default targets).
+    40>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i5c.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i5c.exp
+    32>Link:
+         jitstructtests_lib.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Methodical\structs\systemvbringup\Debug\jitstructtests_lib.dll
+         jitstructtests_lib.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Methodical/structs/systemvbringup/Debug/jitstructtests_lib.pdb (Full PDB)
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i6s.vcxproj" (43) on node 6 (default targets).
+    43>PrepareForBuild:
+         Creating directory "native_i6s.dir\Debug\".
+         Creating directory "native_i6s.dir\Debug\native_i6s.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i6s.dir\Debug\native_i6s.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+    32>FinalizeBuildStatus:
+         Deleting file "jitstructtests_lib.dir\Debug\jitstruc.8349117B.tlog\unsuccessfulbuild".
+         Touching "jitstructtests_lib.dir\Debug\jitstruc.8349117B.tlog\jitstructtests_lib.lastbuildstate".
+    32>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Methodical\structs\systemvbringup\jitstructtests_lib.vcxproj" (default targets).
+    43>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    35>Link:
+         native_i0s.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i0s.dll
+    34>Link:
+         native_i0c.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i0c.dll
+    35>Link:
+         native_i0s.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i0s.pdb (Full PDB)
+    34>Link:
+         native_i0c.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i0c.pdb (Full PDB)
+    43>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i6s_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i6s.dir\Debug\\" /Fd"native_i6s.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i6s.cpp
+    29>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\Debug\hfa_nested_f64_native_cpp.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_nested_f64_native_cpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_nested_f64_native_cpp.lib" /MACHINE:X64  /machine:x64 /DLL hfa_nested_f64_native_cpp.dir\Debug\hfa_native.obj
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_nested_f64_native_cpp.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_nested_f64_native_cpp.exp
+    35>FinalizeBuildStatus:
+         Deleting file "native_i0s.dir\Debug\native_i0s.tlog\unsuccessfulbuild".
+    34>FinalizeBuildStatus:
+         Deleting file "native_i0c.dir\Debug\native_i0c.tlog\unsuccessfulbuild".
+    35>FinalizeBuildStatus:
+         Touching "native_i0s.dir\Debug\native_i0s.tlog\native_i0s.lastbuildstate".
+    34>FinalizeBuildStatus:
+         Touching "native_i0c.dir\Debug\native_i0c.tlog\native_i0c.lastbuildstate".
+    35>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i0s.vcxproj" (default targets).
+    34>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i0c.vcxproj" (default targets).
+    43>ClCompile:
+         native_i6s.cpp
+    37>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i1s.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i1s.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i1s.lib" /MACHINE:X64  /machine:x64 /DLL native_i1s.dir\Debug\native_i1s.obj
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i7c.vcxproj" (44) on node 6 (default targets).
+    44>PrepareForBuild:
+         Creating directory "native_i7c.dir\Debug\".
+         Creating directory "native_i7c.dir\Debug\native_i7c.tlog\".
+    33>Link:
+         mirror.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Directed\pinning\object-pin\Debug\mirror.dll
+         mirror.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Directed/pinning/object-pin/Debug/mirror.pdb (Full PDB)
+    44>InitializeBuildStatus:
+         Creating "native_i7c.dir\Debug\native_i7c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    36>Link:
+         native_i1c.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i1c.dll
+    37>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i1s.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i1s.exp
+    36>Link:
+         native_i1c.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i1c.pdb (Full PDB)
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i7s.vcxproj" (45) on node 7 (default targets).
+    45>PrepareForBuild:
+         Creating directory "native_i7s.dir\Debug\".
+         Creating directory "native_i7s.dir\Debug\native_i7s.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i7s.dir\Debug\native_i7s.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    36>FinalizeBuildStatus:
+         Deleting file "native_i1c.dir\Debug\native_i1c.tlog\unsuccessfulbuild".
+         Touching "native_i1c.dir\Debug\native_i1c.tlog\native_i1c.lastbuildstate".
+    36>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i1c.vcxproj" (default targets).
+    44>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    45>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    44>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i7c_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i7c.dir\Debug\\" /Fd"native_i7c.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i7c.cpp
+    38>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i3c.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i3c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i3c.lib" /MACHINE:X64  /machine:x64 /DLL native_i3c.dir\Debug\native_i3c.obj
+    33>FinalizeBuildStatus:
+         Deleting file "mirror.dir\Debug\mirror.tlog\unsuccessfulbuild".
+         Touching "mirror.dir\Debug\mirror.tlog\mirror.lastbuildstate".
+    33>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Directed\pinning\object-pin\mirror.vcxproj" (default targets).
+    39>Link:
+         native_i3s.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i3s.dll
+         native_i3s.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i3s.pdb (Full PDB)
+       FinalizeBuildStatus:
+         Deleting file "native_i3s.dir\Debug\native_i3s.tlog\unsuccessfulbuild".
+         Touching "native_i3s.dir\Debug\native_i3s.tlog\native_i3s.lastbuildstate".
+    39>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i3s.vcxproj" (default targets).
+    45>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i7s_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i7s.dir\Debug\\" /Fd"native_i7s.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i7s.cpp
+    44>ClCompile:
+         native_i7c.cpp
+    38>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i3c.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i3c.exp
+    40>Link:
+         native_i5c.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i5c.dll
+         native_i5c.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i5c.pdb (Full PDB)
+    41>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i5s.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i5s.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i5s.lib" /MACHINE:X64  /machine:x64 /DLL native_i5s.dir\Debug\native_i5s.obj
+    43>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i6s.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i6s.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i6s.lib" /MACHINE:X64  /machine:x64 /DLL native_i6s.dir\Debug\native_i6s.obj
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i8c.vcxproj" (46) on node 4 (default targets).
+    46>PrepareForBuild:
+         Creating directory "native_i8c.dir\Debug\".
+         Creating directory "native_i8c.dir\Debug\native_i8c.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i8c.dir\Debug\native_i8c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    29>Link:
+         hfa_nested_f64_native_cpp.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\Debug\hfa_nested_f64_native_cpp.dll
+         hfa_nested_f64_native_cpp.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/hfa/main/dll/Debug/hfa_nested_f64_native_cpp.pdb (Full PDB)
+       FinalizeBuildStatus:
+         Deleting file "hfa_nested_f64_native_cpp.dir\Debug\hfa_nest.350EE073.tlog\unsuccessfulbuild".
+         Touching "hfa_nested_f64_native_cpp.dir\Debug\hfa_nest.350EE073.tlog\hfa_nested_f64_native_cpp.lastbuildstate".
+    29>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\hfa\main\dll\hfa_nested_f64_native_cpp.vcxproj" (default targets).
+    41>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i5s.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i5s.exp
+    46>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+    43>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i6s.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i6s.exp
+    40>FinalizeBuildStatus:
+         Deleting file "native_i5c.dir\Debug\native_i5c.tlog\unsuccessfulbuild".
+         Touching "native_i5c.dir\Debug\native_i5c.tlog\native_i5c.lastbuildstate".
+    40>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i5c.vcxproj" (default targets).
+    46>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    42>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i6c.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i6c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i6c.lib" /MACHINE:X64  /machine:x64 /DLL native_i6c.dir\Debug\native_i6c.obj
+    45>ClCompile:
+         native_i7s.cpp
+    37>Link:
+         native_i1s.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i1s.dll
+         native_i1s.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i1s.pdb (Full PDB)
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i8s.vcxproj" (48) on node 7 (default targets).
+    48>PrepareForBuild:
+         Creating directory "native_i8s.dir\Debug\".
+     3>Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (3) is building "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Regression\VS-ia64-JIT\V1.2-M02\b108129\test2.vcxproj" (47) on node 8 (default targets).
+    47>PrepareForBuild:
+         Creating directory "test2.dir\Debug\".
+         Creating directory "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Regression\VS-ia64-JIT\V1.2-M02\b108129\Debug\".
+         Creating directory "test2.dir\Debug\test2.tlog\".
+    48>PrepareForBuild:
+         Creating directory "native_i8s.dir\Debug\native_i8s.tlog\".
+       InitializeBuildStatus:
+         Creating "native_i8s.dir\Debug\native_i8s.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    37>FinalizeBuildStatus:
+         Deleting file "native_i1s.dir\Debug\native_i1s.tlog\unsuccessfulbuild".
+         Touching "native_i1s.dir\Debug\native_i1s.tlog\native_i1s.lastbuildstate".
+    37>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i1s.vcxproj" (default targets).
+    47>InitializeBuildStatus:
+         Creating "test2.dir\Debug\test2.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+    46>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i8c_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i8c.dir\Debug\\" /Fd"native_i8c.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i8c.cpp
+    47>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/Regression/VS-ia64-JIT/V1.2-M02/b108129/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Regression/VS-ia64-JIT/V1.2-M02/b108129/CMakeFiles/generate.stamp is up-to-date.
+    48>CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/src/JIT/jit64/mcc/interop/CMakeLists.txt
+    42>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i6c.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i6c.exp
+    46>ClCompile:
+         native_i8c.cpp
+    48>CustomBuild:
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/CMakeFiles/generate.stamp is up-to-date.
+    38>Link:
+         native_i3c.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i3c.dll
+    47>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /IN:\Code\Git\coreclr\tests\src\Common\Platform /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D test2_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"test2.dir\Debug\\" /Fd"test2.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue  -c "N:\Code\Git\coreclr\tests\src\JIT\Regression\VS-ia64-JIT\V1.2-M02\b108129\test2.cpp"
+    38>Link:
+         native_i3c.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i3c.pdb (Full PDB)
+    48>ClCompile:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\CL.exe /c /Zi /nologo /Wall /WX- /diagnostics:classic /Od /D WINDOWS=1 /D "CMAKE_INTDIR=\"Debug\"" /D native_i8s_EXPORTS /D _WINDLL /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"native_i8s.dir\Debug\\" /Fd"native_i8s.dir\Debug\vc141.pdb" /Gd /TP /wd4100 /wd4514 /wd4668 /wd4710 /wd4711 /wd4820 /FC /errorReport:queue N:\Code\Git\coreclr\tests\src\JIT\jit64\mcc\interop\native_i8s.cpp
+    38>FinalizeBuildStatus:
+         Deleting file "native_i3c.dir\Debug\native_i3c.tlog\unsuccessfulbuild".
+         Touching "native_i3c.dir\Debug\native_i3c.tlog\native_i3c.lastbuildstate".
+    38>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i3c.vcxproj" (default targets).
+    47>ClCompile:
+         test2.cpp
+    41>Link:
+         native_i5s.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i5s.dll
+         native_i5s.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i5s.pdb (Full PDB)
+    43>Link:
+         native_i6s.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i6s.dll
+         native_i6s.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i6s.pdb (Full PDB)
+    41>FinalizeBuildStatus:
+         Deleting file "native_i5s.dir\Debug\native_i5s.tlog\unsuccessfulbuild".
+         Touching "native_i5s.dir\Debug\native_i5s.tlog\native_i5s.lastbuildstate".
+    41>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i5s.vcxproj" (default targets).
+    48>ClCompile:
+         native_i8s.cpp
+    45>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i7s.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i7s.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i7s.lib" /MACHINE:X64  /machine:x64 /DLL native_i7s.dir\Debug\native_i7s.obj
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i7s.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i7s.exp
+    43>FinalizeBuildStatus:
+         Deleting file "native_i6s.dir\Debug\native_i6s.tlog\unsuccessfulbuild".
+         Touching "native_i6s.dir\Debug\native_i6s.tlog\native_i6s.lastbuildstate".
+    43>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i6s.vcxproj" (default targets).
+    46>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i8c.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i8c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i8c.lib" /MACHINE:X64  /machine:x64 /DLL native_i8c.dir\Debug\native_i8c.obj
+    42>Link:
+         native_i6c.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i6c.dll
+         native_i6c.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i6c.pdb (Full PDB)
+    44>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i7c.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i7c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i7c.lib" /MACHINE:X64  /machine:x64 /DLL native_i7c.dir\Debug\native_i7c.obj
+    46>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i8c.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i8c.exp
+    42>FinalizeBuildStatus:
+         Deleting file "native_i6c.dir\Debug\native_i6c.tlog\unsuccessfulbuild".
+         Touching "native_i6c.dir\Debug\native_i6c.tlog\native_i6c.lastbuildstate".
+    42>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i6c.vcxproj" (default targets).
+    44>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i7c.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i7c.exp
+    45>Link:
+         native_i7s.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i7s.dll
+         native_i7s.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i7s.pdb (Full PDB)
+       FinalizeBuildStatus:
+         Deleting file "native_i7s.dir\Debug\native_i7s.tlog\unsuccessfulbuild".
+         Touching "native_i7s.dir\Debug\native_i7s.tlog\native_i7s.lastbuildstate".
+    45>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i7s.vcxproj" (default targets).
+    48>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i8s.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i8s.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i8s.lib" /MACHINE:X64  /machine:x64 /DLL native_i8s.dir\Debug\native_i8s.obj
+    46>Link:
+         native_i8c.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i8c.dll
+         native_i8c.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i8c.pdb (Full PDB)
+    48>Link:
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i8s.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i8s.exp
+    44>Link:
+         native_i7c.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i7c.dll
+         native_i7c.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i7c.pdb (Full PDB)
+    46>FinalizeBuildStatus:
+         Deleting file "native_i8c.dir\Debug\native_i8c.tlog\unsuccessfulbuild".
+         Touching "native_i8c.dir\Debug\native_i8c.tlog\native_i8c.lastbuildstate".
+    46>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i8c.vcxproj" (default targets).
+    44>FinalizeBuildStatus:
+         Deleting file "native_i7c.dir\Debug\native_i7c.tlog\unsuccessfulbuild".
+         Touching "native_i7c.dir\Debug\native_i7c.tlog\native_i7c.lastbuildstate".
+    44>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i7c.vcxproj" (default targets).
+    47>Link:
+         N:\Program Files\VC\Tools\MSVC\14.10.25017\bin\HostX86\x64\link.exe /ERRORREPORT:QUEUE /OUT:"N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Regression\VS-ia64-JIT\V1.2-M02\b108129\Debug\test2.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Regression/VS-ia64-JIT/V1.2-M02/b108129/Debug/test2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Regression/VS-ia64-JIT/V1.2-M02/b108129/Debug/test2.lib" /MACHINE:X64  /machine:x64 /DLL test2.dir\Debug\test2.obj
+            Creating library N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Regression/VS-ia64-JIT/V1.2-M02/b108129/Debug/test2.lib and object N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Regression/VS-ia64-JIT/V1.2-M02/b108129/Debug/test2.exp
+    48>Link:
+         native_i8s.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\Debug\native_i8s.dll
+         native_i8s.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/jit64/mcc/interop/Debug/native_i8s.pdb (Full PDB)
+       FinalizeBuildStatus:
+         Deleting file "native_i8s.dir\Debug\native_i8s.tlog\unsuccessfulbuild".
+         Touching "native_i8s.dir\Debug\native_i8s.tlog\native_i8s.lastbuildstate".
+    48>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\jit64\mcc\interop\native_i8s.vcxproj" (default targets).
+    47>Link:
+         test2.vcxproj -> N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Regression\VS-ia64-JIT\V1.2-M02\b108129\Debug\test2.dll
+         test2.vcxproj -> N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/src/JIT/Regression/VS-ia64-JIT/V1.2-M02/b108129/Debug/test2.pdb (Full PDB)
+       FinalizeBuildStatus:
+         Deleting file "test2.dir\Debug\test2.tlog\unsuccessfulbuild".
+         Touching "test2.dir\Debug\test2.tlog\test2.lastbuildstate".
+    47>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\JIT\Regression\VS-ia64-JIT\V1.2-M02\b108129\test2.vcxproj" (default targets).
+     3>PrepareForBuild:
+         Creating directory "x64\Debug\ALL_BUILD\".
+         Creating directory "x64\Debug\ALL_BUILD\ALL_BUILD.tlog\".
+       InitializeBuildStatus:
+         Creating "x64\Debug\ALL_BUILD\ALL_BUILD.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Building Custom Rule N:/Code/Git/coreclr/tests/CMakeLists.txt
+         CMake does not need to re-run because N:/Code/Git/coreclr/bin/tests/obj/Windows_NT.x64.Debug/Native/CMakeFiles/generate.stamp is up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\ALL_BUILD\ALL_BUILD.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\ALL_BUILD\ALL_BUILD.tlog\ALL_BUILD.lastbuildstate".
+     3>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (default targets).
+     1>PrepareForBuild:
+         Creating directory "x64\Debug\INSTALL\".
+         Creating directory "x64\Debug\INSTALL\INSTALL.tlog\".
+       InitializeBuildStatus:
+         Creating "x64\Debug\INSTALL\INSTALL.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       PostBuildEvent:
+         setlocal
+         "N:\Program Files\CMake\bin\cmake.exe" -DBUILD_TYPE=Debug -P cmake_install.cmake
+         if %errorlevel% neq 0 goto :cmEnd
+         :cmEnd
+         endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+         :cmErrorLevel
+         exit /b %1
+         :cmDone
+         if %errorlevel% neq 0 goto :VCEnd
+         :VCEnd
+         -- Install configuration: "Debug"
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/ForeignThreadExceptionsNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/ForeignThreadExceptionsNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/NativeCallableDll.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/NativeCallableDll.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/BoolNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/BoolNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/UIntPtrNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/UIntPtrNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/MarshalBoolArrayNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/MarshalBoolArrayNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/MarshalArrayByValNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/MarshalArrayByValNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/MarshalEnumNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/MarshalEnumNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/FuncPtrAsDelegateParamNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/FuncPtrAsDelegateParamNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/SimpleStructNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/SimpleStructNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/MarshalStructAsParam.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/MarshalStructAsParam.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/BestFitMappingNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/BestFitMappingNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/RefIntNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/RefIntNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/RefCharArrayNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/RefCharArrayNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/LPSTRTestNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/LPSTRTestNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/LPTSTRTestNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/LPTSTRTestNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/UTF8TestNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/UTF8TestNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/FunctionPointerNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/FunctionPointerNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/IUnknownNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/IUnknownNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/SizeConstNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/SizeConstNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/StructABILib.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/StructABILib.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/mirror.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/mirror.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/jitstructtests_lib.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/jitstructtests_lib.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/test2.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/test2.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/Vector3TestNative.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/Vector3TestNative.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/hfa_simple_f32_native_cpp.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/hfa_simple_f32_native_cpp.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/hfa_simple_f64_native_cpp.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/hfa_simple_f64_native_cpp.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/hfa_nested_f32_native_cpp.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/hfa_nested_f32_native_cpp.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/hfa_nested_f64_native_cpp.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/hfa_nested_f64_native_cpp.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i0c.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i0c.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i1c.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i1c.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i3c.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i3c.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i5c.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i5c.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i6c.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i6c.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i7c.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i7c.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i8c.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i8c.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i0s.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i0s.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i1s.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i1s.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i3s.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i3s.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i5s.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i5s.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i6s.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i6s.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i7s.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i7s.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i8s.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/native_i8s.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/Loader/NativeLibs/FromNativePaths_lib.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/Loader/NativeLibs/FromNativePaths_lib.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/fpcw.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/fpcw.dll
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/Unmanaged.lib
+         -- Installing: N:/Code/Git/coreclr/bin/tests/Windows_NT.x64.Debug/bin/Unmanaged.dll
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\INSTALL\INSTALL.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\INSTALL\INSTALL.tlog\INSTALL.lastbuildstate".
+     1>Done Building Project "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\install.vcxproj" (default targets).
+
+Build succeeded.
+
+       "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\install.vcxproj" (default target) (1) ->
+       "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\ALL_BUILD.vcxproj" (default target) (3) ->
+       "N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj" (default target) (12) ->
+       (ClCompile target) -> 
+         n:\program files\vc\tools\msvc\14.10.25017\include\eh.h(31): warning C4987: nonstandard extension used: 'throw (...)' [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+         n:\program files\vc\tools\msvc\14.10.25017\include\iosfwd(356): warning C4365: 'return': conversion from 'int' to 'std::char_traits<wchar_t>::int_type', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+         n:\program files\vc\tools\msvc\14.10.25017\include\iosfwd(452): warning C4365: 'return': conversion from 'int' to 'std::char_traits<unsigned short>::int_type', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+         n:\program files\vc\tools\msvc\14.10.25017\include\vcruntime_typeinfo.h(41): warning C4623: '__std_type_info_data': default constructor was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+         n:\program files\vc\tools\msvc\14.10.25017\include\vcruntime_typeinfo.h(41): warning C4626: '__std_type_info_data': assignment operator was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+         n:\program files\vc\tools\msvc\14.10.25017\include\vcruntime_typeinfo.h(41): warning C5027: '__std_type_info_data': move assignment operator was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+         n:\program files\vc\tools\msvc\14.10.25017\include\memory(507): warning C4365: 'argument': conversion from 'std::_Atomic_integral_t' to 'long', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+         n:\program files\vc\tools\msvc\14.10.25017\include\memory(550): warning C4365: 'return': conversion from 'std::_Atomic_integral_t' to 'long', signed/unsigned mismatch [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+         n:\program files\vc\tools\msvc\14.10.25017\include\thr\xthread(253): warning C4625: 'std::_LaunchPad<_Target>': copy constructor was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+         n:\program files\vc\tools\msvc\14.10.25017\include\thr\xthread(253): warning C4626: 'std::_LaunchPad<_Target>': assignment operator was implicitly defined as deleted [N:\Code\Git\coreclr\bin\tests\obj\Windows_NT.x64.Debug\Native\src\Exceptions\ForeignThread\ForeignThreadExceptionsNative.vcxproj]
+
+    10 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:16.90

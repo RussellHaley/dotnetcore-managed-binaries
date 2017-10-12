@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Collections\netcoreapp\SR.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Collections/netcoreapp/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\obj\Windows_NT.AnyCPU.Debug\System.Collections\netcoreapp\_AssemblyInfo.cs">
+      <TargetPath>sources/bin/obj/Windows_NT.AnyCPU.Debug/System.Collections/netcoreapp/_AssemblyInfo.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Collections\netcoreapp\System.Collections.dll">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\bin\Windows_NT.AnyCPU.Debug\System.Collections\netcoreapp\System.Collections.pdb">
+      <TargetPath>
+      </TargetPath>
+      <TargetFramework>netcoreapp2.1</TargetFramework>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\ArrayBuilder.cs">
+      <Link>Common\System\Collections\Generic\ArrayBuilder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/ArrayBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\EnumerableHelpers.cs">
+      <Link>Common\System\Collections\Generic\EnumerableHelpers.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/EnumerableHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\Generic\LargeArrayBuilder.cs">
+      <Link>Common\System\Collections\Generic\LargeArrayBuilder.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/Generic/LargeArrayBuilder.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\Collections\HashHelpers.cs">
+      <Link>Common\System\Collections\HashHelpers.cs</Link>
+      <TargetPath>sources/src/Common/src/System/Collections/HashHelpers.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\Common\src\System\SR.cs">
+      <Visible>true</Visible>
+      <Link>Resources/Common/SR.cs</Link>
+      <TargetPath>sources/src/Common/src/System/SR.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\BitArray.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/BitArray.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\BitHelper.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/BitHelper.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\CollectionExtensions.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/CollectionExtensions.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\HashSet.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/HashSet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\HashSetEqualityComparer.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/HashSetEqualityComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\ICollectionDebugView.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/ICollectionDebugView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\IDictionaryDebugView.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/IDictionaryDebugView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\LinkedList.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/LinkedList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\Queue.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/Queue.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\QueueDebugView.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/QueueDebugView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\SortedDictionary.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/SortedDictionary.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\SortedList.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/SortedList.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\SortedSet.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/SortedSet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\SortedSet.TreeSubSet.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/SortedSet.TreeSubSet.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\SortedSetEqualityComparer.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/SortedSetEqualityComparer.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\Stack.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/Stack.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\Generic\StackDebugView.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/Generic/StackDebugView.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\src\System.Collections\src\System\Collections\StructuralComparisons.cs">
+      <TargetPath>sources/src/System.Collections/src/System/Collections/StructuralComparisons.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+    <LibFile Include="N:\Code\Git\corefx\Tools\AssemblyInfoPartial.cs">
+      <Visible>true</Visible>
+      <Link>Properties/_AssemblyInfo.cs</Link>
+      <TargetPath>sources/Tools/AssemblyInfoPartial.cs</TargetPath>
+      <IsSourceCodeFile>true</IsSourceCodeFile>
+    </LibFile>
+  </ItemGroup>
+</Project>
